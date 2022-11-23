@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Leaflet-Test: 16. Jahrhundert</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+     integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+     crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+     integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg="
+     crossorigin=""></script>
+    <script type='text/javascript' src=".\leaflet.ajax.min.js"></script>
+    <style>#map { height: 768px; width: 1280px }</style>
+  </head>
+  
+  <body>
+  
+    <div id="map"></div>
+    
+    <script>
+      // Initialisierung der Hintergrundkarte
+      var map = L.map('map').setView([40, 0], 3);
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19,attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+      // Style der Marker für Punktobjekte
+      var testMarker = {
+        radius: 8,
+        fillColor: "#ff1800",
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+      };
+      //Import der GeoJson-Layer
+      var testLayer = new L.GeoJSON.AJAX("./ner-results/Z15657730X.geojson", {
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, testMarker);
+      }});
+      var testLayer2 = new L.GeoJSON.AJAX("./ner-results/Z15958790X.geojson", {
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, {fillColor: "#fa4800"});
+      }});
+      //Darstellung der GeoJson-Layer
+      testLayer.on('data:loaded', function(){
+        testLayer.addTo(map);
+      });
+      testLayer2.on('data:loaded', function(){
+        testLayer2.addTo(map);
+      });
+      // Nicht funktionsfähiger Stylewechsel
+      testLayer.setStyle({fillColor: "#fa4800"});
+    </script>
+    
+  </body>
+  
+</html>
