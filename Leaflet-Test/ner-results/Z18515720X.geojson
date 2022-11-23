@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bonas",
+        "occurrences": 1,
+        "gazetteer_title": "Bon\u00e4s",
+        "gazetteer_uri": "http://sws.geonames.org/2720585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48863,
+          61.0741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cap",
+        "occurrences": 27,
+        "gazetteer_title": "Harbin",
+        "gazetteer_uri": "http://sws.geonames.org/2037013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.65,
+          45.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Faro",
+        "occurrences": 1,
+        "gazetteer_title": "Faro",
+        "gazetteer_uri": "http://sws.geonames.org/2268339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.92716,
+          37.01869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Florida",
+        "occurrences": 1,
+        "gazetteer_title": "Floridablanca",
+        "gazetteer_uri": "http://sws.geonames.org/3682385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08644,
+          7.06222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hirschen",
+        "occurrences": 1,
+        "gazetteer_title": "Zgon",
+        "gazetteer_uri": "http://sws.geonames.org/753314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.39838,
+          53.65019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hispania",
+        "occurrences": 3,
+        "gazetteer_title": "Hispania",
+        "gazetteer_uri": "http://sws.geonames.org/3680857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90718,
+          5.79925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "India",
+        "occurrences": 3,
+        "gazetteer_title": "Indian Subcontinent",
+        "gazetteer_uri": "http://sws.geonames.org/6269134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97021,
+          22.20775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 10,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Kalles",
+        "occurrences": 1,
+        "gazetteer_title": "Kalis",
+        "gazetteer_uri": "http://sws.geonames.org/782906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.36667,
+          41.83889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Lieme",
+        "occurrences": 2,
+        "gazetteer_title": "Lieme",
+        "gazetteer_uri": "http://sws.geonames.org/2877850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.82803,
+          52.02599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Meeth",
+        "occurrences": 1,
+        "gazetteer_title": "Meeth",
+        "gazetteer_uri": "http://sws.geonames.org/2642826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0644,
+          50.8553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Noster",
+        "occurrences": 1,
+        "gazetteer_title": "Knob Noster",
+        "gazetteer_uri": "http://sws.geonames.org/4393816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.55855,
+          38.76668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "N\u00fcrnberg",
+        "occurrences": 2,
+        "gazetteer_title": "N\u00fcrnberg",
+        "gazetteer_uri": "http://sws.geonames.org/2861650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07752,
+          49.45421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Para",
+        "occurrences": 1,
+        "gazetteer_title": "Bel\u00e9m",
+        "gazetteer_uri": "http://sws.geonames.org/3405870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.50444,
+          -1.45583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Peru",
+        "occurrences": 10,
+        "gazetteer_title": "Peru",
+        "gazetteer_uri": "http://sws.geonames.org/4975080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40534,
+          44.50673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Portugal",
+        "occurrences": 5,
+        "gazetteer_title": "Little Portugal",
+        "gazetteer_uri": "http://sws.geonames.org/7870917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42956,
+          43.64663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sabaja",
+        "occurrences": 1,
+        "gazetteer_title": "Sabaya",
+        "gazetteer_uri": "http://sws.geonames.org/3906201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.37204,
+          -19.01577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sachsen",
+        "occurrences": 1,
+        "gazetteer_title": "Sachsen",
+        "gazetteer_uri": "http://sws.geonames.org/2842568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65971,
+          49.28999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Seelandt",
+        "occurrences": 1,
+        "gazetteer_title": "Zeeland",
+        "gazetteer_uri": "http://sws.geonames.org/2744014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67639,
+          51.6975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Signora",
+        "occurrences": 1,
+        "gazetteer_title": "Possessione Signora",
+        "gazetteer_uri": "http://sws.geonames.org/8970838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82344,
+          44.86938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Vincendo",
+        "occurrences": 1,
+        "gazetteer_title": "Vincendo",
+        "gazetteer_uri": "http://sws.geonames.org/935126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.67013,
+          -21.37104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Virginia",
+        "occurrences": 1,
+        "gazetteer_title": "Virginia Beach",
+        "gazetteer_uri": "http://sws.geonames.org/4791259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97799,
+          36.85293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "j",
+        "occurrences": 1,
+        "gazetteer_title": "Francisco J. M\u00fajica",
+        "gazetteer_uri": "http://sws.geonames.org/8865217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.64715,
+          17.37406
+        ]
+      }
+    }
+  ]
+}

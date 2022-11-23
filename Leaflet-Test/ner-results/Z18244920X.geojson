@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Baiern",
+        "occurrences": 1,
+        "gazetteer_title": "Baiern",
+        "gazetteer_uri": "http://sws.geonames.org/2953204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91407,
+          47.96582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Baumbach",
+        "occurrences": 1,
+        "gazetteer_title": "Baumbach",
+        "gazetteer_uri": "http://sws.geonames.org/2952039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.66943,
+          51.02402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bopfingen",
+        "occurrences": 1,
+        "gazetteer_title": "Bopfingen",
+        "gazetteer_uri": "http://sws.geonames.org/6558024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3553,
+          48.85785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Brandenburg",
+        "occurrences": 2,
+        "gazetteer_title": "Brandenburg an der Havel",
+        "gazetteer_uri": "http://sws.geonames.org/2945358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          52.41667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Brixen",
+        "occurrences": 1,
+        "gazetteer_title": "Brixen im Thale",
+        "gazetteer_uri": "http://sws.geonames.org/2781394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25,
+          47.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Chur",
+        "occurrences": 1,
+        "gazetteer_title": "Chur",
+        "gazetteer_uri": "http://sws.geonames.org/567554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.96948,
+          57.11639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Ciro",
+        "occurrences": 1,
+        "gazetteer_title": "Ciro",
+        "gazetteer_uri": "http://sws.geonames.org/8972041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78458,
+          44.73945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Colmar",
+        "occurrences": 1,
+        "gazetteer_title": "Colmar",
+        "gazetteer_uri": "http://sws.geonames.org/4888425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.89125,
+          40.34532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "F\u00fcrstenberg",
+        "occurrences": 1,
+        "gazetteer_title": "F\u00fcrstenberg",
+        "gazetteer_uri": "http://sws.geonames.org/2923640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74181,
+          51.51581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "F\u00fcrstenfeld",
+        "occurrences": 1,
+        "gazetteer_title": "F\u00fcrstenfeld",
+        "gazetteer_uri": "http://sws.geonames.org/2779115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.08333,
+          47.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gengenbach",
+        "occurrences": 1,
+        "gazetteer_title": "Gengenbach",
+        "gazetteer_uri": "http://sws.geonames.org/6558104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0075,
+          48.4106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Herrberg",
+        "occurrences": 1,
+        "gazetteer_title": "Herrberg",
+        "gazetteer_uri": "http://sws.geonames.org/2905851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2,
+          51.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 1,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "L\u00fcttich",
+        "occurrences": 3,
+        "gazetteer_title": "Li\u00e8ge",
+        "gazetteer_uri": "http://sws.geonames.org/2792413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56749,
+          50.63373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "M\u00fcnchen",
+        "occurrences": 3,
+        "gazetteer_title": "Munich",
+        "gazetteer_uri": "http://sws.geonames.org/2867714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57549,
+          48.13743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "N\u00f6rdlingen",
+        "occurrences": 1,
+        "gazetteer_title": "N\u00f6rdlingen",
+        "gazetteer_uri": "http://sws.geonames.org/2861914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48868,
+          48.85122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Obern",
+        "occurrences": 1,
+        "gazetteer_title": "Auburn",
+        "gazetteer_uri": "http://sws.geonames.org/5785965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22845,
+          47.30732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Osterreich",
+        "occurrences": 1,
+        "gazetteer_title": "Republic of Austria",
+        "gazetteer_uri": "http://sws.geonames.org/2782113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33333,
+          47.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Pfalz",
+        "occurrences": 2,
+        "gazetteer_title": "Landau in der Pfalz",
+        "gazetteer_uri": "http://sws.geonames.org/2881646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11692,
+          49.19844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Rotenburg",
+        "occurrences": 1,
+        "gazetteer_title": "Rotenburg an der Fulda",
+        "gazetteer_uri": "http://sws.geonames.org/2844434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.72838,
+          50.99556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Rotten",
+        "occurrences": 1,
+        "gazetteer_title": "Retowo",
+        "gazetteer_uri": "http://sws.geonames.org/3087178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.12357,
+          54.63257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "R\u00f6",
+        "occurrences": 4,
+        "gazetteer_title": "R\u00f6 kyrka",
+        "gazetteer_uri": "http://sws.geonames.org/8128552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38929,
+          59.69672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sachsen",
+        "occurrences": 9,
+        "gazetteer_title": "Sachsen",
+        "gazetteer_uri": "http://sws.geonames.org/2842568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65971,
+          49.28999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Salzburg",
+        "occurrences": 4,
+        "gazetteer_title": "Salzburg",
+        "gazetteer_uri": "http://sws.geonames.org/2766824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04399,
+          47.79941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Schwarzenburg",
+        "occurrences": 1,
+        "gazetteer_title": "Schwarzenburg",
+        "gazetteer_uri": "http://sws.geonames.org/2658680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.34208,
+          46.81811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Schweinfurt",
+        "occurrences": 1,
+        "gazetteer_title": "Landkreis Schweinfurt",
+        "gazetteer_uri": "http://sws.geonames.org/3220896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25238,
+          50.0068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Steyr",
+        "occurrences": 1,
+        "gazetteer_title": "Aschach an der Steyr",
+        "gazetteer_uri": "http://sws.geonames.org/2782370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33544,
+          48.01312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Stra\u00dfburg",
+        "occurrences": 1,
+        "gazetteer_title": "Strasbourg",
+        "gazetteer_uri": "http://sws.geonames.org/2973783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74553,
+          48.58392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Trier",
+        "occurrences": 1,
+        "gazetteer_title": "Trier",
+        "gazetteer_uri": "http://sws.geonames.org/2821164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63935,
+          49.75565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Worms",
+        "occurrences": 1,
+        "gazetteer_title": "Worms",
+        "gazetteer_uri": "http://sws.geonames.org/5082256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.26895,
+          41.09723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "burg",
+        "occurrences": 1,
+        "gazetteer_title": "Burg",
+        "gazetteer_uri": "http://sws.geonames.org/2941497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25891,
+          53.99708
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bulgaria",
+        "occurrences": 1,
+        "gazetteer_title": "Bulgaria",
+        "gazetteer_uri": "http://sws.geonames.org/3181423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32595,
+          44.11269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Griechenland",
+        "occurrences": 2,
+        "gazetteer_title": "Hellenic Republic",
+        "gazetteer_uri": "http://sws.geonames.org/390903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gurch",
+        "occurrences": 1,
+        "gazetteer_title": "K\u016bh-e Valeh Now",
+        "gazetteer_uri": "http://sws.geonames.org/1118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36059,
+          36.1456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Machin",
+        "occurrences": 1,
+        "gazetteer_title": "Machin",
+        "gazetteer_uri": "http://sws.geonames.org/6063003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21705,
+          49.73334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "NY",
+        "occurrences": 1,
+        "gazetteer_title": "New York City",
+        "gazetteer_uri": "http://sws.geonames.org/5128581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Szana",
+        "occurrences": 1,
+        "gazetteer_title": "Sz\u00e1na-b\u00e9rc",
+        "gazetteer_uri": "http://sws.geonames.org/715515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.43333,
+          48.1
+        ]
+      }
+    }
+  ]
+}
