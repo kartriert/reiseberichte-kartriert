@@ -27,11 +27,17 @@ def delete_specials(txt):
     # Remove non-word characters
     """
     Fragen!
-    -> Müssen die vielen Reihen an Sonderzeichen (zB an Stelle von Bildern) weg? Einzig relevant wären sie für die Stelle im Text (damit das nicht verfälscht wird)
-    -> Die Sonderzeichen im Text selbst müssen nur raus, wenn dadurch Ortsnamen lesbarer werden. Einige sollten drinbleiben (Punkte, Kommas) für die Lesbarkeit (oder nicht, weil es nicht manuell durchgeguckt wird?)
-    Erst Zeilenumbrüche korrigieren, dann - rauslöschen? Ausnahmen: links und rechts davon buchstaben / ein leerzeichen und buchstaben
+    → Müssen die vielen Reihen an Sonderzeichen (zB an Stelle von Bildern) weg? Einzig relevant wären sie für die Stelle im Text (damit das nicht verfälscht wird)
+    → Die Sonderzeichen im Text selbst müssen nur raus, wenn dadurch Ortsnamen lesbarer werden. Einige sollten drinbleiben (Punkte, Kommas) für die Lesbarkeit (oder nicht, weil es nicht manuell durchgeguckt wird?)
+    → Erst Zeilenumbrüche korrigieren, dann - rauslöschen? Ausnahmen: links und rechts davon buchstaben / ein leerzeichen und buchstaben
     """
     output_txt = re.sub(r"[^a-zA-Z0-9-,üöäß.;]", " ", txt)
+
+    output_txt = re.sub('aͤ', 'ä', output_txt)
+    output_txt = re.sub('uͤ', 'ü', output_txt)
+    output_txt = re.sub('oͤͤ', 'ö', output_txt)
+    # output_txt = re.sub('ey', 'ei', output_txt)
+
     return output_txt
 
 
