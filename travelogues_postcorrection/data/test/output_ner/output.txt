@@ -1,0 +1,475 @@
+2022-12-01 08:37:25,705 loading file /Users/sarahreb/.flair/models/flair-historic-ner-onb/63111d37e8f19b08b01200ec38cd2b093d72026e56bbe99a7b25b6e3f8b7da8d.d53b1d9a206921442955a318ba5bbef2af5aabb93c4713d1ed3b8fe8c28cda3f
+2022-12-01 08:37:29,722 SequenceTagger predicts: Dictionary with 16 tags: <unk>, O, S-PER, S-LOC, B-PER, E-PER, S-ORG, B-LOC, E-LOC, I-PER, B-ORG, E-ORG, I-LOC, I-ORG, <START>, <STOP>
+Sentence: "0001 0002 0003 0004 0005 0006 Abbildung 0007"
+Sentence: "Abbildung 0008 0009 Reyse nach GVINEA , oder ausfu hrliche Beschreibung dasiger GoldGruben ElephantenZa hn und SclavenHandels nebst derer Einwohner" → ["GVINEA"/LOC]
+Sentence: "Sitten Religion"
+Sentence: "Regiment"
+Sentence: "Kriegen"
+Sentence: "Heyrathen und Begra bnissen auch allen hieselbst befindlichen Thieren so bishero in Europa unbekandt gewesen ." → ["Europa"/LOC]
+Sentence: "Jm Frantzo sischen herausgegeben durch Wilhelm Boßmann gewesenen Rahtsherrn OberKauffmann und Landes" → ["Wilhelm Boßmann"/PER]
+Sentence: "UnterCommandeur von der Holla ndischOst-Jndischen Compagnie ." → ["ndischOst-Jndischen Compagnie"/ORG]
+Sentence: "Nun aber ins Hochteutsche u bersetzet und mit Kupffern gezieret ."
+Sentence: "Hamburg" → ["Hamburg"/LOC]
+Sentence: ""
+Sentence: "Jn Verlegung Samuel Heyl" → ["Samuel Heyl"/PER]
+Sentence: "und Johann Gottfried Liebezeit" → ["Johann Gottfried Liebezeit"/PER]
+Sentence: "M DCCVIII"
+Sentence: "."
+Sentence: "0010 0011 Vorrede ."
+Sentence: "ES ist insgemein bey allen Autoribus die u bliche Gewohnheit daß sie vor ihre Schrifften eine Vorrede setzen"
+Sentence: "Einige halten sie vor eine blosse Zierath und kein wesentliches Stu ck ihrer Bu cher ."
+Sentence: "Andre aber vor eine unumga ngliche Nothwendigkeit aus folgenden Ursachen erstens weil die Vorrede einen Vorschmack giebet alles dessen was und wie der Autor solches abzuhandeln gesinnet" → ["Andre"/PER]
+Sentence: "sey vermittelst welcher die vom Autore beliebte Ordnung und Einrichtung der Materie gar leichtlich zu begreiffen ;"
+Sentence: "zweytens weil man aus der Vorrede von Fa higkeit eines Autoris urtheilen kan folglich einiges Vergnu gen aus dessen Werck sich versprechen ."
+Sentence: "Doch lasse ich dieses unausgemachet und folge dem Exempel derer letzteren ."
+Sentence: "Es ist aber nunmehro die Welt mit so vie 0012 Vorrede ."
+Sentence: "vielen Bu chern angefu llet"
+Sentence: "daß fast unmo glich scheinet etwas Neues vorzubringen"
+Sentence: "dafern man nicht eine neue Welt entdecket angesehen fast kein Land keine Nation zu finden daru ber nicht allbereit"
+Sentence: "viele Scribenten"
+Sentence: "sich mu de geschrieben so daß ich schier in Bedencken gestanden mit dieser meiner neuen Arbeit hervorzukommen ."
+Sentence: "Doch habe ich das alte Sprichwort derer Ro mer wahr machen wollen Africa bringe alle Tage was Neues in Ansehung" → ["Ro mer"/PER, "Africa"/LOC]
+Sentence: "daß das Land Gvinea , welches einen Theil von Africa , und nicht von WestJndien wie einige davor halten ausmachet denn dieses ja in America , folglich in einem gantz andren Theil der Welt lieget nicht nur uns sondern auch allen Europa ern meistentheils noch sehr unbekandt und wenig gru ndliches davon im Druck gemein gemachet worden ohne was hin und wieder in Bu chern gefunden wird ." → ["Gvinea"/LOC, "Africa"/LOC, "WestJndien"/LOC, "America"/LOC, "Europa"/LOC]
+Sentence: "Dieses aber bestehet mehrentheils in lautern Ma hrlein und hat wenig Grund so daß wir bis hieher eine sehr zerstu mmelte Nachricht von Gvinea gehabt haben ." → ["Gvinea"/LOC]
+Sentence: "Nun habe ich jederzeit auf gute Bu cher insonderheit aber Geschicht - und ReyseBeschreibunge sehr viel gehalten in Ansehung des 0013 Vorrede ."
+Sentence: "des daraus entstehenden grossen Nutzens vermittelst welchem unterschiedlicher Vo lcker Sitten und LebensArten wir uns bekandt machen folglich die uns gleichsam angebohrne Neugierigkeit einigen Theils beruhigen ko nnen ."
+Sentence: "So daß ich von zarter Jugend an nichtes hefftiger geliebet als eine von glaubwu rdiger Hand geschriebene ReyseBeschreibung ."
+Sentence: "So groß aber die Begierde war zu einer aufrichtigen und unverfa lschten so und noch viel"
+Sentence: "gro"
+Sentence: "sser war der Abscheu und Eckel den ich wider diejenigen spu rete welche an statt der Wahrheiten lauter Lu gen mit untermischen ;"
+Sentence: "denn weil solche Leute niemahls ausserhalb der Stadt sich wagen"
+Sentence: ""
+Sentence: "mu ssen sie alles vor richtig und wahr annehmen was ihnen von fremden La ndern vorgeschwatzet wird eben wie dorten der Aristoteles auf empfangenen Befehl vom Alexander , er mo chte die Natur aller Thiere beschreiben alle Wandersleute zu sich fodern liesse und nach deren Aussage sein Werck vollfu hrete ." → ["Aristoteles"/PER, "Alexander"/PER]
+Sentence: "Man ko nte diesem noch einiger massen solches zu gute halten weil zu der Zeit die Welt noch nicht so sehr durchwandert oder bekandt war heute zu Tage aber wu rde derjenige Autor sehr tho richt handeln und sich zum 2 0014"
+Sentence: "Vorrede ."
+Sentence: "zum Gela chter aller Reysenden darstellen der seine Beschreibung auf dieser ihren Mund gru nden wolte indem er besorgen"
+Sentence: "mu ste"
+Sentence: "es"
+Sentence: "wu rden ihn diese Leute selbst einiger Unwahrheiten"
+Sentence: "u berfu hren und vor einen Ma hrleinErzehler ausschelten ."
+Sentence: "Dannenhero habe ich nicht verschweigen ko nnen was einige Autores im letzten Jahrhundert aus anderer Leute Ma uler ohne die selbsteigene Erfahrung herausgegeben vielmehr aber" → ["Dannenhero"/PER]
+Sentence: "ho chst no thig gefunden"
+Sentence: "dieselbige in ihren u bel gegru ndeten Beschreibungen eines besseren zu u berfu hren und der gantzen Welt die eigentliche Wahrheit zu erkennen zu geben ."
+Sentence: "Solten hiedurch einige geru hret seyn und meine gegenwa rtige Arbeit so wie sie gedrohet durchhecheln wollen will ich dieses zum Trost nehmen daß sie keine Lu gen darinn finden werden ."
+Sentence: "Gestalt denn dieses unter andern Ursachen mich am meisten bewogen Europa zu verlassen und diejenige Wahrheiten so ich in vielen ReyseBeschreibungen gelesen mit meinen Augen zu untersuchen ." → ["Europa"/LOC]
+Sentence: "Es hat mir das Glu ck in den 13 . Jahren so ich in Gvinea zu gebracht hiezu sonderliche Gelegenheit gegeben so daß schier kein Ort im gantzen Lande wo ich nicht einige Zeitlang gewohnet folg" → ["Gvinea"/LOC]
+Sentence: "lich 0015 Vorrede ."
+Sentence: "lich meine eigene Erfahrung zum Zeugen ruffen ko"
+Sentence: "nne ."
+Sentence: "Da nun aber wie mich du nckte nicht genung war meine eigene Neugierigkeit zu befriedigen wenn nicht auch der Na chste hiedurch gebessert"
+Sentence: "wu rde und daß alles wie scho n es auch im er seyn mo"
+Sentence: "chte dennoch seine Scho nheit verliehre fals es"
+Sentence: "bey mir alleine bliebe bin ich insonderheit veranlasset worden"
+Sentence: "alles was ich mit grossem Vergnu gen gesehen in gegenwa rtige Bla tter zusammen zu tragen und dem vielen Anhalten einiger guten Freunde wie solches aus dem Anfang ersteren SendSchreibens erhellet Geho r zu geben ."
+Sentence: "Jst demnach ohne ferneren Auffenthalt mein einiges Absehen dieses gewesen daß ich einen umsta ndlichen Bericht hiesieger La nder abbilden"
+Sentence: "mo chte damit insku nfftige diejenigen welche allhie ihr Glu ck suchen oder auch unsere bisherige Zwistigkeiten schlichten wolten ihre Mesures darnach nehmen ko nnten ." → ["Mesures"/PER]
+Sentence: "Jch zweiffle nicht es werde bey einigen guten Nutzen schaffen lasse mich auch an statt einer Belohnung vor alle meine Mu he und Unkosten mit einer gu tigen Aufnahm gerne genu gen ."
+Sentence: "Zwar hatte ich anfa nglich meine Arbeit in 5 . Bu cher und no thige Capitel eingethei let 3"
+Sentence: "0016"
+Sentence: "Vorrede ."
+Sentence: "let ."
+Sentence: "Das erstere handelte von der Beschaffenheit des Landes wo das Gold gefunden wird wie groß und wie solches beschaffen"
+Sentence: "sey in wie viel La nder es eingetheilet wie fruchtbar und was derer Einwohner meiste Arbeit"
+Sentence: "sey ."
+Sentence: "Das Zweyte von denen Einwohnern insgesamt wie sie gesinnet was fu r Sitten und Gebra uche Gottesdienst Regierung und Haushaltung sie fu hren ."
+Sentence: ""
+Sentence: "Das Dritte von der Handlung wie dieselbige fortgesetzet werde theils von unserer Compagnie , theils auch andern Europa ern und denen Mohren daselbst ." → ["Europa"/LOC]
+Sentence: "Das Vierdte von allen so zahmen als wilden vierfu ssigen Thieren des Landes von Ungeziefer Vo geln Fischen Feld - und BaumFru chten ."
+Sentence: "Das Fu nffte und Letzte von den Ko nigreichen Landingcour , Coto , zweyen Popos , dem scho nen Lande Fida , und endlich von meiner im Jahr 1690 . angestelleten Reyse ." → ["Landingcour"/PER, "Coto"/PER, "Fida"/LOC]
+Sentence: "Nachgehends aber habe ich Gelegenheit bekommen mein Vornehmen zu a ndern und das gantze Werck in Briefen vorzustellen die ich mit obbesagtem Freunde gewechselt ."
+Sentence: "So daß ich selbiges in 22 . Briefen zusammen gefasset deren jeder so vieles in sich ha lt als 0017 Vorrede ."
+Sentence: "als die Zeit hat zulassen wollen ."
+Sentence: "Die hinten an stehende zwey letzte Briefe sind mir durch zwey Persohnen zugeschickt worden welche in der Compagnie Dienste stehen und von Beschaffenheit gewisser La nder dahin ich niemahls gekommen handeln ."
+Sentence: "Jch hoffe nicht mit der gea nderten Eintheilung dem Leser einigen Mißfallen zu erwecken um so viel weuiger weil ein jeder Brief etwas neues darstellet und folglich um ein merckliches angenehmer ."
+Sentence: "Nur dieses habe ich offtermals beklaget daß ich nicht zeichnen gelernet insonderheit weil im gantzen Lande keine Seele zu finden so hierinn"
+Sentence: "wa"
+Sentence: "re erfahren gewesen ;"
+Sentence: "wenigstens geda chte ich mein Buch viel ansehnlicher zu machen fals es in beho rigen Kupfern alle die unbekandte Dinge aufzeigen"
+Sentence: "ko nte davon"
+Sentence: "die Rede ist folglich den Augen als edelstem Theile des Leibes die schuldige Vergnu gung geben ."
+Sentence: "Endlich da ich schon ziemlich weit in meiner Arbeit gekommen"
+Sentence: "fande sich ein solche Ku nstle"
+Sentence: "dem ich deswegen ohne ZeitVerlust unterschiedliches zu thun gabe und den Abriß von allen Vestungen machen liesse welche von Elmina Ostwerts liegen , und theils denen Engella ndern und Holla ndern theils denen" → ["Elmina"/LOC, "Ostwerts"/LOC]
+Sentence: "Da h 4 0018"
+Sentence: "Vorrede ."
+Sentence: ""
+Sentence: "Da hnen zusta ndig seyn ."
+Sentence: "Reysete auch selbst mit ihm im Lande herum und zeigete ihm diese Vestungen damit er so viel besser zu rechte kommen" → ["Reysete"/PER]
+Sentence: "ko"
+Sentence: "nte weil ich ohne dem vom Herrn General Sevenhuifen in Sachen der Compagnie etwas zu verrichten hatte" → ["Sevenhuifen"/PER]
+Sentence: "Nachdem hat er auch die Thiere so ich vor uns daher leiten liesse sehr natu rlich abgezeichnet worinn er viel fertiger war als in VestungsRissen so daß ich hoffe man werde in jenen keine sonderliche Fehler finden es sey denn in gewissen GrundRegeln der MahlerKunst welche von denen Unerfahrnen nicht beobachtet werden ."
+Sentence: "Allein kaum hatte ich mich entschlossen mit diesem Menschen von Elmina Westwerts zu reysen so u berschnellete ihn der nichts verschonende Todt in sehr wenig Tagen daß also mein angefangen Werck nicht vollfu hren konte ." → ["Elmina"/PER]
+Sentence: "Massen ich seit dem keinen Menschen angetroffen der mir hierinn"
+Sentence: "ha"
+Sentence: "tte behu"
+Sentence: "lfflig seyn ko nnen wird also hoffentlich der Leser mit gegenwa rtigem zufrieden seyn ."
+Sentence: "Anitzo bitte diejenigen so dieses Buch lesen werden nicht u bel auszulegen noch sich zu a rgern" → ["Anitzo"/PER]
+Sentence: "wenn an einigen Oertern etwas freye RedensArten brauche ."
+Sentence: "Mein"
+Sentence: "Ab 0019 Vorrede ."
+Sentence: "Absehen ist nicht jemanden dadurch zu beleidigen sondern bloß und allein unsere Nachko mmlinge zu unterrichten"
+Sentence: "daß sie sich deren zu gewisser Zeit und Nutzen bedienen ko nnen ."
+Sentence: "Dafern sich aber jemand touchiret befinden solte"
+Sentence: "sey derjenige versichert daß ich gar nicht zu rnen werde weil nicht no thig zu seyn erachte"
+Sentence: "daß man die Wahrheit verheele um eines andern Unrechtma ßigkeit nicht zu entdecken ."
+Sentence: "Solten auch hingegen andre gutgesinnete Leute seyn welche u ber ein oder andre Oerter no thige Erkla rung verlangen bin ich jederzeit willig und bereit angesehen alles dasjenige was hierinnen befindlich gegen jederman mit geziemender Ho fflichkeit zu behaupten gedencke ."
+Sentence: "Sonsten habe ich mich mo glichster Ku rtze beflissen ohne welche ich noch ein so grosses Buch ha tte verfertigen ko nnen wenn ich entweder unterschiedliche Kleinigkeiten mit eingeschoben oder auch die darinnen verhandelte Begebenheiten weitla ufftiger ausgefu hret ha tte ."
+Sentence: "Allein ich lasse es auf das Urtheil versta ndiger Leute ankommen und glaube nicht daß durch solche Ku rtze dem Leser einiger Verdruß erwachsen werde da vielmehr derselbe bey ei ner 5 . 0020 Vorrede ."
+Sentence: "ner langwierigen Beschreibung an statt der Vergnu gung nichts als Verdruß und Widerwillen finden wu rde ."
+Sentence: "Womit ich schliesse und von Hertzen wu nsche daß der Leser mit gegenwa rtiger meiner Arbeit gedienet vergnu get und belustiget seyn mo ge ."
+Sentence: "Dagegen ich mich verbinden werde zu seyn"
+Sentence: "Dessen Untertha nigster Diener Wilhelmus Bosman ." → ["Wilhelmus Bosman"/PER]
+Sentence: "J. N. 1"
+Sentence: "0021 J . N. J. C ."
+Sentence: "Eine Neue Beschreibung des Landes GVINEA ."
+Sentence: "Erstes SendSchreiben ."
+Sentence: "Darinnen gehandelt wird vom Lande Gvinea insgemein von der Landschafft Axim insonderheit ;" → ["Gvinea"/LOC]
+Sentence: "Was die Holla nder und Brandenburgische hierinnen besitzen ;"
+Sentence: "Von der u blen Regierung derer Letzte ;"
+Sentence: "Endlich von dem Fluß Cobre , und dem Unglu ck so sich daselbst in einer Festung zugetragen ." → ["Cobre"/PER]
+Sentence: "Mein Herr JCh habe aus dessen Brieff welchen mir der Capitain vom 1. Decembr ." → ["JCh"/PER]
+Sentence: "1700 ."
+Sentence: "eingeha ndiget mit sonderlichem Vergnu gen ersehen wie daß meine Sachen einen guten Fortgang genommen"
+Sentence: "welches"
+Sentence: "ich"
+Sentence: "A"
+Sentence: "2 0022"
+Sentence: "Beschreibung"
+Sentence: "ich allein dessen Fleiß und wohlgegru ndeten Vorsorge zuzuschreiben habe ;"
+Sentence: "Dannenhero nicht weniger thun kan als daß ich davor hohen Danck abstatte und die Versicherung gebe mit allen meinen Vermo gen dahin bedacht zu seyn daß ich vor dessen erwiesene Dienstwilligkeit erkenntlich seyn mo ge ;" → ["Dannenhero"/PER]
+Sentence: "Jedennoch kan"
+Sentence: "selbiges nicht ohne Mu he von mir geschehen auf die Art wie ihr es verlanget"
+Sentence: "ich"
+Sentence: "meyne wenn ich eine gru ndliche und genaue Beschreibung von diesem Lande euch zusenden soll dann ohngeachtet ich billig eine vollkommene Wissenschafft davon haben solte weil ich so lange alhie gewohnet und folglich geschickt genug seyn demselben ein Genu gen zu thun sind nichts destoweniger Ursachen genug die mir hierin einen WiderSinn verursachen deren zwey vornehmsten folgende sind ."
+Sentence: "Erstlich daß ich meiner Unvermo genheit so viel nicht zutraue welche mich"
+Sentence: "u berfu hret daß es unmo glich"
+Sentence: "sey"
+Sentence: "euch zu Willen zu leben"
+Sentence: "weil meine geringe Feder nicht in geho riger Ordnung die Sachen wird vortragen ko nnen so ich zu erwehnen habe ."
+Sentence: "Die zweyte Ursache so noch wichtiger ist"
+Sentence: "ist diese daß dafern ich in Diensten der OstJndischen Compagnie lebte mir wol erlaubt wa re ihren Zustand zu entdecken ;" → ["OstJndischen Compagnie"/ORG]
+Sentence: "Nun aber da ich in solcher Ungewißheit mich befinde habe ich gewu nschet"
+Sentence: "einer so beschwerlichen Last entohniget zu seyn damit wir beyde nicht in Gesahr kommen"
+Sentence: "mo chten"
+Sentence: "so uns zu fru he gereuen do rffte ."
+Sentence: "Allein ich habe so viel Liebe und Freundschafft vor euch daß mit Hindansetzung aller solcher Schwerigkeit dennoch suchen will eurem Verlangen abzuhelffen doch mit der Bedingung daß ihr meine SchreibArt bestens deuten und selbige vermo ge eurer gewo"
+Sentence: "hnli chen 3 0023 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "chen Gu te vollkommen machen wollet"
+Sentence: "euch versicherend daß es mir an guten Willen nicht gefehlet wenn ihr die geho rige Vollkommenheit nicht finden werdet ."
+Sentence: "Damit ich nun auf euer Schreiben komme finde ich daß ihr insonderheit verlanget zu wissen wie dasjenige Land beschaffen darinn euer Vetter vor weniger Zeit durch den Herrn General gesetzet ist ;"
+Sentence: "Es nennet sich solches Axim , ein gebauetes und sehr bewohntes Land darinnen u beraus scho ne Dorffschafften in grosser Menge sowol nach dem Meer hin als auch tieffer im Lande anzutreffen davon die gro sste nach dem Meer zu unter den Holla ndisch - und Brandenburgischen Festungen stehen"
+Sentence: "fu r allen aber sind die Holla ndischen am merckwu rdigsten ."
+Sentence: "Die Vestung so wir nur haben heisset das Fort von S . Antonius , welchen Nahmen ihm die Portugiesen gegeben so vor diesem Meister davon gewesen und ihnen nebst andern Pla tzen im Jahr" → ["S"/PER, "Antonius"/PER]
+Sentence: "1642 ."
+Sentence: "von uns abgenommen worden nachdem wir sie aus andern Oertern mehr die sie besessen"
+Sentence: "hatten heraus gejaget ."
+Sentence: "Und gewiß nicht anders als ob die Portugiesen in alten Zeiten vor rechte Spu hrHunde gebraucht worden welche fremden Nationen zum besten das Wild aufsuchen musten"
+Sentence: "und so bald sie es gefunden denen ankommenden Fremden wieder ausliefern musten"
+Sentence: "indem sie sich die Herrschafft daru ber anmassten ."
+Sentence: "Doch unserm Zweck na her zu kommen so ist dieses Fort nicht gar groß aber zierlich und regulier gebauet wohl gelegen und zu einer zula nglichen Gegenwehr genugsahm versehen indem es seine drey Batterien Brustwehre und Aussenwercke hat u berdem von der Land Seite mit einer hohen Mauer umgeben und mit gnug sahmen"
+Sentence: "A 2"
+Sentence: "4 0024"
+Sentence: "Beschreibung sahmen Canons besetzet ist dergestalt daß bey zula nglichem MundVorrath eine grosse KriegesMacht von denen Einwohnern des Landes ko nte abgehalten werden ."
+Sentence: "Es verdriesset mich daß ich euch den Abriß nicht senden kan wie ich gemeynet habe denn derjenige so es machen sollen noch vor dessen Verfertigung mit Tode abgangen ."
+Sentence: "Jhr do rffet nicht einige Abzeichnung vermuthen von einem oder andern Ort so nach Abend von Elmina , wol aber von denen so gegen Morgen liegen ." → ["Elmina"/LOC]
+Sentence: "Jhr wisset in was Bedienung euer Vetter stehe nehmlich als erster Commissarius , oder vornehmster Kauffmann" → ["Kauffmann"/PER]
+Sentence: "durch Hu lffe seines OberHerrn welcher ist der Herr N . N. und sowol von Seiten der Compagnie , als auch seines Generals , eine unumschrenckte Gewalt hat u ber das gantze Land zumahlen die Einwohner unter seine Jurisdiction geho rige alles was in ihrem Lande geschiehet bey ihm angeben" → ["N."/PER]
+Sentence: "mu ssen und ohne dessen Vorbewust oder Einwilligung nicht die geringste Sache unternehmen viel weniger ausfu hren du rffen ;"
+Sentence: "Und also stehet bey ihm die vo llige Herrschafft u ber das gantze Land vermo ge"
+Sentence: "welcher er nebst einigen vornehmen Ha uptern aus denen Mohren die Ubeltha ter nach Landes Gewohnheit abstraffet ."
+Sentence: "Jn einem andern Briefe will ich mir die Ehre geben ausfu hrlich zu melden wie diese GerichtsVerwaltung geschehe und will anitzo ehe ich weiter gehe ku rtzlich Meldung thun vom Lande Gvinea , und insonderheit von der Gegend da das Gold herkommt und welches wir nebst andern in Besitz haben ." → ["Gvinea"/LOC]
+Sentence: "Gvinea ist ein u beraus grosses Land und in einige" → ["Gvinea"/PER]
+Sentence: "hun 5 0025"
+Sentence: "des Landes Gvin a ." → ["Gvin a"/LOC]
+Sentence: "hundert Stunden ausgebreitet worinnen unzehlbahre Ko nigreiche so groß als klein befindlich sind nebst vielen andern Vo lckern die eine RegierungsArt von einer Republic brauchen ."
+Sentence: "Es finden sich Unterschiedliche so dieses Land beschrieben"
+Sentence: "welche geglaubet haben es wa"
+Sentence: "re"
+Sentence: "Gvinea" → ["Gvinea"/LOC]
+Sentence: "ein"
+Sentence: "ma chtiges Ko nigreich dessen Ko nig nach gewaltsahmer Bezwingung unterschiedlicher La nder"
+Sentence: "ein Ko nigreich daraus gemachet und ihm den Nahmen von Gvinee gegeben ;" → ["Gvinee"/LOC]
+Sentence: "Allein ich hoffe bey Gelegenhett zu erkennen zu geben daß dieses ein grosser Jrrthum aller massen der Nahme Gvinee selbst unter denen Einwohnern nicht bekandt ist und das Ko nigreich von Gvinee nur in der Einbildung bestehe so in der Welt nicht anzutreffen ." → ["Gvinee"/PER, "Gvinee"/LOC]
+Sentence: "Die Gegend wo das Gold herkommt macht einen mercklichen Theil von Gvinea , und ist ohngefehr 60 . Stunden lang nimmt seinen Anfang von dem kleinem GoldFluß 3 . Meilen gegen Abend von Assine , oder zwo lff Meilen oberhalb Axim , und endiget sich bey dem Dorff Pomni , sieben oder acht Stunden gegen Morgen von Aara ." → ["Gvinea"/LOC, "Assine"/LOC, "Axim"/LOC, "Pomni"/LOC, "Aara"/LOC]
+Sentence: "Jch will mich nicht aufhalten das Land zwischen Assine und dem Fluß Cobri , eine Meile oberhalb dem Fort S. Antonii , zu beschreiben angesehen die Handlung anitzo so schlecht daselbst ist daß wir sehr selten dahin" → ["Assine"/LOC, "Cobri"/PER, "Antonii"/PER]
+Sentence: "kom en ."
+Sentence: "Vor 9. 10. Jahren oder noch la nger war die Handlung alda in grossen Aufnehmen seiterdem aber das Land Assine einen Uberfluß an Gold gegeben und man dasselbe dahin gefu hret auch fast alles durch die Dickinrases verdorben ist nunmehro fast nichts mehr zu thun indem das wenige Gold so von dan A 3 6 0026"
+Sentence: "Beschreibung"
+Sentence: "dannen hieher kommt nicht rechtma ßig und von sehr geringem Werth ist so gar daß ich ohne Sa umniß mich la ngst dem Meer nach den La ndern wenden will welche nach der GoldGegend liegen davon ich so viel die Zeit leidet melden will meinen Anfang machende ohne einigen Vorzug zu geben den ma chtigsten La ndern oder Ko nigreichen ."
+Sentence: "Von dem Fluß Ancober bis an das Dorff Ponni sind eilff Landschafften nehmlich Axim , Ante , Adom , Jabi , Commani , Fehi , Saboe , Fantin , Acron , Agonna , Aqvamboe , deren eine jede eins 2 . oder drey bisweilen auch mehr Do rffer so la ngst dem Meer liegen hat so entweder zu den Europa ischen Vestungen geho ren oder doch zwischen denselben gelegen sind die gro ssten und Volckreichsten Do rfser aber findet man tieffer im Lande ." → ["Ancober"/LOC, "Dorff Ponni"/LOC, "Axim"/PER, "Ante"/PER, "Adom"/PER, "Jabi"/PER, "Commani"/PER, "Fehi"/PER, "Saboe"/PER, "Fantin"/PER, "Acron"/PER, "Agonna"/PER, "Aqvamboe"/PER, "Europa"/LOC]
+Sentence: "Sieben unter diesen Landschafften werden als Ko nigreiche von ihren Ko nigen beherrschet"
+Sentence: "die u brigen"
+Sentence: "kan"
+Sentence: "man"
+Sentence: "Republiqven nennen weil das Regiment von den vornehmsten Einwohnern gefu hret wird welche wir unten"
+Sentence: "beru hren wollen ."
+Sentence: "Dannenhero will ich den Anfang machen vom Lande Axim , welches vor diesem groß und ma chtig genug gewesen nach Landes Beschaffenheit so bald aber die Brandenburgischen hierin gedrungen haben sich die Einwohner zertheilet und eines Theils bey" → ["Dannenhero"/PER, "Axim"/LOC]
+Sentence: "diesen neuen Anko mmlingen Schutz gesuchet"
+Sentence: "in Hoffnung ein gu tigers Regiment und mehrere Freyheit zu erhalten wie solches in Folgenden wird zusehen seyn und ihnen beynahe gelungen ;"
+Sentence: "Andern Theils welche in Warheit viel ehrliebender und besta"
+Sentence: "ndiger waren"
+Sentence: "haben mit uns gehalten ob wol wie gesagt ist das Land durch diese Trennung auch getheiler wurde ."
+Sentence: "Ohn 7 0027"
+Sentence: "des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "Ohnangesehen dessen will ich Axim nach seiner vorigen Beschaffenheit beschreiben" → ["Axim"/PER]
+Sentence: "Selbiges begreifft ohngefehr 6 . Stunden in der La nge von dem Fluß Cobre zu rechnen bis an das Dorff Boesva , eine Stunde gegen Abend von unsern Fort welches zu nechst dem Dorff Boutri gelegen ." → ["Cobre"/LOC, "Boesva"/LOC, "Boutri"/LOC]
+Sentence: "Es heisset sonst der Fluß Cobre auch Ancober , und die Portugiesen haben ihm den Nahmen vom SchlangenFluß beygeleget weil er tieff ins Land so krum wie eine Schlange fortlaufft weiter als 20 . Meilen ." → ["Cobre"/PER, "Ancober"/PER]
+Sentence: "Jnsgemein sind die Mohren so in diesem Lande wohnhafft sehr reich und zu allerhand Ergetzlichkeiten und guten Tagen geneigt treiben starcke Handelung mit denen Kauffleuten so weit aus dem Lande kommen ."
+Sentence: "Fast alle das Gold so sie von ihnen erhandeln bringen sie in die Holla ndischen und Seela ndischen Schiffe welche hiezu nicht befuget sind und zu grossem Nachtheil der Compagnie sich um diese Gegend sehen lassen ohngeachtet alles Verboths und derer vielen Verdrießlichkeit darinn sie durch diese verbothene Handlung gerathen denn so bald jemand daru"
+Sentence: "ber"
+Sentence: "ertappet wird verlieret"
+Sentence: "er"
+Sentence: "nicht nur alle seine eingekauffte Waaren sondern muß u berdem noch etne grosse GeldStraffe erlegen gleichwol lassen sie sich hiedurch nicht abschrecken und kommen allezeit wieder in Hoffnung es werde nicht kund und offenbahr werden ."
+Sentence: "Ja die meisten bestechen die Sclaven mit Geld von der Compagnie , daß sie Wache halten damit kein Betrug geschehe und also handeln sie in guter Sicherheit"
+Sentence: ""
+Sentence: "Hingegen bekommen wir hiedurch nicht den hundersten Theil unserer Waaren in die Ha nde ."
+Sentence: "Die Ursach aber warum sich die Einwoh ner A 4 8 0028 Beschreibung ner in solche Gefahr wagen und eine so scharff verbothene Handlung"
+Sentence: "fu hren"
+Sentence: "ist diese weil sie bisweilen die beste Waaren den vierdten oder wenigstens den dritten Theil besser Kauff als sie es von uns gehabt ha tten von diesen Schiffen an sich bringen und also ist gar leicht zu begreiffen warum sie sich in solche Gefahr einlassen weil bey glu cklich gefu hrter Handlung"
+Sentence: "sie in kurtzer Zeit grossen Reichthum sammlen ."
+Sentence: "Jtzt gemeldte Schiffe so durchaus keine Handlung alhie gestattet"
+Sentence: "werden von einigen Kauffleuten in Holland ausgeru stet und in diese Gegend gesendet ." → ["Holland"/LOC]
+Sentence: "Sie thun dadurch der OstJndischen Compagnie , als welche allein von dem Staat einen freyen Handel alhie erhalten einen unsa glichen Schaden ." → ["OstJndischen Compagnie"/ORG]
+Sentence: "So sind nicht weniger diese Schiffe in Gefahr genommen zu werden denn so bald wir sie erhaschen ko nnen und dafern sie einige Gegenwehr thun dennoch aber verlohren gehen sind nicht nur alle diejenigen so darauf befindlich des Todes sondern auch alle ihre Gu ter confisciret und solches vermo ge der Ordnung welche im Nahmen des Staats u berall angeschlagen sind ."
+Sentence: "Nichts destoweniger werden solche Placaten mit dem Schiffe welches bey meiner Zeit aufgebracht lange nicht so genau in acht genommen sondern man straffte nur die Vornehmsten denen andern zum Exempel ."
+Sentence: "Man hat auch eins von diesen Schiffen Zeit meines hiesigen Aufenthalts genommen dafern aber einige von der CompagnieBedienten sich besser vorgesehen wu rden wir ohne Zweiffel viel mehr bekommen haben ."
+Sentence: "Jch will anitzo schweigen"
+Sentence: "um niemanden zu nahe zu kommen in Ansehung einjeder Mensch seine Fehler habe und lieber die Einwohner des Landes Axim 9 0029 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "Axim vor mich nehmen worinnen ihre Handthierung bestehe ." → ["Axim"/PER]
+Sentence: "Uber dem daß sie gute Handlung fu hren sind sie insonderheit auf das LandBauen und FischFangen geneiget vor allen das Land mit Reiß zu bepflantzen welcher alhie mehr als an einem Ort ha uffig hervor kommt und in das gantze Land verfu"
+Sentence: "hret wird an dessen Statt die Einwohner von Milhio , Jammes , Pattatles , PalmenOel und andere Waaren zuru" → ["Milhio"/LOC, "Jammes"/PER, "Pattatles"/PER, "PalmenOel"/PER]
+Sentence: "ck bringen welche in diesem Lande wenig anzutreffen"
+Sentence: "indem es wegen des feuchten Erdreichs zwar trefflich beqvehm ist Reiß und andere fruchtbahre Ba ume hervor zu bringen so gerne in der Na" → ["Reiß"/PER]
+Sentence: "sse stehen"
+Sentence: "itzt ermeldete hingegen aber durchaus nicht anzutreffen dannenhero sie meistens von auswa"
+Sentence: "rtigen La ndern eingefu hret werden ."
+Sentence: "Jch habe vorhin schon mit wenigen gemeldet von der Ankunfft derer Brandenburgischen in dieser Gegend"
+Sentence: "itzund will ich ausfu hrlicher davon reden ." → ["itzund"/PER]
+Sentence: "Es wird demnach meinem Hrn . nicht unbekandt seyn daß ihre vornehmste Vestung Friedrichsburg heisset und drey kleine Stunden von unserer Vestung S. Antonius nach Morgen gelegen nechst dem Dorff Pocqvesoe , auf den Berg Mamfro ." → ["Friedrichsburg"/LOC, "Antonius"/PER, "Morgen"/LOC, "Pocqvesoe"/LOC]
+Sentence: "Sie ist sehr ansehnlich und zimlich groß mit 4 . starcken Batterien versehen welche mit 46 . Stu cken bepflantzet sind wiewol sie die Warheit zu sagen sehr gering und von kleiner Mu ndung seyn ."
+Sentence: "Die Pforte an dieser Vestung ist u beraus scho n dergleichen hie herum wenig zu finden gleichwol in Ansehung der Vestung viel zu groß"
+Sentence: "so"
+Sentence: "daß sich"
+Sentence: "hier"
+Sentence: "wol schickte was man dorten den Bu rgern zu Minden riethe sie mo chten ihre Pfor ten A 5"
+Sentence: "10 0030"
+Sentence: "Beschreibung ten"
+Sentence: "geschlossen halten damit die Vestung nicht heraus und davon lauffen mo ge ."
+Sentence: "Nach Morgen hat diese Vestung ein u beraus scho nes und beqvehmes Aussenwerck doch so daß die Vestung in weit bessern Defensions Stande wenn solches nicht dabey angeleget denn es kan dazu dienen die Stadt mit Sturm einzunehmen das gro sste Versehen ist daß sie die Brustwehr sehr klein und kaum ein Knie hoch gemacht haben dahero man vor dem groben Geschu tz alzusehr in Gefahr stehet welches denn u bel zu statten kommen"
+Sentence: "du rffte wenn sie auch mit blossen Mohren zu thun ha tten indem man"
+Sentence: "fu glich mit einem FeuerRohr die Bollwercke oder zwischen dieselbe die Courtine abreichen kan"
+Sentence: "jedoch muß dieses nicht verstanden werden von der Land Seite alwo"
+Sentence: "die Brustwehre in geho rige Ho he sich sehen lassen ."
+Sentence: "Jm u brigen hat man in allen Stu cken die BauKunst zur gnu ge in acht genommen ."
+Sentence: "Jnnerhalb der Vestung finden sich viele scho ne Ha user davon ich abermahls wegen schon erwehnter Ursachen keine Abzeichnung senden will ."
+Sentence: "Der Commendant in dieser Vestung der zugleich die OberHerrschafft hat u ber alles was die Brandenburgischen hie herum innen haben und in zween Vestungen und einigen Hu tten bestehet hat den Titul als General Director im Nahmen Jhrer Churfu rstl ."
+Sentence: "Durchl ."
+Sentence: "von Brandenburg und dessen Africanischen Compagnie" → ["Brandenburg"/LOC]
+Sentence: "."
+Sentence: "Es sind zeithero ihre Regenten Niederla nder gewesen welche uns zu Folge gesuchet haben eben so eine vollkommene Herrschafft u ber ihre Unterthanen die Mohren zu erhalten als unsere Kauffleute u ber die zu Axim , allein sie haben es niemahls dazu bringen ko nnen theils durch ihr eigen" → ["Axim"/LOC]
+Sentence: "Ver 11 0031 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "Versehen indem sie sich nicht mit einander vertragen ko nnen und unter sich Feindschafft angestifftet haben ;"
+Sentence: "Theils auch wegen der bo sen Natur dieser Mohren welche meistens wegen Betriegereyen von uns gelauffen und sich daselbst gesetzet haben ."
+Sentence: "Zeit meines dasigen Aufenthalts sind ihrer sieben Directores gewesen darunter der erste von Embden gebu rtig Jean Nyman geheissen ein Mann von grossem Verstande und in allen hier zu Lande vorfallenden Sachen sehr beschlagen welcher treu und redlich seines Herrn Bestes gesuchet und in allen Dingen eine ungemeine Klugheit und Witz spu hren lassen dahero er sich einen grossen Nahmen in diesem Lande erworben und mit grossem Ruhm daraus gezogen ." → ["Embden"/LOC, "Jean Nyman"/PER]
+Sentence: "Seine Nachfolger sind gewesen die zwey Herren Johann nnd Jacob von Host , Vater und Sohn so gleichfals ihr Amt wohl in acht genommen und jederzeit ihre Unterthanen im Zaum gehalten sonderlich der Sohn welcher von Natur sehr ho fflich und freundlich nicht nur von den Mohren sondern allen Menschen geliebet wurde dahero die Brandenburgischen Sachen in grosses Aufnehmen gekommen ;" → ["Johann"/PER, "Jacob von Host"/PER]
+Sentence: "Ja ich mag sagen daß die Brandenburgische Compagnie weder gehabt noch jemahls haben wird einen Mann der geschickter sey ihr Aufnehmen zu befo rdern als eben er dergestalt daß sie den Tag verfluchen mo gen an welchen sie ihn ab - und an dessen Stelle eingesetzet einen Nahmens Gyhbrech van Hoogveld , so vorhin ein Kauffmann zu Axim in Diensten von unserer Compagnie gewesen ;" → ["Brandenburgische Compagnie"/ORG, "Gyhbrech van Hoogveld"/PER, "Kauffmann"/PER, "Axim"/LOC]
+Sentence: "Dann selbiger ging mit denen so unter ihm stunden so gottloß um daß unser General Joelschmits und der Rath 12 0032 Beschreibung Rath gezwungen wurden ihm seinen Dienst zu benehmen und ihm zu verschicken als einen Menschen der hiezu nicht geschickt war ." → ["Joelschmits"/PER]
+Sentence: "Nachdem er nun in Brandenburgische Dienste getreten und diese EhrenStelle bekleidet liesse er denen Mohren bey welchen er sehr verhasst war um ihre Liebe zu gewinneu viel Freyheit zu beschenckte sie auch mit unterschiedlichen Gerechtigkeiten und machte dadurch daß die Brandenburger begunten zu fallen und einen Anfang ihres Untergangs legten ."
+Sentence: "Dieses aber halff alles nichts"
+Sentence: "denn nachdem er kurtze Zeit regieret"
+Sentence: "lehnten sich die Europa er sowol als Mohren zu einer Zeit wider ihn auf gaben ihm seinen Abschied nahmen ihn das Regiment und jagten ihn zum Lande hinaus ;" → ["Europa"/LOC]
+Sentence: "An dieses seine Stelle setzten sie einen Mennonisten Jean van Laar , welcher besser ein Maaß Brandtwein auszutrincken wuste als seiner Principalen Vortheil und Bestes zu suchen ." → ["Jean van Laar"/PER]
+Sentence: "Von dieser Zeit ging auch alles den KrebsGang die Sache des von Laar gewan ein so bo"
+Sentence: "ses verwirrtes Aussehen daß er zu rechter Zeit starb nachdem er nicht lange an der Regierung gewesen ."
+Sentence: "Diesem folgte einer Nahmens Jean de Visser , welcher von so geringem Verstande daß ihm allein die Regierung nicht wohl anzuvertrauen war und u berdem noch so unglu cklich daß von dessen Aufffu hrung wenig Gutes zu hoffen ." → ["Jean de Visser"/PER]
+Sentence: "Nachdem nun dieser sein Regiment angetreten"
+Sentence: "machten die Mohren ihren Kauffmann zu Acoda nieder und weil er nicht Verstand noch Macht genug hatte dieses bo se Vornehmen zu bestraffen gingen die Mohren in ihrer Bosheit immer weiter und veru bten unterschiedliche Grausamkeiten schlugen einige von denen 13 0033 des Landes Gvinea ." → ["Kauffmann"/PER, "Acoda"/LOC, "Gvinea"/LOC]
+Sentence: "denen Europa ern todt bis sie ihm endlich selbst gefangen nahmen tieff ins Land wegfu hrten und nachdem sie ihn halb gera dert wurffen sie ihn ins Meer da sie ihm zuvor rund um den Leib Steine angebunden hatten ." → ["Europa"/LOC]
+Sentence: "Es sind u ber dieser grausamen That unterschiedliche Reden gewesen doch lieffen sie alle dahin aus weil dieser Ma rterer nicht so wol durch Bewilligung als Befehl derer Europa er zu dieser EhrenStelle gekommen ." → ["Europa"/LOC]
+Sentence: "Vor allen hat man einen mit Nahmen Adrian Grobe in Verdacht gehabt denn diesen hatten die Mohren zu ihren Oberhaupt erwa hlet an des Ermordeten Stelle ." → ["Adrian Grobe"/PER]
+Sentence: "Dafern er unschuldig leidet"
+Sentence: "wird er Zweiffels ohne seine Unschuld an den Tag legen um sich von dergleichen GreuelThat zu entledigen dafern aber das Gegentheil wolle ihm GOtt nach seinen Wercken lohnen nebst allen denen so hieran Theil haben ;" → ["Zweiffels"/PER]
+Sentence: "Denn hiedurch haben die Europa er nicht nur viel von ihrer Hochachtung verlohren sondern es stehet zu besorgen im Fall dieses ungestrafft bleiben solte die u brigen Mohren bald folgen du rfften daß also niemand seines Lebens sicher wa re ." → ["Europa"/LOC]
+Sentence: ""
+Sentence: "Auf solche Art sind die Brandenburgischen nachdem sie zimlich gestiegen mercklich herunter kommen und zweiffele ich sehr daß sie jemahls in ihren vorigen Stand gelangen werden weil itzund die Mohren den Meister spielen und ihre Oberha upter ins ku nfftige zwingen werden nach ihrem Gutdu ncken und Willen das Regiment zu fu hren ."
+Sentence: "Da nun also dieses eine unerho rte Sache"
+Sentence: "habe nicht ermangeln wollen davon einige Nachricht zu geben"
+Sentence: "eines Theils damit sowol ihr als ich mit allen dieses Landes Einwohnern vor dergleichen Frevel That 14 0034"
+Sentence: "Beschreibung That einen Abscheu finden mo gen ;"
+Sentence: "Andern Theils damit ihr sagen mo get"
+Sentence: "wie die Sachen der Compagnie von Embden in Europa" → ["Embden"/LOC, "Europa"/LOC]
+Sentence: "deren Handelung euch vollkommen bekandt ist hie zu Lande seit einigen Jahren gefu hret verwaltet worden ."
+Sentence: "Doch will ich mich hierin nicht einlassen sondern weiter dritte halb Stunden gegen Morgen begeben"
+Sentence: "u berhalb dem Capo Trespuntes , daselbst die Brandenburgischen eine kleine Festung , Dorothea genandt besitzen nebst dem Dorff Acoda , welches ihnen vor ohngefehr eilff Jahren hat mu ssen eingera umet werden und seit dem um ein merckliches verbessert und fester gemacht worden ." → ["Capo Trespuntes"/LOC, "Dorothea"/PER, "Acoda"/LOC]
+Sentence: "Jhr"
+Sentence: "ko nnt dessen Beschaffenheit aus folgenden so viel deutlicher ersehen ."
+Sentence: "Erstlich findet sich ein Haus oben gantz eben und gleich dabey zwey Bollwercke und halbe Cortinen auf jede haben sie einige kleine Stu cke gepflantzet"
+Sentence: "u"
+Sentence: "brigens siehet man im Hause daselbst unterschiedliche scho ne Zimmer wiewol alles sehr leicht und nahe bey einander gebauet ist ."
+Sentence: "Uberdem haben eben diese Brandenburgische noch ein anders aufrichten lassen zwischen Manfro und Acoda allernechst dem Dorff Tacrama , so mitten in Cabo Trespuntes gelegen" → ["Manfro"/LOC, "Acoda"/LOC, "Tacrama"/LOC, "Cabo"/LOC]
+Sentence: "in der Absicht eine Festung daraus zu machen die nahe befindliche Gegend wo man das Wasser holen muß"
+Sentence: "zu beschu tzen und solches endlich untertha nig zu machen ."
+Sentence: "Allein ich glaube daß sie Mu he genung haben oberwehnte 2 . Festungen zu erhalten und sich so leicht nicht einlassen werden mehrere Geba ude anzulegen ."
+Sentence: "Meine Meynung ist nicht gewesen in diesen Brief so weitla ufftig zu seyn die Brandenburgischen Sachen haben mich ungemerckt zu weit entfernet von mei nem 15 0035 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "nem Vorhaben welches darin bestunde"
+Sentence: "daß ich die Fru chte des Landes Axim und alles was darinnen wa chset erzehlen wolte ." → ["Axim"/LOC]
+Sentence: "Anitzo will ich solches alles auf eine andere Gelegenheit verspahren damit ihr auf einmahl nicht zu weit gehet und allein von dem SchlangenFluß etwas erwehnen davon wir oben schon einige Erinnerung gethan daß wir selbigen mit einem andern Nahmen den Fluß" → ["Anitzo"/PER]
+Sentence: "Ancobre heissen nach dem Lande so er benetzet ." → ["Ancobre"/PER]
+Sentence: "Es ist mir unmo glich wegen seiner Scho nheit davon zu schweigen"
+Sentence: "und wie oben gesagt so fliesset er einige Stunden oberhalb unser Festung S. Antonius , bey dem Einlauff ins Meer sehr breit aber so untieff daß man mit keinen Nachen daru ber fahren solte so bald man etwas ho her kommt" → ["Antonius"/PER]
+Sentence: "wird er alma hlig schmahler aber zugleich tieffer und so laufft er einige Stunden ohne Vera nderung fort ."
+Sentence: "Jch weiß nicht allzuwol wie weit selbiger ins Land gehet weil ich nur kleine TagReisen darauf zugebracht und ihn u berall von solcher Annehmligkeit gefunden daß ich mir einbilde nichtes scho ners im gantzen Lande von Gvinea gesehen zu haben es sey dann zu Fida ." → ["Gvinea"/LOC, "Fida"/LOC]
+Sentence: "Zu beyden Seiten"
+Sentence: "siehet man die scho nste und gro sste Ba ume welche verursachen daß man unter deren vergnu glichsten Schatten wegschiffen kan"
+Sentence: "ohne die geringste Beschwerligkeit von den heissen SonnenStrahlen zu empfinden ;"
+Sentence: "Auf solchen finden sich unterschiedlicher Art Vo gel von allerhand Farben und einige hundert grosse und kleine Affen welche durch ihr hin und wieder Springen eine unbeschreibliche AugenLust erwecken ."
+Sentence: "So bald man ohngefehr eine Stunde fort geschiffet siehet man alle viertel Stunde die scho nsten und gro ssten Do rffer unweit dem Ufer gegen 16 0036"
+Sentence: "Beschreibung gegen Abend zu liegen deren Ha user u ber die massen wohl zunechst dem Ufer stehen ."
+Sentence: "Das Land darinnen diese scho"
+Sentence: "ne"
+Sentence: "Do rffer befindlich"
+Sentence: "hat drey unterschiedliche Nahmen das erste zunechst dem Meer heisset Ancobre , und will ich die StreitFrage nicht entscheiden ob der Fluß nach dem Lande oder dieses nach jenem benennet worden weil es wenig zu unserm Vorhaben dienet ." → ["Ancobre"/LOC]
+Sentence: "Das andere so hieran sto sset nennet sich Aboenoe , und endlich das dritte Egvira ." → ["Aboenoe"/PER]
+Sentence: "Das erstere ist mir Zeit meiner Anwesenheit wie ein Ko nigreich vorgekommen"
+Sentence: "die zwey u brigen aber anstatt einer Republic ."
+Sentence: "Jn dem letztern Egvira"
+Sentence: "haben wir vor vielen Jahren auch eine Festung innen gehabt daselbst anitzo starcke Handlung getrieben wird denn ohne daß anderwerts eine grosse Qvantita t von Gold hereingebracht wird befinden sich selbst im Lande einige GoldGruben und hat man deren eine sehr reiche bey meiner Regierung zu Axim entdecket ." → ["Axim"/LOC]
+Sentence: "Es ist uns diese Festung durch eine traurige Begebniß abgenommen worden indem wir Streit bekamen mit denen Mohren ;"
+Sentence: "Denn als der Director durch sie belagert wurde und nicht la ngern"
+Sentence: "Widerstand thun konte denn man saget daß er anstatt eisernen gu ldene Kugeln gebraucht habe"
+Sentence: "hat er sich gestellet als wolle er mit denen Bela gerern sich vergleichen und la sset sich auch mit ihnen ein ."
+Sentence: "Kaum war er halb geschlossen ließ er sich mit allen seinen Feinden in die Lufft fliegen und endigte also zwar hertzhafftig aber sehr unglu cklich sein Leben indem er sich wie der Simson an seinen Feinden sterbend ra chete ." → ["Simson"/PER]
+Sentence: "Er hatte solch sein Vornehmen zu vollfu hren einen kleinen Jungen besohlen sich bey dem Pulver mit brennen der Lunte fer"
+Sentence: "17 0037 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "fertig zu halten und so bald er ho ren"
+Sentence: "wu rde mit dem Fuß treten solte er es anstecken mit Versprechen"
+Sentence: ""
+Sentence: "er wolle ihm auf guter Verrichtung einen neuen Rock geben ;"
+Sentence: "Dieses unschuldige Kind solches glaubend hat es mehr als allzuwohl ausgerichtet ."
+Sentence: "Niemand wuste um diese Sache ausserhalb ein Sclave von unserer Compagnie , welcher ohn ein Wort zu sagen bey"
+Sentence: "Zeiten sich an die Seite gemachet und nachgehends uns so wie gemeldet erzehlet hat ;"
+Sentence: "Anders haben wir keine Nachricht als durch diesen Sclaven und mu ssen wir es glauben daß die Sache sich so verhalte in Ermangelung einer na hern Gewißheit ."
+Sentence: "Gewiß ist es daß unsere Festung gesprungen und dem Director nebst seinen Feinden den Hals gekostet ."
+Sentence: "Dieses mag also genug seyn vor einmahl mit Bitte ihr wollet voritzo euch begnu gen lassen und mit gegenwa rtigen vor Lieb nehmen im u brigen aber versichert seyn daß bey erster Gelegenheit etwas Neues melden will ."
+Sentence: "Der ich nach Empfehlung in GOttes Schutz mit vieler Gewogenheit mich nenne c . Ende des ersten SendSchreibens ."
+Sentence: "Zweytes SendSchreiben ."
+Sentence: "Jn welchem das Land von Ante um Boutry herum beschrieben wird mit denen Festungen so die Engella nder und Holla" → ["Ante"/LOC, "Boutry"/LOC, "Engella nder"/PER, "Holla"/PER]
+Sentence: "nder daselbst besitzen und wie betrieglich die Englischen umgehen wenn sie unechtes Gold vor echtes geben ."
+Sentence: "Die Scho nheit des Landes von Ante ."
+Sentence: "Der Fluß Bou try , B 18 0038 Beschreibung try , und wie die Austern darinn wachsen ." → ["Bou try"/LOC]
+Sentence: "Nach diesem folget die Beschreibung der Engella ndischen und Holla ndischen Festung in Zaconde , und desselben Landes daherum gelegen ." → ["Zaconde"/LOC]
+Sentence: "Jmgleichen des Dorffs Chama ." → ["Dorffs Chama"/PER]
+Sentence: "Auch der Holla ndischen Festung und derer La nder Jabi und Adom ." → ["Jabi"/PER, "Adom"/PER]
+Sentence: "Endlich werden einige Exempel erzehlet von der Grausamkeit des Generals im Lande Adom , und bey dieser Gelegenheit eine Beschreibung des Flusses Chama mit angehangen ." → ["Adom"/LOC, "Chama"/LOC]
+Sentence: "Mein Herr JCh will hoffen ihr werdet meinen Brief empfangen haben welchen mir die Ehre genommen den 5 . Monats - an euch zu schreiben ." → ["JCh"/PER]
+Sentence: "Weil nun das Schiff mit welchen ihn u bersende erst nach Fida gehet um einige Sclaven auf zu suchen und nachgehends u ber Curassau seinen Weg nehmen wird als fu rchte ich mein Brief wird wol ein Jahr unter Weges bleiben dieses aber gerades Weges nach Europa ohne Aufenthalt an irgend einem Ort absegelt so habe mich entschlossen zwey Briefe auf einmahl zu senden damit ihr durch langes Warten nicht ungedu ltig werdet wu nschende daß desselben Einhalt auch in etwas vergnu gen ko nne ." → ["Fida"/LOC, "Curassau"/LOC, "Europa"/LOC]
+Sentence: ""
+Sentence: "Jn meinem letztern bin ich mit der Beschreibung vom Lande Axim zu Ende gekommen und will dahero in gegenwa rtigen das angra ntzende Land von Ante beru hren mit Zufu gung dessen was die Zeit und meine Gedancken an die Hand geben werden ." → ["Axim"/LOC]
+Sentence: "Das 19 0039 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: ""
+Sentence: "Das Land von Ante oder Hante , wie die Eingebohrne sprechen"
+Sentence: "nimmt seinen Anfang bey dem Dorff Boesoa , zwey Stunden gegen Morgen oder unterhalb Acoda , wiewol man es rechnen" → ["Dorff Boesoa"/LOC, "Acoda"/LOC]
+Sentence: "kan bis Acoda , indem selbiges heut zu Tage dazu geho ret ." → ["Acoda"/LOC]
+Sentence: "Vor einigen Jahren wurde dieses Land in Ober - und NiederAnte abgetheilet da denn unter dem ersten das Land Axim , so kurtz zuvor beschrieben verstanden ward unter dem andern aber dasjenige davon wir eine Beschreibung zu machen Vorhabens sind ." → ["Ober"/LOC, "- und NiederAnte"/LOC]
+Sentence: "Es war auch dazumahl sehr ma chtig und Volckreich hatte trotzige Einwohner die zum Rauben u beraus geneigt waren und aus der Ursachen uns offters viel Verdrießligkeiten und Unruhe verursachet"
+Sentence: "sie sind aber durch die immerwa hrende Kriege mit denen von Adom dergestalt abgemattet und geschwa chet worden daß ihnen von vorigem altem Ansehen nichts mehr u brig wie wir unten weitla ufftiger davon sprechen wollen ." → ["Adom"/LOC]
+Sentence: "Eine Stunde gegen Abend oder oberhalb Boesoa , nechst dem Dorff Dikischofft eigentlich Infuma , lieget eine kleine Festung von denen Engella ndern erbauet im Jahr 1691 ." → ["Boesoa"/LOC, "Infuma"/LOC]
+Sentence: "nachdem die Brandenburgischen eine Zeit vorher die Fahne ihres Churfu rsten daselbst gepflantzet hatten und also zu unterschiedlichen mahlen wegen des Landes streitig waren da denn endlich die Letztern keinen grossen Vortheil dabey ersehende selbige gutwillig an die Engella nder abgestanden haben ."
+Sentence: "Sie kamen mit ihrer Arbeit schlecht fort und brachten wol 5 . oder 6 . Jahr"
+Sentence: "u ber"
+Sentence: "diesem Geba ude zu welches noch bis dato in schlechtem Ansehen kaum den Nahmen einer Festung verdienet ."
+Sentence: "Dannenhero haben sie diesen ihren Bau o ffters bereuet weil B 2"
+Sentence: "20 0040"
+Sentence: "Beschreibung weil das Land nicht nur ungelegen zur Handlung sondern die Mohren daherum so wild so fasch betriegerisch und vermessen sind daß sie denen Englischen nicht ein Haar breit weichen sondern ihnen allezeit das Gegentheil halten und auf eben dieselbige Art sich ihrer Macht bedienen wenn sie sehen daß die Englischen dazu greiffen wollen ja wol gar sich unterstehen do rfften sie in ihrer Festung zu belagern als nemlich vor 5 . Jahren da es wenig fehlte oder sie ha tten sich Meister davon gemachet indem die Englischen gezwungen wurden mit ihnen nach eigenen gegebenen Gesetzen zu leben ohne die geringste Herrschafft sich anzumassen ."
+Sentence: "Dieses brachte eine genaue Verbu ndniß zwischen den Englischen und denen Mohren zu wege dergestalt daß sie mit einander eins wurden alle die zur Handlung ankommende Schiffe zu betriegen und unechtes Gold vor echtes zu verkauffen ;"
+Sentence: "welches auch unterschiedlichen wiederfahren unter andern vor drey Monat zweyen Englischen Schiffen deren eines vor 16000 ."
+Sentence: "Gu lden falsch Gold einnehmen und also eine gantz vergebliche Reise thun muste ;"
+Sentence: "das andere hatte gleichfals grossen Schaden und was merckwu rdig ist so empfingen sie solch falsch Gold"
+Sentence: "sowol von den Europa ern als Mohren ." → ["Europa"/LOC]
+Sentence: "Ohnangesehen nun diese zwey SchiffsCapitaine alsofort"
+Sentence: "u ber Land nach dem Director reiseten und u ber diesen unmenschlichen Betrug klagten mit Bitte man"
+Sentence: "mo chte ihnen entweder ander Gold oder andere KauffmannsWaare zustellen waren dennoch alle ihre Beschwerungen vergeblich denn der Director war selbst mit drunter begriffen und konte ihnen also nicht helffen ;"
+Sentence: "Musten deshalben ohne das geringste zu erhalten wieder um keh 21 0041"
+Sentence: "des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "kehren und alle ihre eingebrachte KauffmannsWahre verlohren geben ."
+Sentence: "Dergleichen Betriegereyen"
+Sentence: "siehet man ta glich doch weiß ich nicht ob die Europa er allezeit mit Schuld dran sind dieses aber ist bekandt genung daß man diese Gegend mit allem Recht die falsche Mu ntz von Gvinea nennen kan" → ["Europa"/LOC, "Gvinea"/LOC]
+Sentence: "dahero man alle neue Anko mmlinge warnen muß damit sie sich vorsehen ."
+Sentence: "Ja man macht alhiedas falsche Gold so o ffentlich daß man keinen Scheu tra gt den erst kommenden o ffentlich feil zu bieten ;"
+Sentence: "Und konte man bey meiner Zeit vor einen Thaler KauffmannsGut mehr als vor 8 . Thaler unecht Gold kauffen so daß damit ein rechter Handel getrieben wird ."
+Sentence: "Anderthalb Stunden unterhalb diesem betriegerischen Ort daß ich ihn so nenne findet sich nechst dem Dorff Botry , gemeiniglich Boutroe genennet" → ["Dorff Botry"/PER, "Boutroe"/PER]
+Sentence: "die sehr kleine und unordentlich gebauete Vestung Batenstein auf einem sehr hohen Berg" → ["Batenstein"/LOC]
+Sentence: "."
+Sentence: "Selbige ist in die La nge gebauet und in zwey Theile getheilet ."
+Sentence: "Was sonsten dessen Festigkeit betrifft"
+Sentence: "hat es nur vier schlechte Bollwercke worauf eilff kleine Stu cke gepflantzet sind ."
+Sentence: "Jn Ansehung dessen wa"
+Sentence: "re"
+Sentence: "es"
+Sentence: "besser daß es an stat"
+Sentence: "Batenstein" → ["Batenstein"/LOC]
+Sentence: "Schadenstein hiesse weil es vor einigen Jahren uns mehr scha dlich als nu tzlich gewesen ."
+Sentence: "Unten an diesem Berge lieget Boutry , ein sehr grosses und starck bewohntes Dorff dessen Einwohner viel besser sind als die zu Infuma , denn sie nicht mit dergleichen Betrug und Falschheit umgehen wenigstens sind sie viel ehrliebender und bescheidener gegen uns so daß wir u ber sie mehr zu klagen als u ber andere keine Ursach haben ." → ["Boutry"/PER, "Infuma"/LOC]
+Sentence: "Vier Stunden weiter herunter lieget"
+Sentence: "unsere kleine Festung"
+Sentence: "das Fort von Orangien ge" → ["Orangien"/LOC]
+Sentence: "B 3"
+Sentence: "22 0042"
+Sentence: "Beschreibung genennet nechst dem Dorff Zaconde und keinen Musqveten Schuß hievon siehet man noch einige Uberbleibsel von einer Englischen Festung" → ["Zaconde"/LOC]
+Sentence: "so der Gro sse nach mit unserer u bereinko mmt"
+Sentence: "dessen außfu hrliche Meldung unten hinzusetzen werde ."
+Sentence: "Was die La nge des Landes von Ante betrifft habe ich selbige ohngefehr von 9 . Meilen befunden wenn man rechnet von Acoda biß anderthalb Stunden unter Zaconde , daselbst es sich endiget ." → ["Ante"/LOC, "Acoda"/PER, "Zaconde"/LOC]
+Sentence: "Eine lange Beschreibung hievon beyzusetzen halte ich vor unno thig weil solches vor mir der Herr Foqvenbrog albereit verrichtet und des Landes scho ne Beschaffenheit so herausgestrichen daß wenig mehr ubrig ist hinbey zufu gen ;" → ["Foqvenbrog"/PER]
+Sentence: "dergestalt daß er sich unterstanden eine Vergleichung anzustellen mit dem Annehmlichkeit vollen Clevischen Lande ."
+Sentence: "Doch will ich hieru ber keinen Richter abgeben ob diese Vergleichung stat findet sondern es demjenigen u bertragen welcher in beyden La ndern gewesen"
+Sentence: "un"
+Sentence: "ohne Auffenthalt"
+Sentence: "nur dieses sagen daß sowol dieses als das gantze Land von Gvinee sehr bergigt und durchgehends mit den scho nsten und u ber die massen hohen Ba umen angefu llet" → ["Gvinee"/LOC]
+Sentence: "sey ;"
+Sentence: "Zwischen denen Bergen liegen die scho nsten und sehr weiten Tha ler welche sehr beqvem wa ren" → ["Bergen"/LOC]
+Sentence: "um allerhand Ba ume zusetzen und unterschiedliche Fru chte zu bauen ;"
+Sentence: "denn in Ansehung"
+Sentence: ""
+Sentence: "daß sie zimlich hoch und Na sse"
+Sentence: "genung haben"
+Sentence: "wa"
+Sentence: "re"
+Sentence: "bey"
+Sentence: "Anwendung geho riger Arbeit ein grosser Vortheil zu hoffen massen das gantze Land mit no thiger Nahrung damit ko nte versehen werden ."
+Sentence: "Dannenhero ist der Reiß so hier wa chset u ber die massen scho n Milhio ko mmt sehr ha uffig hervor und viel besser als anderswo in rothen Ko rnern ." → ["Dannenhero"/PER, "Milhio"/PER]
+Sentence: "Die Jam mes , 23 0043 des Landes Gvinea ." → ["Gvinea"/LOC]
+Sentence: "mes , und Pattates sind imgleichen nicht nur sehr ha uffig sondern u berdem einjedes in seiner Art viel scho ner ."
+Sentence: "So giebet es auch sehr viel Fruchttragende"
+Sentence: "Ba ume ha uffige ZuckerRo"
+Sentence: "hre"
+Sentence: "welche wegen ihrer ungewo hnlichen Ho he weit besser sind als alle andere daß kein Zweiffel es wu rde bey deren neuen Anlegung oder Pflantzung grosser Nutzen daraus entstehen ko nnen ."
+Sentence: "Nicht weniger u bertrifft auch dieses Land alle andere mit dem herrlichen Oele und Wein von denen Palmen sowohl in der Vielheit als auch in den sonderlichen Geschmack desselben ."
+Sentence: "Kurtz" → ["Kurtz"/PER]
+Sentence: "es ist ein Land welches dem Ackersmann seine Arbeit nach Wunsch belohnet indem es u ber dem eine grosse Anzahl von zahmen und wilden Thieren na hret ."
+Sentence: "Weil aber durch den letzten Krieg"
+Sentence: "welchen die von Ante mit denen Cormensern gefu hret" → ["Ante"/PER]
+Sentence: "die erstern schier gantz in den Grund verdorben und ins gro sseste Elend gestu rtzet worden als mu ssen sie in Ermangelung einer zula nglichen Macht stets in Sorgen stehen aufs neue angefallen zu werden ;"
+Sentence: "Wannenhero die meisten in unsere Festung nahe bey Boutry geflu chtet dadurch dann ihr scho nes Land schier gantz und gar unbebauet liegen bleibet ." → ["Boutry"/LOC]
+Sentence: "Man kan leicht gedencken wie kla glich solches anzusehen"
+Sentence: "sey"
+Sentence: "wenn man des Landes vorige Scho nheit und dessen reichen Seegen betrachtet ."
+Sentence: "Da ich im Jahr 1690 ."
+Sentence: "und folgendes 1691 ."
+Sentence: "Jahr in Boutry als Assessor kurtz vor dem Kriege mich daselbst auffhielte war dieses Land noch starck bewohnt und ko" → ["Boutry"/LOC]
+Sentence: "nte man in ho chstem Vergnu gen die scho nsten LustReisen anstellen indem die vielen und scho nen Do rffer"
+Sentence: "die u beraus scho nen Fru chte und ha uffige groß und kleinen ViehHeerden nicht ohne Ergo tzung anzu"
+Sentence: "B 4"
+Sentence: "24 0044"
+Sentence: "Beschreibung anzusehen waren ;"
+Sentence: "ja u berdem alles so wohlfeil war daß ein Soldat der sich anderwerts ku mmerlich mit seinen Sold durchhelffen muste hier zu Lande reichlich auskommen konte ."
+Sentence: "Was die Gesundheit anlanget"
+Sentence: "halte ich diesen Ort viel gesunder als alle andere weil ich fast glaube daß keine gesundere Lufft seyn kan"
+Sentence: "dann so lange ich daselbst gewesen sind in Ansehung der Anzahl derer Jnwohnenden allezeit die wenigste Todte und auch die wenigste Krancken gewesen so daß im Fall dieselbe Lufft u berall sich finden"
+Sentence: "wu rde"
+Sentence: "das Land Gvinee seinen bisherigen Nahmen einer GrabSta te mit allem Recht ablegen" → ["Gvinee"/LOC]
+Sentence: "ko"
+Sentence: "nte ."
+Sentence: "Damit ich aber das Scho nste in diesem Lande zwischen Acoda und Boutry nicht mit Stillschweigen vorbey gehen mo ge" → ["Acoda"/LOC, "Boutry"/LOC]
+Sentence: "muß ich etwas von dem angenehmen herrlichen Fluß melden welcher nechst bey unserer Festung vorbey fliesset und in scho nster"
+Sentence: "Annehmligkeit sich tieff ins Land ergiesset ;"
+Sentence: "Zu beyden Seiten"
