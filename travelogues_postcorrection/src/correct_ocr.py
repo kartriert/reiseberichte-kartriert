@@ -33,9 +33,6 @@ def delete_specials(txt):
     """
     output_txt = re.sub(r"[^a-zA-Z0-9-,üöäß.;]", " ", txt)
 
-    output_txt = re.sub('aͤ', 'ä', output_txt)
-    output_txt = re.sub('uͤ', 'ü', output_txt)
-    output_txt = re.sub('oͤͤ', 'ö', output_txt)
     # output_txt = re.sub('ey', 'ei', output_txt)
 
     return output_txt

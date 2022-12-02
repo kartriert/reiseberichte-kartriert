@@ -1,0 +1,32 @@
+2022-12-02 13:09:47,020 loading file /Users/sarahreb/.flair/models/flair-historic-ner-onb/63111d37e8f19b08b01200ec38cd2b093d72026e56bbe99a7b25b6e3f8b7da8d.d53b1d9a206921442955a318ba5bbef2af5aabb93c4713d1ed3b8fe8c28cda3f
+2022-12-02 13:09:48,957 SequenceTagger predicts: Dictionary with 16 tags: <unk>, O, S-PER, S-LOC, B-PER, E-PER, S-ORG, B-LOC, E-LOC, I-PER, B-ORG, E-ORG, I-LOC, I-ORG, <START>, <STOP>
+Sentence: "0009 Reyse nach GVINEA , oder ausführliche Beschreibung dasiger GoldGruben ElephantenZähn und SclavenHandels nebst derer Einwohner" → ["GVINEA"/LOC]
+Sentence: "Sitten Religion"
+Sentence: "Regiment"
+Sentence: "Kriegen"
+Sentence: "Heyrathen und Begräbnissen"
+Sentence: "auch allen hieselbst befindlichen Thieren"
+Sentence: "so bishero in Europa unbekandt gewesen ." → ["Europa"/LOC]
+Sentence: "Jm Frantzösischen herausgegeben durch Wilhelm Boßmann gewesenen Rahtsherrn OberKauffmann und Landes UnterCommandeur von der HolländischOst-Jndischen Compagnie ." → ["Wilhelm Boßmann"/PER, "HolländischOst-Jndischen Compagnie"/ORG]
+Sentence: "Nun aber ins Hochteutsche übersetzet und mit Kupffern gezieret ."
+Sentence: "Hamburg" → ["Hamburg"/LOC]
+Sentence: ""
+Sentence: "Jn Verlegung Samuel Heyl" → ["Samuel Heyl"/PER]
+Sentence: "und Johann Gottfried Liebezeit" → ["Johann Gottfried Liebezeit"/PER]
+Sentence: "M DCCVIII"
+Sentence: "."
+Sentence: "0010 0011 Vorrede ."
+Sentence: "ES ist insgemein"
+Sentence: "bey allen Autoribus die übliche Gewohnheit daß sie vor ihre Schrifften eine Vorrede setzen"
+Sentence: ""
+Sentence: "Einige halten sie vor eine blosse Zierath und kein wesentliches Stück ihrer Bücher ."
+Sentence: "Andre aber vor eine unumgängliche Nothwendigkeit aus folgenden Ursachen erstens weil die Vorrede einen Vorschmack giebet alles dessen was und wie der Autor solches abzuhandeln gesinnet" → ["Andre"/PER]
+Sentence: "sey vermittelst welcher die vom Autore beliebte Ordnung und Einrichtung der Materie gar leichtlich zu begreiffen ;"
+Sentence: "zweytens weil man aus der Vorrede von Fähigkeit eines Autoris urtheilen kan folglich einiges Vergnügen aus dessen Werck sich versprechen ."
+Sentence: "Doch lasse ich dieses unausgemachet und folge dem Exempel derer letzteren ."
+Sentence: "Es ist aber nunmehro die Welt mit so vie 0012 Vorrede ."
+Sentence: "vielen Büchern angefüllet"
+Sentence: "daß fast unmöglich scheinet etwas Neues vorzubringen dafern man nicht eine neue Welt entdecket angesehen fast kein Land keine Nation zu finden darüber nicht allbereit"
+Sentence: "viele Scribenten sich müde geschrieben so daß ich schier in Bedencken gestanden mit dieser meiner neuen Arbeit hervorzukommen ."
+Sentence: "Doch habe ich das alte Sprichwort derer Römer wahr machen wollen Africa bringe alle Tage was Neues in Ansehung" → ["Africa"/LOC]
+Sentence: "daß d"
