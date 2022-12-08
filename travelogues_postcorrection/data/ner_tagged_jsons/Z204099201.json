@@ -7,6 +7,10 @@
                 "source_label": "Mannheim",
                 "start_position": 83,
                 "end_position": 91
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -15,6 +19,10 @@
                 "source_label": "Baiern",
                 "start_position": 93,
                 "end_position": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -23,6 +31,10 @@
                 "source_label": "Oesterreich",
                 "start_position": 104,
                 "end_position": 115
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -31,12 +43,10 @@
                 "source_label": "Wien",
                 "start_position": 121,
                 "end_position": 125
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]

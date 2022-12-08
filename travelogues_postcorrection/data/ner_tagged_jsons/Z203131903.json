@@ -7,12 +7,10 @@
                 "source_label": "Paris",
                 "start_position": 40,
                 "end_position": 45
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]

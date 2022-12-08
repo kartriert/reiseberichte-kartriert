@@ -7,6 +7,10 @@
                 "source_label": "Spanien",
                 "start_position": 21,
                 "end_position": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -15,6 +19,10 @@
                 "source_label": "Piemont",
                 "start_position": 30,
                 "end_position": 37
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -23,6 +31,10 @@
                 "source_label": "Lombardei",
                 "start_position": 43,
                 "end_position": 52
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -31,12 +43,10 @@
                 "source_label": "Tyrol",
                 "start_position": 57,
                 "end_position": 62
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]

@@ -7,12 +7,10 @@
                 "source_label": "Surinam",
                 "start_position": 36,
                 "end_position": 43
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]

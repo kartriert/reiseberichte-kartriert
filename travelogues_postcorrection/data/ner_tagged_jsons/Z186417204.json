@@ -7,6 +7,10 @@
                 "source_label": "Siebenb\u00fcrgen",
                 "start_position": 54,
                 "end_position": 66
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -15,6 +19,10 @@
                 "source_label": "Temeswarer",
                 "start_position": 72,
                 "end_position": 82
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -23,6 +31,10 @@
                 "source_label": "Banat",
                 "start_position": 83,
                 "end_position": 88
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -31,6 +43,10 @@
                 "source_label": "Ungarn",
                 "start_position": 90,
                 "end_position": 96
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -39,6 +55,10 @@
                 "source_label": "Oesterreich",
                 "start_position": 98,
                 "end_position": 109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -47,6 +67,10 @@
                 "source_label": "Bayern",
                 "start_position": 111,
                 "end_position": 117
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -55,6 +79,10 @@
                 "source_label": "Schwaben",
                 "start_position": 119,
                 "end_position": 127
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -63,6 +91,10 @@
                 "source_label": "Schweiz",
                 "start_position": 129,
                 "end_position": 136
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -71,12 +103,10 @@
                 "source_label": "Elsa\u00df",
                 "start_position": 141,
                 "end_position": 146
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]
