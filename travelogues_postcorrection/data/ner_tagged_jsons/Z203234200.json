@@ -7,6 +7,10 @@
                 "source_label": "Villa Franca",
                 "start_position": 24,
                 "end_position": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -15,6 +19,10 @@
                 "source_label": "Chur-Brandenburg",
                 "start_position": 41,
                 "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -23,6 +31,10 @@
                 "source_label": "Teutschland",
                 "start_position": 64,
                 "end_position": 75
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -31,6 +43,10 @@
                 "source_label": "Holland",
                 "start_position": 77,
                 "end_position": 84
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -39,6 +55,10 @@
                 "source_label": "Braband",
                 "start_position": 89,
                 "end_position": 96
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -47,6 +67,10 @@
                 "source_label": "England",
                 "start_position": 98,
                 "end_position": 105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -55,6 +79,10 @@
                 "source_label": "Franckreich",
                 "start_position": 107,
                 "end_position": 118
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -63,6 +91,10 @@
                 "source_label": ";",
                 "start_position": 118,
                 "end_position": 119
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -71,6 +103,10 @@
                 "source_label": "Turin",
                 "start_position": 136,
                 "end_position": 141
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -79,6 +115,10 @@
                 "source_label": "Italien",
                 "start_position": 149,
                 "end_position": 156
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -87,6 +127,10 @@
                 "source_label": "Rom",
                 "start_position": 158,
                 "end_position": 161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
             }
         },
         {
@@ -95,12 +139,10 @@
                 "source_label": "Neapolis",
                 "start_position": 163,
                 "end_position": 171
-            }
-        },
-        {
+            },
             "geometry": {
                 "type": "Point",
-                "coordintes": []
+                "coordinates": []
             }
         }
     ]
