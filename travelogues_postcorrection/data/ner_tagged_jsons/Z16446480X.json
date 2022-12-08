@@ -6,7 +6,7 @@
             "properties": {
                 "source_label": "Nordamerika",
                 "start_position": 22,
-                "end_in_text": 33
+                "end_position": 33
             }
         },
         {
@@ -14,7 +14,7 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 33,
-                "end_in_text": 34
+                "end_position": 34
             }
         },
         {
@@ -22,7 +22,7 @@
             "properties": {
                 "source_label": "Kanada",
                 "start_position": 105,
-                "end_in_text": 111
+                "end_position": 111
             }
         },
         {
@@ -30,7 +30,7 @@
             "properties": {
                 "source_label": "Neu-England",
                 "start_position": 113,
-                "end_in_text": 124
+                "end_position": 124
             }
         },
         {
@@ -38,7 +38,7 @@
             "properties": {
                 "source_label": "Virginien",
                 "start_position": 129,
-                "end_in_text": 138
+                "end_position": 138
             }
         },
         {

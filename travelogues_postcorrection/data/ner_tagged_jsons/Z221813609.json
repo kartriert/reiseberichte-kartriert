@@ -6,7 +6,7 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 59,
-                "end_in_text": 70
+                "end_position": 70
             }
         },
         {
@@ -14,7 +14,7 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 72,
-                "end_in_text": 79
+                "end_position": 79
             }
         },
         {
@@ -22,7 +22,7 @@
             "properties": {
                 "source_label": "Polen",
                 "start_position": 81,
-                "end_in_text": 86
+                "end_position": 86
             }
         },
         {
@@ -30,7 +30,7 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 203,
-                "end_in_text": 210
+                "end_position": 210
             }
         },
         {
@@ -38,7 +38,7 @@
             "properties": {
                 "source_label": "Polen",
                 "start_position": 218,
-                "end_in_text": 223
+                "end_position": 223
             }
         },
         {

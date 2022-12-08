@@ -6,7 +6,7 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 40,
-                "end_in_text": 45
+                "end_position": 45
             }
         },
         {
