@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Siebenb\u00fcrgen",
+                "start_position": 54,
+                "end_in_text": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Temeswarer",
+                "start_position": 72,
+                "end_in_text": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Banat",
+                "start_position": 83,
+                "end_in_text": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ungarn",
+                "start_position": 90,
+                "end_in_text": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oesterreich",
+                "start_position": 98,
+                "end_in_text": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Bayern",
+                "start_position": 111,
+                "end_in_text": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schwaben",
+                "start_position": 119,
+                "end_in_text": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 129,
+                "end_in_text": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Elsa\u00df",
+                "start_position": 141,
+                "end_in_text": 146
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

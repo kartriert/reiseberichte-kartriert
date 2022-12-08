@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 59,
+                "end_in_text": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 72,
+                "end_in_text": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Polen",
+                "start_position": 81,
+                "end_in_text": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 203,
+                "end_in_text": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Polen",
+                "start_position": 218,
+                "end_in_text": 223
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

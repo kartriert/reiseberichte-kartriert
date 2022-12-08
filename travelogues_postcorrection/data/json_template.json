@@ -1,0 +1,16 @@
+[
+  {
+    "entity_group": "PER",
+    "word": "Martin Ansclm",
+    "start": 6,
+    "end": 19,
+    "score": 0.9986679553985596
+  },
+  {
+    "entity_group": "PER",
+    "word": "Georg Sausgruber",
+    "start": 43,
+    "end": 59,
+    "score": 0.9981994926929474
+  }
+]

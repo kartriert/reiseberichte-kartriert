@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Nordamerika",
+                "start_position": 22,
+                "end_in_text": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 33,
+                "end_in_text": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kanada",
+                "start_position": 105,
+                "end_in_text": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neu-England",
+                "start_position": 113,
+                "end_in_text": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Virginien",
+                "start_position": 129,
+                "end_in_text": 138
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

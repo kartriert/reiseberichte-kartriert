@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Surinam",
+                "start_position": 36,
+                "end_in_text": 43
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

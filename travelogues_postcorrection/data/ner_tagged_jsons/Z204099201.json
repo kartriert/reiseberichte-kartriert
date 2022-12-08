@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Mannheim",
+                "start_position": 83,
+                "end_in_text": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Baiern",
+                "start_position": 93,
+                "end_in_text": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oesterreich",
+                "start_position": 104,
+                "end_in_text": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 121,
+                "end_in_text": 125
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

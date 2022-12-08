@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Villa Franca",
+                "start_position": 24,
+                "end_in_text": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Chur-Brandenburg",
+                "start_position": 41,
+                "end_in_text": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Teutschland",
+                "start_position": 64,
+                "end_in_text": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Holland",
+                "start_position": 77,
+                "end_in_text": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Braband",
+                "start_position": 89,
+                "end_in_text": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "England",
+                "start_position": 98,
+                "end_in_text": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Franckreich",
+                "start_position": 107,
+                "end_in_text": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ";",
+                "start_position": 118,
+                "end_in_text": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Turin",
+                "start_position": 136,
+                "end_in_text": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 149,
+                "end_in_text": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Rom",
+                "start_position": 158,
+                "end_in_text": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neapolis",
+                "start_position": 163,
+                "end_in_text": 171
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}

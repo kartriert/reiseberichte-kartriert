@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 21,
+                "end_in_text": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Piemont",
+                "start_position": 30,
+                "end_in_text": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Lombardei",
+                "start_position": 43,
+                "end_in_text": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Tyrol",
+                "start_position": 57,
+                "end_in_text": 62
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordintes": []
+            }
+        }
+    ]
+}
