@@ -7,10 +7,14 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
      integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
      crossorigin=""/>
+    <link rel="stylesheet" href="./jquery-ui.css" type="text/css">
     <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
      integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg="
      crossorigin=""></script>
     <script type='text/javascript' src=".\leaflet.ajax.min.js"></script>
+    <script type='text/javascript' src=".\jquery-1.9.1.min.js"></script>
+    <script type='text/javascript' src=".\jquery-ui.js"></script>
+    <script src="https://rawgit.com/dwilhelm89/LeafletSlider/master/SliderControl.js" type="text/javascript"></script>
     <style>#map { height: 768px; width: 1280px }</style>
   </head>
   
@@ -35,11 +39,12 @@
       var testLayer = new L.GeoJSON.AJAX("./ner-results/Z15657730X.geojson", {
         pointToLayer: function (feature, latlng) {
           return L.circleMarker(latlng, testMarker);
-      }});
+      }, time: "1531"});
       var testLayer2 = new L.GeoJSON.AJAX("./ner-results/Z15958790X.geojson", {
         pointToLayer: function (feature, latlng) {
           return L.circleMarker(latlng, {fillColor: "#fa4800"});
-      }});
+      }, time: "1589" }, {});
+      var testGroup = L.layerGroup([testLayer, testLayer2]);
       //Darstellung der GeoJson-Layer
       testLayer.on('data:loaded', function(){
         testLayer.addTo(map);
@@ -47,6 +52,16 @@
       testLayer2.on('data:loaded', function(){
         testLayer2.addTo(map);
       });
+      // Layerkontrolle
+      var base ={}
+      var overlays = {
+      "Itinerarium Wegraiß Kü. May. potschafft gen Constantinopel zu dem Türckischen Kayser Solyman Anno 30.": testLayer,
+      "Kurtzer vnd warhafftiger Bericht, von der Reyß aus Venedig nach Hierusalem, Von dannen in Aegypten, auff den Berg Sinai ... auffs new übersehen vnd gem.": testLayer2
+      };
+      var layerControl = L.control.layers(base, overlays).addTo(map);
+      var sControl = L.control.sliderControl({position: "topleft", layer: testGroup, range: true});
+      map.addControl(sControl);
+      sControl.startSlider();
       // Nicht funktionsfähiger Stylewechsel
       testLayer.setStyle({fillColor: "#fa4800"});
     </script>
