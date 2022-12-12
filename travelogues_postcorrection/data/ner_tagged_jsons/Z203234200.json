@@ -11,8 +11,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-62.20001",
-                    "-58.96109"
+                    "-58.96109",
+                    "-62.20001"
                 ]
             }
         },
@@ -49,13 +49,15 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "Holland"
+                "source_label": "Holland",
+                "start_position": 77,
+                "end_position": 84
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "52.25",
-                    "5.75"
+                    "5.75",
+                    "52.25"
                 ]
             }
         },
@@ -69,8 +71,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "60.63196",
-                    "9.03487"
+                    "9.03487",
+                    "60.63196"
                 ]
             }
         },
@@ -84,8 +86,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44",
-                    "-71"
+                    "-71",
+                    "44"
                 ]
             }
         },
@@ -114,8 +116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "35.17116",
-                    "-103.72567"
+                    "-103.72567",
+                    "35.17116"
                 ]
             }
         },
@@ -129,8 +131,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "45.07049",
-                    "7.68682"
+                    "7.68682",
+                    "45.07049"
                 ]
             }
         },
@@ -144,8 +146,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "42.83333",
-                    "12.83333"
+                    "12.83333",
+                    "42.83333"
                 ]
             }
         },
@@ -159,8 +161,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "41.89193",
-                    "12.51133"
+                    "12.51133",
+                    "41.89193"
                 ]
             }
         },
@@ -174,8 +176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "40.85216",
-                    "14.26811"
+                    "14.26811",
+                    "40.85216"
                 ]
             }
         }
