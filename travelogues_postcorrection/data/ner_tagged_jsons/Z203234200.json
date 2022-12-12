@@ -49,9 +49,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "Holland",
-                "start_position": 77,
-                "end_position": 84
+                "source_label": "Holland"
             },
             "geometry": {
                 "type": "Point",

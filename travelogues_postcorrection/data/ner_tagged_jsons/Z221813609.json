@@ -10,7 +10,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "51.5",
+                    "10.5"
+                ]
             }
         },
         {
@@ -22,7 +25,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "60",
+                    "100"
+                ]
             }
         },
         {
@@ -34,7 +40,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "52",
+                    "20"
+                ]
             }
         },
         {
@@ -46,7 +55,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "60",
+                    "100"
+                ]
             }
         },
         {
@@ -58,7 +70,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "52",
+                    "20"
+                ]
             }
         }
     ]
