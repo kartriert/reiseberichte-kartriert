@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Arabien",
+                "start_position": 45,
+                "end_position": 52
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45",
+                    "25"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Madagaskar",
+                "start_position": 85,
+                "end_position": 95
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47",
+                    "-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ostindien",
+                "start_position": 100,
+                "end_position": 109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

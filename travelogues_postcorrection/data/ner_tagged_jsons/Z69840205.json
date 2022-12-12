@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Opisanie",
+                "start_position": 0,
+                "end_position": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Zemli",
+                "start_position": 9,
+                "end_position": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46",
+                    "46.16667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kamtschatki",
+                "start_position": 15,
+                "end_position": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sotschinennoje",
+                "start_position": 27,
+                "end_position": 41
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Stepanom",
+                "start_position": 42,
+                "end_position": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Krascheninnikowym",
+                "start_position": 51,
+                "end_position": 68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kamtschatka",
+                "start_position": 103,
+                "end_position": 114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "159",
+                    "55"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Africa",
+                "start_position": 42,
+                "end_position": 48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.09375",
+                    "7.1881"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ostindien",
+                "start_position": 53,
+                "end_position": 62
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 62,
+                "end_position": 63
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        }
+    ]
+}

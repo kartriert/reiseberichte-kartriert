@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 69,
+                "end_position": 73
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neapel",
+                "start_position": 79,
+                "end_position": 85
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.26811",
+                    "40.85216"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 125,
+                "end_position": 129
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Venedig",
+                "start_position": 135,
+                "end_position": 142
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.33265",
+                    "45.43713"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Florenz",
+                "start_position": 147,
+                "end_position": 154
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.24626",
+                    "43.77925"
+                ]
+            }
+        }
+    ]
+}

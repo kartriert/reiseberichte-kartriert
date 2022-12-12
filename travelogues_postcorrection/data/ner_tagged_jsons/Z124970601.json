@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschlands",
+                "start_position": 35,
+                "end_position": 47
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

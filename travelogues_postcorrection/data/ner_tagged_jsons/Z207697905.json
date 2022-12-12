@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Karpathen",
+                "start_position": 109,
+                "end_position": 118
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

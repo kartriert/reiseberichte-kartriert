@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 10,
+                "end_position": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Madrit",
+                "start_position": 20,
+                "end_position": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.70256",
+                    "40.4165"
+                ]
+            }
+        }
+    ]
+}

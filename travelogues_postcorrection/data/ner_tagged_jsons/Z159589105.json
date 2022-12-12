@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Dalmatien",
+                "start_position": 35,
+                "end_position": 44
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.5",
+                    "43.16667"
+                ]
+            }
+        }
+    ]
+}

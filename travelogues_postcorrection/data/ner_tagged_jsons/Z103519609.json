@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Bayern",
+                "start_position": 18,
+                "end_position": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.57549",
+                    "48.13743"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "W\u00fcrtemberg",
+                "start_position": 26,
+                "end_position": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.17702",
+                    "48.78232"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Pfalz",
+                "start_position": 38,
+                "end_position": 43
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.2791",
+                    "49.98419"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sachsen",
+                "start_position": 45,
+                "end_position": 52
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.25",
+                    "51"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Brandenburg",
+                "start_position": 54,
+                "end_position": 65
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.01582",
+                    "52.45905"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oesterreich",
+                "start_position": 67,
+                "end_position": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.33333",
+                    "47.33333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "M\u00e4hren",
+                "start_position": 80,
+                "end_position": 86
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17",
+                    "49.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "B\u00f6hmen",
+                "start_position": 88,
+                "end_position": 94
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.5",
+                    "50"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ungarn",
+                "start_position": 99,
+                "end_position": 105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20",
+                    "47"
+                ]
+            }
+        }
+    ]
+}

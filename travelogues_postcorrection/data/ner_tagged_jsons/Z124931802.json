@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Botany-Bay",
+                "start_position": 15,
+                "end_position": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "151.19874",
+                    "-33.9466"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ";",
+                "start_position": 25,
+                "end_position": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        }
+    ]
+}

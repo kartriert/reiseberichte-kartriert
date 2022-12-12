@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Guinea",
+                "start_position": 11,
+                "end_position": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.66667",
+                    "10.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Columbien",
+                "start_position": 49,
+                "end_position": 58
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.25",
+                    "4"
+                ]
+            }
+        }
+    ]
+}

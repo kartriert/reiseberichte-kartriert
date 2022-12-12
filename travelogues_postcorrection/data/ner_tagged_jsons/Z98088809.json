@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Griechenland",
+                "start_position": 10,
+                "end_position": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22",
+                    "39"
+                ]
+            }
+        }
+    ]
+}

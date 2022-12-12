@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Capri",
+                "start_position": 57,
+                "end_position": 62
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.24263",
+                    "40.55073"
+                ]
+            }
+        }
+    ]
+}

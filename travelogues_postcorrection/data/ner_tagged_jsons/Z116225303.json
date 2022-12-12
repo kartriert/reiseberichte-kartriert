@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kalabrien",
+                "start_position": 12,
+                "end_position": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.5",
+                    "39"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sizilien",
+                "start_position": 26,
+                "end_position": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.93457",
+                    "37.62304"
+                ]
+            }
+        }
+    ]
+}

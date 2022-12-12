@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Orient",
+                "start_position": 13,
+                "end_position": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.85869",
+                    "33.13906"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sicilien",
+                "start_position": 16,
+                "end_position": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.93457",
+                    "37.62304"
+                ]
+            }
+        }
+    ]
+}

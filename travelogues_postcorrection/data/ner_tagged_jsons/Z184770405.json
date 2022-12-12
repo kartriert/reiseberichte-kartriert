@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Riesengebirge",
+                "start_position": 34,
+                "end_position": 47
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.62222",
+                    "50.76722"
+                ]
+            }
+        }
+    ]
+}

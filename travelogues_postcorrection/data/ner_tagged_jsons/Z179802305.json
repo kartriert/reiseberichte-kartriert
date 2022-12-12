@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 50,
+                "end_position": 54
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ";",
+                "start_position": 55,
+                "end_position": 56
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Hrsg",
+                "start_position": 57,
+                "end_position": 61
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

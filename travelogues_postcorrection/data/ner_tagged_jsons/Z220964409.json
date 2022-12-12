@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 48,
+                "end_position": 55
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        }
+    ]
+}

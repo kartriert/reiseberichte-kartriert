@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "vereinigten nordamerikanischen Staaten",
+                "start_position": 23,
+                "end_position": 61
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ost-Florida",
+                "start_position": 68,
+                "end_position": 79
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.50334",
+                    "-32.72244"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Bahama-Inseln",
+                "start_position": 88,
+                "end_position": 101
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.7553",
+                    "39.497"
+                ]
+            }
+        }
+    ]
+}

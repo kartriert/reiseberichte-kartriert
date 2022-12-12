@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schwabens",
+                "start_position": 25,
+                "end_position": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.13333",
+                    "50.63333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schwarzwald",
+                "start_position": 46,
+                "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.86886",
+                    "48.34042"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 69,
+                "end_position": 76
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.01427",
+                    "47.00016"
+                ]
+            }
+        }
+    ]
+}

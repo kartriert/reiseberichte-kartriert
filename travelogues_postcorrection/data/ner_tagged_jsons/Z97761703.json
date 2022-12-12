@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 12,
+                "end_position": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "40"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Madrid",
+                "start_position": 34,
+                "end_position": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.70256",
+                    "40.4165"
+                ]
+            }
+        }
+    ]
+}

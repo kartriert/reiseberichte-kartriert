@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 10,
+                "end_position": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Paris",
+                "start_position": 20,
+                "end_position": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.3488",
+                    "48.85341"
+                ]
+            }
+        }
+    ]
+}

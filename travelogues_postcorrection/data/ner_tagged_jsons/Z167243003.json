@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 12,
+                "end_position": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Leiden",
+                "start_position": 131,
+                "end_position": 137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.49306",
+                    "52.15833"
+                ]
+            }
+        }
+    ]
+}

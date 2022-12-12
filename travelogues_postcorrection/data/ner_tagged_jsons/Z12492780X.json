@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Egypten",
+                "start_position": 30,
+                "end_position": 37
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30",
+                    "27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Arabien",
+                "start_position": 42,
+                "end_position": 49
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45",
+                    "25"
+                ]
+            }
+        }
+    ]
+}

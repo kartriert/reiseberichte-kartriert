@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Norwegen",
+                "start_position": 12,
+                "end_position": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10",
+                    "62"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "D\u00e4nemark",
+                "start_position": 22,
+                "end_position": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10",
+                    "56"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 35,
+                "end_position": 42
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        }
+    ]
+}

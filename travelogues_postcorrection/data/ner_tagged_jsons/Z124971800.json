@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 13,
+                "end_position": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Meklenburg",
+                "start_position": 47,
+                "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.45286",
+                    "53.89314"
+                ]
+            }
+        }
+    ]
+}

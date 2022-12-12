@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Asien",
+                "start_position": 43,
+                "end_position": 48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.29688",
+                    "29.84064"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "America",
+                "start_position": 53,
+                "end_position": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-57.65625",
+                    "-14.60485"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Auvergne",
+                "start_position": 12,
+                "end_position": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.19643",
+                    "45.74123"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 207,
+                "end_position": 217
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        }
+    ]
+}

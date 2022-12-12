@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Rom",
+                "start_position": 87,
+                "end_position": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.51133",
+                    "41.89193"
+                ]
+            }
+        }
+    ]
+}

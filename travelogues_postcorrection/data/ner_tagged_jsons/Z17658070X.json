@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Nord-America",
+                "start_position": 31,
+                "end_position": 43
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.54688",
+                    "46.07323"
+                ]
+            }
+        }
+    ]
+}

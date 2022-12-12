@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Krain",
+                "start_position": 77,
+                "end_position": 82
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.44833",
+                    "33.28444"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Istrien",
+                "start_position": 84,
+                "end_position": 91
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.91667",
+                    "45.25"
+                ]
+            }
+        }
+    ]
+}

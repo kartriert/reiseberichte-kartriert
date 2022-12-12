@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Syrien",
+                "start_position": 30,
+                "end_position": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38",
+                    "35"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Aegypten",
+                "start_position": 41,
+                "end_position": 49
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30",
+                    "27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 49,
+                "end_position": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        }
+    ]
+}

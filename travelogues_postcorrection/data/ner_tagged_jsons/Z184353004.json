@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Pre\u00dfburg",
+                "start_position": 11,
+                "end_position": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.10674",
+                    "48.14816"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "M\u00e4hren",
+                "start_position": 26,
+                "end_position": 32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17",
+                    "49.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schlesien",
+                "start_position": 40,
+                "end_position": 49
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18",
+                    "51"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ungarn",
+                "start_position": 54,
+                "end_position": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20",
+                    "47"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Siebenb\u00fcrgen",
+                "start_position": 66,
+                "end_position": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25",
+                    "46.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Pre\u00dfburg",
+                "start_position": 102,
+                "end_position": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.10674",
+                    "48.14816"
+                ]
+            }
+        }
+    ]
+}

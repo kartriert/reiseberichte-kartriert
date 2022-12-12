@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schwaben",
+                "start_position": 13,
+                "end_position": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9",
+                    "48"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Baiern",
+                "start_position": 23,
+                "end_position": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.5",
+                    "48.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 31,
+                "end_position": 38
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.01427",
+                    "47.00016"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Franken",
+                "start_position": 40,
+                "end_position": 47
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9",
+                    "50"
+                ]
+            }
+        }
+    ]
+}

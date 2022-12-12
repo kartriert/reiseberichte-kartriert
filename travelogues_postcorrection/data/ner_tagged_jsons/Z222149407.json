@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Russland",
+                "start_position": 17,
+                "end_position": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        }
+    ]
+}

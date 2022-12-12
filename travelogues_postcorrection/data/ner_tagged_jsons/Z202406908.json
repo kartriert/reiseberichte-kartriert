@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sizilien",
+                "start_position": 47,
+                "end_position": 55
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.93457",
+                    "37.62304"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 128,
+                "end_position": 135
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Messina",
+                "start_position": 205,
+                "end_position": 212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.55256",
+                    "38.19394"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Catania",
+                "start_position": 214,
+                "end_position": 221
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.07041",
+                    "37.49223"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Aetna",
+                "start_position": 246,
+                "end_position": 251
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.64734",
+                    "47.69783"
+                ]
+            }
+        }
+    ]
+}

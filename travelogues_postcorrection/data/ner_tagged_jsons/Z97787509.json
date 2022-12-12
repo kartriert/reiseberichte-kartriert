@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Amerika",
+                "start_position": 75,
+                "end_position": 82
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-57.65625",
+                    "-14.60485"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Amerika",
+                "start_position": 107,
+                "end_position": 114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-57.65625",
+                    "-14.60485"
+                ]
+            }
+        }
+    ]
+}

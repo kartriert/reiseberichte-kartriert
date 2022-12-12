@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Marokko",
+                "start_position": 17,
+                "end_position": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10",
+                    "28.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ";",
+                "start_position": 24,
+                "end_position": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 43,
+                "end_position": 53
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 55,
+                "end_position": 62
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "40"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Portugal",
+                "start_position": 67,
+                "end_position": 75
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.13057",
+                    "39.6945"
+                ]
+            }
+        }
+    ]
+}

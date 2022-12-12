@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Europa",
+                "start_position": 153,
+                "end_position": 159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.14062",
+                    "48.69096"
+                ]
+            }
+        }
+    ]
+}

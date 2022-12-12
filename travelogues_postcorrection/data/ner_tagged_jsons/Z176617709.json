@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Fuld",
+                "start_position": 44,
+                "end_position": 48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.94389",
+                    "40.8025"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Rhein",
+                "start_position": 86,
+                "end_position": 91
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.77012",
+                    "49.31885"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Mayn",
+                "start_position": 96,
+                "end_position": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.16667",
+                    "71.08333"
+                ]
+            }
+        }
+    ]
+}

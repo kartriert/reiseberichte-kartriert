@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Erfurt",
+                "start_position": 78,
+                "end_position": 84
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.03283",
+                    "50.9787"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Gotha",
+                "start_position": 86,
+                "end_position": 91
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.70193",
+                    "50.94823"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Weimar",
+                "start_position": 93,
+                "end_position": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.32903",
+                    "50.9803"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Jena",
+                "start_position": 101,
+                "end_position": 105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.5899",
+                    "50.92878"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Naumburg",
+                "start_position": 107,
+                "end_position": 115
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.80979",
+                    "51.14987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Weissenfels",
+                "start_position": 117,
+                "end_position": 128
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.96843",
+                    "51.20148"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Laupst\u00e4dt",
+                "start_position": 130,
+                "end_position": 139
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Halle",
+                "start_position": 141,
+                "end_position": 146
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.97947",
+                    "51.48158"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Leipzig",
+                "start_position": 148,
+                "end_position": 155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        }
+    ]
+}

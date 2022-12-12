@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oesterreich",
+                "start_position": 106,
+                "end_position": 117
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.33333",
+                    "47.33333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sicilien",
+                "start_position": 204,
+                "end_position": 212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.93457",
+                    "37.62304"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 221,
+                "end_position": 225
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neapolis",
+                "start_position": 231,
+                "end_position": 239
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.26811",
+                    "40.85216"
+                ]
+            }
+        }
+    ]
+}

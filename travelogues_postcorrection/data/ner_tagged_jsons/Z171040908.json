@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kamtschatka",
+                "start_position": 38,
+                "end_position": 49
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "159",
+                    "55"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sibirien",
+                "start_position": 54,
+                "end_position": 62
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 68,
+                "end_position": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 78,
+                "end_position": 79
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        }
+    ]
+}

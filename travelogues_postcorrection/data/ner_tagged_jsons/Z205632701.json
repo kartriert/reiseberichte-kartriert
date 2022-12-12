@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Mariazell",
+                "start_position": 11,
+                "end_position": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.31639",
+                    "47.77306"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Steyermark",
+                "start_position": 24,
+                "end_position": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

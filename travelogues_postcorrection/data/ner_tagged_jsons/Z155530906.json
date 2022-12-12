@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 32,
+                "end_position": 42
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 44,
+                "end_position": 51
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 56,
+                "end_position": 67
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        }
+    ]
+}

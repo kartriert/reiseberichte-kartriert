@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Warschau",
+                "start_position": 10,
+                "end_position": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.01178",
+                    "52.22977"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Wien",
+                "start_position": 24,
+                "end_position": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sicilien",
+                "start_position": 53,
+                "end_position": 61
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.93457",
+                    "37.62304"
+                ]
+            }
+        }
+    ]
+}

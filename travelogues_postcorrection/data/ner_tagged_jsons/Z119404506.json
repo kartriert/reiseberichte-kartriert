@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Biarne",
+                "start_position": 19,
+                "end_position": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.45713",
+                    "47.14558"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Island",
+                "start_position": 48,
+                "end_position": 54
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-18",
+                    "65"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Kopenhagen",
+                "start_position": 115,
+                "end_position": 125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.56553",
+                    "55.67594"
+                ]
+            }
+        }
+    ]
+}

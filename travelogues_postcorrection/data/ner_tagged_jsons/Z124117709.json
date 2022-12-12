@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 16,
+                "end_position": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.01427",
+                    "47.00016"
+                ]
+            }
+        }
+    ]
+}

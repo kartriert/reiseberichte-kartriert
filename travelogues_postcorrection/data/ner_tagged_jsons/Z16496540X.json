@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 56,
+                "end_position": 63
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "40"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Welschland",
+                "start_position": 68,
+                "end_position": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.30543",
+                    "47.42074"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 78,
+                "end_position": 79
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 117,
+                "end_position": 124
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "40"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ostindien",
+                "start_position": 11,
+                "end_position": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "China",
+                "start_position": 25,
+                "end_position": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105",
+                    "35"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Suratte",
+                "start_position": 60,
+                "end_position": 67
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "95.2005",
+                    "5.5617"
+                ]
+            }
+        }
+    ]
+}

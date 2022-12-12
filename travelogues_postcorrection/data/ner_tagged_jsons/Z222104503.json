@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "start_position": 46,
+                "end_position": 52
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12574",
+                    "51.50853"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Paris",
+                "start_position": 54,
+                "end_position": 59
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.3488",
+                    "48.85341"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Lyon",
+                "start_position": 64,
+                "end_position": 68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.84671",
+                    "45.74846"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 189,
+                "end_position": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweden",
+                "start_position": 202,
+                "end_position": 210
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15",
+                    "62"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Norwegen",
+                "start_position": 212,
+                "end_position": 220
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10",
+                    "62"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "England",
+                "start_position": 222,
+                "end_position": 229
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71",
+                    "44"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schottland",
+                "start_position": 235,
+                "end_position": 245
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "56"
+                ]
+            }
+        }
+    ]
+}

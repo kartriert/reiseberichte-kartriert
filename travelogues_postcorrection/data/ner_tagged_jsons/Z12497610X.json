@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Stade",
+                "start_position": 27,
+                "end_position": 32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.47629",
+                    "53.59337"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Madras",
+                "start_position": 38,
+                "end_position": 44
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "80.27847",
+                    "13.08784"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ostindien",
+                "start_position": 48,
+                "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ostindien",
+                "start_position": 66,
+                "end_position": 75
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Antigua",
+                "start_position": 29,
+                "end_position": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.73444",
+                    "14.56111"
+                ]
+            }
+        }
+    ]
+}

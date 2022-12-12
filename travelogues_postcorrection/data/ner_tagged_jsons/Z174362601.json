@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 12,
+                "end_position": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 27,
+                "end_position": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Nizza",
+                "start_position": 159,
+                "end_position": 164
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.26608",
+                    "43.70313"
+                ]
+            }
+        }
+    ]
+}

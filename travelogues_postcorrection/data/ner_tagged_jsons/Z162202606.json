@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Toulouse",
+                "start_position": 32,
+                "end_position": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.44367",
+                    "43.60426"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Montpellier",
+                "start_position": 46,
+                "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.87635",
+                    "43.61093"
+                ]
+            }
+        }
+    ]
+}

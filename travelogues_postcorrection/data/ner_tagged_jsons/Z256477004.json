@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Asien",
+                "start_position": 110,
+                "end_position": 115
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.29688",
+                    "29.84064"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Afrika",
+                "start_position": 120,
+                "end_position": 126
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.09375",
+                    "7.1881"
+                ]
+            }
+        }
+    ]
+}

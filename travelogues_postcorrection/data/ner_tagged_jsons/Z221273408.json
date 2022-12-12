@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neuste",
+                "start_position": 0,
+                "end_position": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.36703",
+                    "47.28059"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Vereinigten Niederlande",
+                "start_position": 24,
+                "end_position": 47
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

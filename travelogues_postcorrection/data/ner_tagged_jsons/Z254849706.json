@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 31,
+                "end_position": 42
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 51,
+                "end_position": 58
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.01427",
+                    "47.00016"
+                ]
+            }
+        }
+    ]
+}

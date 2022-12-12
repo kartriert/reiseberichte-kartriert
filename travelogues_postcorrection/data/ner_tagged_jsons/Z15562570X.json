@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "England",
+                "start_position": 57,
+                "end_position": 64
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71",
+                    "44"
+                ]
+            }
+        }
+    ]
+}

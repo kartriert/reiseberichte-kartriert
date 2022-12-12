@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Pelew-Inseln",
+                "start_position": 68,
+                "end_position": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "134.622",
+                    "7.503"
+                ]
+            }
+        }
+    ]
+}

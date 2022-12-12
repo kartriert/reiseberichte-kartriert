@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "vereinigten Niederlande",
+                "start_position": 86,
+                "end_position": 109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Holland",
+                "start_position": 157,
+                "end_position": 164
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.75",
+                    "52.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oberdeutschland",
+                "start_position": 166,
+                "end_position": 181
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweiz",
+                "start_position": 190,
+                "end_position": 197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.01427",
+                    "47.00016"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 220,
+                "end_position": 227
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        }
+    ]
+}

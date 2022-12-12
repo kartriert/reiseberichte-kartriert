@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Mequinetz",
+                "start_position": 11,
+                "end_position": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Fetz",
+                "start_position": 60,
+                "end_position": 64
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.46667",
+                    "47.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Marocco",
+                "start_position": 69,
+                "end_position": 76
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10",
+                    "28.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "start_position": 246,
+                "end_position": 252
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12574",
+                    "51.50853"
+                ]
+            }
+        }
+    ]
+}

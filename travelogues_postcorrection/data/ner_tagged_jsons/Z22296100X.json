@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Island",
+                "start_position": 25,
+                "end_position": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-18",
+                    "65"
+                ]
+            }
+        }
+    ]
+}

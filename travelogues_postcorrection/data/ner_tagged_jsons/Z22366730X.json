@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 91,
+                "end_position": 101
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Paris",
+                "start_position": 145,
+                "end_position": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.3488",
+                    "48.85341"
+                ]
+            }
+        }
+    ]
+}

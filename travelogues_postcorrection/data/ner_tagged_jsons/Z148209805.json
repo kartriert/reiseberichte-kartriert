@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Frankreich",
+                "start_position": 45,
+                "end_position": 55
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Paris",
+                "start_position": 91,
+                "end_position": 96
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.3488",
+                    "48.85341"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Cherbourg",
+                "start_position": 98,
+                "end_position": 107
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.61636",
+                    "49.63984"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ermenonville",
+                "start_position": 112,
+                "end_position": 124
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.69772",
+                    "49.12648"
+                ]
+            }
+        }
+    ]
+}

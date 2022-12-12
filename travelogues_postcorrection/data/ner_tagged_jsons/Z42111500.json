@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Spanien",
+                "start_position": 214,
+                "end_position": 221
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4",
+                    "40"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Franckreich",
+                "start_position": 223,
+                "end_position": 234
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Niederland",
+                "start_position": 236,
+                "end_position": 246
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.50528",
+                    "-22.9575"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Teutsch",
+                "start_position": 248,
+                "end_position": 255
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.88996",
+                    "41.43033"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "-",
+                "start_position": 255,
+                "end_position": 256
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Welschland",
+                "start_position": 261,
+                "end_position": 271
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.30543",
+                    "47.42074"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 271,
+                "end_position": 272
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Europa",
+                "start_position": 333,
+                "end_position": 339
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.14062",
+                    "48.69096"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Afrika",
+                "start_position": 47,
+                "end_position": 53
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.09375",
+                    "7.1881"
+                ]
+            }
+        }
+    ]
+}

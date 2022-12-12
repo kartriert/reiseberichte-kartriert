@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Schweden",
+                "start_position": 27,
+                "end_position": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15",
+                    "62"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Lapplandes",
+                "start_position": 47,
+                "end_position": 57
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "West-Nordland",
+                "start_position": 94,
+                "end_position": 107
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.62212",
+                    "46.46111"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Lappmark",
+                "start_position": 117,
+                "end_position": 125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.5",
+                    "64.75"
+                ]
+            }
+        }
+    ]
+}

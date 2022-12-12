@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Paraquaria",
+                "start_position": 110,
+                "end_position": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-58",
+                    "-23.33333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Guiana",
+                "start_position": 249,
+                "end_position": 255
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-59",
+                    "5"
+                ]
+            }
+        }
+    ]
+}

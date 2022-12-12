@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 12,
+                "end_position": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "St. Petersburg",
+                "start_position": 73,
+                "end_position": 87
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.31413",
+                    "59.93863"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Tscherkask",
+                "start_position": 97,
+                "end_position": 107
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Gr\u00f6nland",
+                "start_position": 13,
+                "end_position": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-40",
+                    "72"
+                ]
+            }
+        }
+    ]
+}

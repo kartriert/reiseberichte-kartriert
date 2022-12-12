@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Riga",
+                "start_position": 59,
+                "end_position": 63
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "24.10589",
+                    "56.946"
+                ]
+            }
+        }
+    ]
+}

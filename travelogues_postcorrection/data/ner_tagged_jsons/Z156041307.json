@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "start_position": 44,
+                "end_position": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12574",
+                    "51.50853"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 57,
+                "end_position": 64
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Persien",
+                "start_position": 69,
+                "end_position": 76
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "53",
+                    "32"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 102,
+                "end_position": 109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 111,
+                "end_position": 122
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Holland",
+                "start_position": 127,
+                "end_position": 134
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.75",
+                    "52.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "start_position": 286,
+                "end_position": 292
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12574",
+                    "51.50853"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 299,
+                "end_position": 306
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Persien",
+                "start_position": 311,
+                "end_position": 318
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "53",
+                    "32"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 344,
+                "end_position": 351
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Deutschland",
+                "start_position": 353,
+                "end_position": 364
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.5",
+                    "51.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Holland",
+                "start_position": 369,
+                "end_position": 376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.75",
+                    "52.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Ru\u00dfland",
+                "start_position": 511,
+                "end_position": 518
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "100",
+                    "60"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Persien",
+                "start_position": 520,
+                "end_position": 527
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "53",
+                    "32"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Armenien",
+                "start_position": 562,
+                "end_position": 570
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45",
+                    "40.25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "China",
+                "start_position": 572,
+                "end_position": 577
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105",
+                    "35"
+                ]
+            }
+        }
+    ]
+}

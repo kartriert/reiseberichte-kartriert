@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Achin",
+                "start_position": 130,
+                "end_position": 135
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "70.66126",
+                    "34.05692"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Sumatra",
+                "start_position": 140,
+                "end_position": 147
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102",
+                    "0"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Tonquin",
+                "start_position": 154,
+                "end_position": 161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "105",
+                    "22"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Malacca",
+                "start_position": 163,
+                "end_position": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "102.2405",
+                    "2.196"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "West-Indien",
+                "start_position": 253,
+                "end_position": 264
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.21667",
+                    "19.38333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Winden",
+                "start_position": 331,
+                "end_position": 337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.7556",
+                    "47.9501"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Str\u00f6hmen",
+                "start_position": 374,
+                "end_position": 382
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

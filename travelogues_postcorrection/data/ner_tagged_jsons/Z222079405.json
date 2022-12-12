@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Oesterreich",
+                "start_position": 13,
+                "end_position": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.33333",
+                    "47.33333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Steyermark",
+                "start_position": 26,
+                "end_position": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "K\u00e4rnten",
+                "start_position": 38,
+                "end_position": 45
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.83333",
+                    "46.75"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Krain",
+                "start_position": 47,
+                "end_position": 52
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.44833",
+                    "33.28444"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Italien",
+                "start_position": 54,
+                "end_position": 61
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.83333",
+                    "42.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Tyrol",
+                "start_position": 63,
+                "end_position": 68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.5",
+                    "47"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Salzburg",
+                "start_position": 70,
+                "end_position": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.04399",
+                    "47.79941"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Baiern",
+                "start_position": 83,
+                "end_position": 89
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.5",
+                    "48.5"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Klagenfurt",
+                "start_position": 135,
+                "end_position": 145
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.30528",
+                    "46.62472"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Laubach",
+                "start_position": 151,
+                "end_position": 158
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.99034",
+                    "50.54196"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Idria",
+                "start_position": 163,
+                "end_position": 168
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Triest",
+                "start_position": 174,
+                "end_position": 180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.77678",
+                    "45.64953"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Krain",
+                "start_position": 202,
+                "end_position": 207
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.44833",
+                    "33.28444"
+                ]
+            }
+        }
+    ]
+}

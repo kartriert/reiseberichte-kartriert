@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Dahomy",
+                "start_position": 66,
+                "end_position": 72
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.98511",
+                    "33.67456"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Guinea",
+                "start_position": 76,
+                "end_position": 82
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.66667",
+                    "10.83333"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": ":",
+                "start_position": 82,
+                "end_position": 83
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-103.72567",
+                    "35.17116"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Arabiens",
+                "start_position": 111,
+                "end_position": 119
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}

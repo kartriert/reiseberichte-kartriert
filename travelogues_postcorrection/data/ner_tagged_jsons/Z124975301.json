@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Neu-S\u00fcd-Wales",
+                "start_position": 21,
+                "end_position": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Port-Jackson",
+                "start_position": 85,
+                "end_position": 97
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "175.34995",
+                    "-36.48945"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Norfolk's-Insel",
+                "start_position": 106,
+                "end_position": 121
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        }
+    ]
+}
