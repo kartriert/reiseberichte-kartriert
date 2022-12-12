@@ -1,13 +1,13 @@
 """
 This script aims to improve old german txt files in several ways:
 DONE - Replace the old 'ſ' with 's'
-NECESSARY? BUT DONE - Remove non-word characters
+DONE - Remove non-word characters
 DONE - Reconnect words separated by line breaks
 DONE - Reconnect single characters with words befor or after
-- Correct common mistakes (e.g. "Teutschland")
-PARTIALLY DONE - Semi-manually correct long, falsely OCRed words (criteria: number of directly succeeding consonants )
+DONE - Correct common mistakes (e.g. "Teutschland")
+DONE - Semi-manually correct long, falsely OCRed words (criteria: number of directly succeeding letters)
 
-Note: the corrected texts are not usable for extraction of dates and years;
+Note: the corrected texts are not usable for extraction of dates and years since some of the numbers might get edited out;
 for this, a separate script should be used on the original texts
 
 """
@@ -17,10 +17,6 @@ import os.path
 import glob
 
 def correct_s(txt):
-    '''
-    Ideas
-    - Correct letters with special characters (like an a with an e above it) (but those characters are only in the already corrected version)
-    '''
     # o -> º
     output_txt = re.sub("º", "o", txt)
     # ë, č # These shouldn't be of much importance
@@ -64,22 +60,16 @@ def common_mistakes(txt):
     # sei -> fei, fey
     txt = re.sub('ey', 'ei', txt)
     txt = re.sub('fei', 'sei', txt)
-    #liste_de = ["teutschland", "teutchland", "deutchland"]
-    #liste_au
-    #liste_ch
-    #liste_indien
-    #etc
-    #for item in liste_de:
-    #    txt = re.sub(item, "deutschland", txt)
-    #test_list = re.findall("[^s][^t][^a]dt", txt)
-    #if test_list != []:
-    #    print('Anzahl der Fundorte: ', len(test_list))
-    #    print(test_list)
+    # in -> jn # Also helps find "Indien" better
+    txt = re.sub('jn', 'in', txt)
+    # Countries: DE
+    txt = re.sub('teutschland', 'deutschland', txt)
+    # More common country spelling mistakes...?
     return txt
 
 def correct_consonants(txt, textfile):
     """
-    Question: Is this useful? When comparing the same text, one time correct and one time only OCRed, the former text shows 519 instanes to correct, while the latter shows 794, which is not that great of a difference.
+    How useful is this? One text has over 1600 found instances that must then all be corrected; however, many texts also only have 20-50
     """
     # Semi-manual correction of instances, where at least 5 consonants succeed each other
     
@@ -155,8 +145,6 @@ def main():
         txt = common_mistakes(txt)
         #print(txt)
         txt = correct_consonants(txt, textfile)
-        #letter_list = [m.start() for m in re.finditer("\w{19}\w*", txt)]
-        #print(len(letter_list))
         #print(txt)
         save_file(txt, textfile)
 
