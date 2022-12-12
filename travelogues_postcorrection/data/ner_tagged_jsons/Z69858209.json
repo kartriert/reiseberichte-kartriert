@@ -10,7 +10,10 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": []
+                "coordinates": [
+                    "4",
+                    "-56"
+                ]
             }
         }
     ]
