@@ -1,0 +1,437 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "kopenhagen",
+                "sentence_idx": 3,
+                "start_position": 0,
+                "end_position": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.56553",
+                    "55.67594"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 39,
+                "start_position": 145,
+                "end_position": 152
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 43,
+                "start_position": 126,
+                "end_position": 133
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 62,
+                "start_position": 354,
+                "end_position": 361
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "keffelsdorf",
+                "sentence_idx": 71,
+                "start_position": 181,
+                "end_position": 192
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 72,
+                "start_position": 66,
+                "end_position": 73
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "dresden",
+                "sentence_idx": 74,
+                "start_position": 241,
+                "end_position": 248
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.73832",
+                    "51.05089"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 90,
+                "start_position": 61,
+                "end_position": 68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 93,
+                "start_position": 228,
+                "end_position": 235
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "londen",
+                "sentence_idx": 94,
+                "start_position": 153,
+                "end_position": 159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12574",
+                    "51.50853"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 95,
+                "start_position": 51,
+                "end_position": 58
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 95,
+                "start_position": 361,
+                "end_position": 368
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 131,
+                "start_position": 98,
+                "end_position": 105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "amerika",
+                "sentence_idx": 164,
+                "start_position": 20,
+                "end_position": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-57.65625",
+                    "-14.60485"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "verga",
+                "sentence_idx": 166,
+                "start_position": 130,
+                "end_position": 135
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.18131",
+                    "36.99877"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "frankreich",
+                "sentence_idx": 166,
+                "start_position": 226,
+                "end_position": 236
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2",
+                    "46"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "nnemark",
+                "sentence_idx": 191,
+                "start_position": 165,
+                "end_position": 172
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 288,
+                "start_position": 139,
+                "end_position": 146
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "magdeburg",
+                "sentence_idx": 288,
+                "start_position": 222,
+                "end_position": 231
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.62916",
+                    "52.12773"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "lau niz",
+                "sentence_idx": 288,
+                "start_position": 285,
+                "end_position": 293
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "europa",
+                "sentence_idx": 290,
+                "start_position": 129,
+                "end_position": 135
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.14062",
+                    "48.69096"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "warschau",
+                "sentence_idx": 291,
+                "start_position": 110,
+                "end_position": 118
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.01178",
+                    "52.22977"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "polen",
+                "sentence_idx": 292,
+                "start_position": 272,
+                "end_position": 277
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20",
+                    "52"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "dresden",
+                "sentence_idx": 293,
+                "start_position": 32,
+                "end_position": 39
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.73832",
+                    "51.05089"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "sachsen",
+                "sentence_idx": 305,
+                "start_position": 272,
+                "end_position": 279
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.25",
+                    "51"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 325,
+                "start_position": 60,
+                "end_position": 67
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "leipzig",
+                "sentence_idx": 329,
+                "start_position": 255,
+                "end_position": 262
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.37129",
+                    "51.33962"
+                ]
+            }
+        }
+    ]
+}
