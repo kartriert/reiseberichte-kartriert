@@ -42,7 +42,8 @@ def single_characters(txt):
 def delete_specials(txt):
     # Remove non-word characters / all characters except the following
     txt = re.sub("[^a-z0-9\n,üöäß.; ]", " ", txt)
-    # Note: Do not delete "-" in between letters, since it can impair the NER's ability to find places (Example: Ost-Indien / Ostindien)
+    # Note: Do not delete "-" in between letters, since it can impair the NER's ability to find places (Example:
+    # Ost-Indien / Ostindien)
     return txt
 
 
