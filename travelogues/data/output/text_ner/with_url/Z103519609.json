@@ -7,7 +7,8 @@
                 "source_label": "bayern",
                 "sentence_idx": 0,
                 "start_position": 20,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +24,8 @@
                 "source_label": "rtemberg",
                 "sentence_idx": 0,
                 "start_position": 31,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -39,7 +41,8 @@
                 "source_label": "pfalz",
                 "sentence_idx": 0,
                 "start_position": 41,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +58,8 @@
                 "source_label": "sachsen",
                 "sentence_idx": 0,
                 "start_position": 48,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +75,8 @@
                 "source_label": "brandenburg",
                 "sentence_idx": 0,
                 "start_position": 57,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +92,8 @@
                 "source_label": "oesterreich",
                 "sentence_idx": 0,
                 "start_position": 70,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +109,8 @@
                 "source_label": "ungern",
                 "sentence_idx": 0,
                 "start_position": 104,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +126,8 @@
                 "source_label": "spielberg",
                 "sentence_idx": 14,
                 "start_position": 171,
-                "end_position": 180
+                "end_position": 180,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +143,8 @@
                 "source_label": "march",
                 "sentence_idx": 21,
                 "start_position": 74,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +160,8 @@
                 "source_label": "frankfurt am mayn",
                 "sentence_idx": 25,
                 "start_position": 26,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +177,8 @@
                 "source_label": "spielberg",
                 "sentence_idx": 29,
                 "start_position": 116,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -183,7 +194,8 @@
                 "source_label": "rathau",
                 "sentence_idx": 33,
                 "start_position": 0,
-                "end_position": 6
+                "end_position": 6,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +211,8 @@
                 "source_label": "olm",
                 "sentence_idx": 39,
                 "start_position": 62,
-                "end_position": 65
+                "end_position": 65,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +228,8 @@
                 "source_label": "br n",
                 "sentence_idx": 40,
                 "start_position": 12,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +245,8 @@
                 "source_label": "slavikos",
                 "sentence_idx": 40,
                 "start_position": 48,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +262,8 @@
                 "source_label": "witz",
                 "sentence_idx": 40,
                 "start_position": 57,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -263,7 +279,8 @@
                 "source_label": "lichtenstein",
                 "sentence_idx": 42,
                 "start_position": 28,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +296,8 @@
                 "source_label": "kaunitz",
                 "sentence_idx": 44,
                 "start_position": 79,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +313,8 @@
                 "source_label": "wien",
                 "sentence_idx": 44,
                 "start_position": 106,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +330,8 @@
                 "source_label": "iglau",
                 "sentence_idx": 62,
                 "start_position": 0,
-                "end_position": 5
+                "end_position": 5,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +347,8 @@
                 "source_label": "poltenstein",
                 "sentence_idx": 68,
                 "start_position": 0,
-                "end_position": 11
+                "end_position": 11,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +364,8 @@
                 "source_label": "teltsch",
                 "sentence_idx": 68,
                 "start_position": 52,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +381,8 @@
                 "source_label": "pottenstein",
                 "sentence_idx": 71,
                 "start_position": 51,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +398,8 @@
                 "source_label": "diets richstein",
                 "sentence_idx": 83,
                 "start_position": 132,
-                "end_position": 147
+                "end_position": 147,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +415,8 @@
                 "source_label": "dietrichstein",
                 "sentence_idx": 83,
                 "start_position": 390,
-                "end_position": 403
+                "end_position": 403,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +432,8 @@
                 "source_label": "dietrichstein",
                 "sentence_idx": 91,
                 "start_position": 45,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +449,8 @@
                 "source_label": "nicolsburg",
                 "sentence_idx": 91,
                 "start_position": 62,
-                "end_position": 72
+                "end_position": 72,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +466,8 @@
                 "source_label": "des2nicolsburg",
                 "sentence_idx": 93,
                 "start_position": 0,
-                "end_position": 14
+                "end_position": 14,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +483,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 97,
                 "start_position": 119,
-                "end_position": 128
+                "end_position": 128,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -471,7 +500,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 97,
                 "start_position": 237,
-                "end_position": 243
+                "end_position": 243,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -487,7 +517,8 @@
                 "source_label": "nicolsburg",
                 "sentence_idx": 98,
                 "start_position": 43,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +534,8 @@
                 "source_label": "lichtenstein",
                 "sentence_idx": 99,
                 "start_position": 65,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +551,8 @@
                 "source_label": "linz",
                 "sentence_idx": 109,
                 "start_position": 78,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +568,8 @@
                 "source_label": "tannenb",
                 "sentence_idx": 109,
                 "start_position": 100,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +585,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 109,
                 "start_position": 119,
-                "end_position": 128
+                "end_position": 128,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +602,8 @@
                 "source_label": "oesterreich",
                 "sentence_idx": 109,
                 "start_position": 152,
-                "end_position": 163
+                "end_position": 163,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -583,7 +619,8 @@
                 "source_label": "2ssterod",
                 "sentence_idx": 111,
                 "start_position": 0,
-                "end_position": 8
+                "end_position": 8,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +636,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 114,
                 "start_position": 0,
-                "end_position": 9
+                "end_position": 9,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +653,8 @@
                 "source_label": "lichtenstein",
                 "sentence_idx": 115,
                 "start_position": 140,
-                "end_position": 152
+                "end_position": 152,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +670,8 @@
                 "source_label": "schlesien",
                 "sentence_idx": 116,
                 "start_position": 98,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +687,8 @@
                 "source_label": "oesterreich",
                 "sentence_idx": 116,
                 "start_position": 115,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -663,7 +704,8 @@
                 "source_label": "lichtensteinis",
                 "sentence_idx": 116,
                 "start_position": 270,
-                "end_position": 284
+                "end_position": 284,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -679,7 +721,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 117,
                 "start_position": 15,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +738,8 @@
                 "source_label": "paris",
                 "sentence_idx": 127,
                 "start_position": 39,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +755,8 @@
                 "source_label": "rikolsburg",
                 "sentence_idx": 129,
                 "start_position": 113,
-                "end_position": 123
+                "end_position": 123,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -727,7 +772,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 144,
                 "start_position": 81,
-                "end_position": 87
+                "end_position": 87,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +789,8 @@
                 "source_label": "wien",
                 "sentence_idx": 146,
                 "start_position": 122,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +806,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 149,
                 "start_position": 221,
-                "end_position": 227
+                "end_position": 227,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -775,7 +823,8 @@
                 "source_label": "montelabate",
                 "sentence_idx": 163,
                 "start_position": 79,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -791,7 +840,8 @@
                 "source_label": "webna",
                 "sentence_idx": 163,
                 "start_position": 95,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -807,7 +857,8 @@
                 "source_label": "langendon",
                 "sentence_idx": 163,
                 "start_position": 117,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +874,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 163,
                 "start_position": 210,
-                "end_position": 219
+                "end_position": 219,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +891,8 @@
                 "source_label": ";",
                 "sentence_idx": 163,
                 "start_position": 219,
-                "end_position": 220
+                "end_position": 220,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +908,8 @@
                 "source_label": "schafgotsch",
                 "sentence_idx": 163,
                 "start_position": 265,
-                "end_position": 276
+                "end_position": 276,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -871,7 +925,8 @@
                 "source_label": "schwarzemberg",
                 "sentence_idx": 163,
                 "start_position": 289,
-                "end_position": 302
+                "end_position": 302,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -887,7 +942,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 170,
                 "start_position": 43,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -903,7 +959,8 @@
                 "source_label": "eisgrub",
                 "sentence_idx": 173,
                 "start_position": 9,
-                "end_position": 16
+                "end_position": 16,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -919,7 +976,8 @@
                 "source_label": "rabensperg",
                 "sentence_idx": 191,
                 "start_position": 23,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -935,7 +993,8 @@
                 "source_label": "l ndenburg",
                 "sentence_idx": 196,
                 "start_position": 117,
-                "end_position": 128
+                "end_position": 128,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -951,7 +1010,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 198,
                 "start_position": 174,
-                "end_position": 180
+                "end_position": 180,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -967,7 +1027,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 199,
                 "start_position": 47,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -983,7 +1044,8 @@
                 "source_label": "gr",
                 "sentence_idx": 200,
                 "start_position": 72,
-                "end_position": 74
+                "end_position": 74,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1061,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 204,
                 "start_position": 72,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1015,7 +1078,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 273,
                 "start_position": 250,
-                "end_position": 256
+                "end_position": 256,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1095,8 @@
                 "source_label": "2.joltsch",
                 "sentence_idx": 290,
                 "start_position": 14,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1047,7 +1112,8 @@
                 "source_label": "neutra comitat",
                 "sentence_idx": 290,
                 "start_position": 66,
-                "end_position": 80
+                "end_position": 80,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1063,7 +1129,8 @@
                 "source_label": "reapel",
                 "sentence_idx": 326,
                 "start_position": 53,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1079,7 +1146,8 @@
                 "source_label": "holisch",
                 "sentence_idx": 327,
                 "start_position": 52,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,7 +1163,8 @@
                 "source_label": "mallatzka",
                 "sentence_idx": 339,
                 "start_position": 59,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1180,8 @@
                 "source_label": "palf",
                 "sentence_idx": 339,
                 "start_position": 131,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1127,7 +1197,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 341,
                 "start_position": 55,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1143,7 +1214,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 345,
                 "start_position": 59,
-                "end_position": 65
+                "end_position": 65,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1159,7 +1231,8 @@
                 "source_label": "donau",
                 "sentence_idx": 358,
                 "start_position": 90,
-                "end_position": 95
+                "end_position": 95,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1175,7 +1248,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 360,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1191,7 +1265,8 @@
                 "source_label": "oesterreich",
                 "sentence_idx": 360,
                 "start_position": 50,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1207,7 +1282,8 @@
                 "source_label": "r gt",
                 "sentence_idx": 360,
                 "start_position": 62,
-                "end_position": 67
+                "end_position": 67,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1223,7 +1299,8 @@
                 "source_label": "oesterreich",
                 "sentence_idx": 363,
                 "start_position": 45,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1316,8 @@
                 "source_label": "mallatzka",
                 "sentence_idx": 364,
                 "start_position": 8,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1255,7 +1333,8 @@
                 "source_label": "wienein",
                 "sentence_idx": 372,
                 "start_position": 154,
-                "end_position": 161
+                "end_position": 161,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1271,7 +1350,8 @@
                 "source_label": "stams pfen",
                 "sentence_idx": 373,
                 "start_position": 27,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1287,7 +1367,8 @@
                 "source_label": "kahlenberg",
                 "sentence_idx": 376,
                 "start_position": 66,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1384,8 @@
                 "source_label": "wien",
                 "sentence_idx": 376,
                 "start_position": 81,
-                "end_position": 85
+                "end_position": 85,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1319,7 +1401,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 377,
                 "start_position": 50,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1335,7 +1418,8 @@
                 "source_label": "fresko",
                 "sentence_idx": 388,
                 "start_position": 98,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1351,7 +1435,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 402,
                 "start_position": 10,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1367,7 +1452,8 @@
                 "source_label": "rottenstein",
                 "sentence_idx": 403,
                 "start_position": 122,
-                "end_position": 133
+                "end_position": 133,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1383,7 +1469,8 @@
                 "source_label": "st. martin",
                 "sentence_idx": 404,
                 "start_position": 91,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1399,7 +1486,8 @@
                 "source_label": "dos nau",
                 "sentence_idx": 404,
                 "start_position": 158,
-                "end_position": 165
+                "end_position": 165,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,7 +1503,8 @@
                 "source_label": "donau",
                 "sentence_idx": 414,
                 "start_position": 97,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1431,7 +1520,8 @@
                 "source_label": "st. martin",
                 "sentence_idx": 414,
                 "start_position": 153,
-                "end_position": 163
+                "end_position": 163,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1537,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 438,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1463,7 +1554,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 479,
                 "start_position": 86,
-                "end_position": 95
+                "end_position": 95,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1479,7 +1571,8 @@
                 "source_label": "sachsens",
                 "sentence_idx": 483,
                 "start_position": 20,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1495,7 +1588,8 @@
                 "source_label": "koe burg",
                 "sentence_idx": 483,
                 "start_position": 29,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1511,7 +1605,8 @@
                 "source_label": "unsarn",
                 "sentence_idx": 496,
                 "start_position": 251,
-                "end_position": 257
+                "end_position": 257,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1527,7 +1622,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 500,
                 "start_position": 40,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1543,7 +1639,8 @@
                 "source_label": "nigsberg",
                 "sentence_idx": 510,
                 "start_position": 7,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1559,7 +1656,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 510,
                 "start_position": 51,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1575,7 +1673,8 @@
                 "source_label": "donau",
                 "sentence_idx": 510,
                 "start_position": 269,
-                "end_position": 274
+                "end_position": 274,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1591,7 +1690,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 516,
                 "start_position": 53,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1607,7 +1707,8 @@
                 "source_label": "emahus",
                 "sentence_idx": 517,
                 "start_position": 67,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1623,7 +1724,8 @@
                 "source_label": "gala",
                 "sentence_idx": 579,
                 "start_position": 141,
-                "end_position": 145
+                "end_position": 145,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1639,7 +1741,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 583,
                 "start_position": 96,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1758,8 @@
                 "source_label": "potsdam",
                 "sentence_idx": 618,
                 "start_position": 30,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1775,8 @@
                 "source_label": "wien",
                 "sentence_idx": 619,
                 "start_position": 146,
-                "end_position": 150
+                "end_position": 150,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1792,8 @@
                 "source_label": "donau",
                 "sentence_idx": 622,
                 "start_position": 141,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1703,7 +1809,8 @@
                 "source_label": "china",
                 "sentence_idx": 648,
                 "start_position": 221,
-                "end_position": 226
+                "end_position": 226,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,7 +1826,8 @@
                 "source_label": "nanking",
                 "sentence_idx": 648,
                 "start_position": 230,
-                "end_position": 237
+                "end_position": 237,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1735,7 +1843,8 @@
                 "source_label": "donau",
                 "sentence_idx": 656,
                 "start_position": 18,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1751,7 +1860,8 @@
                 "source_label": "novi",
                 "sentence_idx": 657,
                 "start_position": 72,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1767,7 +1877,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 658,
                 "start_position": 16,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1783,7 +1894,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 659,
                 "start_position": 31,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1799,7 +1911,8 @@
                 "source_label": "vonpresburg",
                 "sentence_idx": 660,
                 "start_position": 91,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1815,7 +1928,8 @@
                 "source_label": "oes sterreich",
                 "sentence_idx": 682,
                 "start_position": 25,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1831,7 +1945,8 @@
                 "source_label": "bayern",
                 "sentence_idx": 689,
                 "start_position": 75,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1847,7 +1962,8 @@
                 "source_label": "parma",
                 "sentence_idx": 695,
                 "start_position": 187,
-                "end_position": 192
+                "end_position": 192,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +1979,8 @@
                 "source_label": "florenz",
                 "sentence_idx": 695,
                 "start_position": 224,
-                "end_position": 231
+                "end_position": 231,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1879,7 +1996,8 @@
                 "source_label": "parma",
                 "sentence_idx": 704,
                 "start_position": 41,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1895,7 +2013,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 706,
                 "start_position": 200,
-                "end_position": 210
+                "end_position": 210,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1911,7 +2030,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 708,
                 "start_position": 70,
-                "end_position": 80
+                "end_position": 80,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1927,7 +2047,8 @@
                 "source_label": "pozain",
                 "sentence_idx": 716,
                 "start_position": 107,
-                "end_position": 113
+                "end_position": 113,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1943,7 +2064,8 @@
                 "source_label": "donau",
                 "sentence_idx": 729,
                 "start_position": 81,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1959,7 +2081,8 @@
                 "source_label": "pohlen",
                 "sentence_idx": 740,
                 "start_position": 3,
-                "end_position": 9
+                "end_position": 9,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1975,7 +2098,8 @@
                 "source_label": "florenz",
                 "sentence_idx": 741,
                 "start_position": 120,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1991,7 +2115,8 @@
                 "source_label": "florenz",
                 "sentence_idx": 741,
                 "start_position": 185,
-                "end_position": 192
+                "end_position": 192,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2007,7 +2132,8 @@
                 "source_label": "sonbrunn",
                 "sentence_idx": 742,
                 "start_position": 12,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,7 +2149,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 742,
                 "start_position": 266,
-                "end_position": 276
+                "end_position": 276,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2039,7 +2166,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 742,
                 "start_position": 278,
-                "end_position": 284
+                "end_position": 284,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2055,7 +2183,8 @@
                 "source_label": "rom",
                 "sentence_idx": 742,
                 "start_position": 289,
-                "end_position": 292
+                "end_position": 292,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2200,8 @@
                 "source_label": "rom",
                 "sentence_idx": 743,
                 "start_position": 123,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2087,7 +2217,8 @@
                 "source_label": "florenz",
                 "sentence_idx": 743,
                 "start_position": 131,
-                "end_position": 138
+                "end_position": 138,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2103,7 +2234,8 @@
                 "source_label": "herkulan",
                 "sentence_idx": 743,
                 "start_position": 148,
-                "end_position": 156
+                "end_position": 156,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2119,7 +2251,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 745,
                 "start_position": 98,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2135,7 +2268,8 @@
                 "source_label": "prag",
                 "sentence_idx": 745,
                 "start_position": 151,
-                "end_position": 155
+                "end_position": 155,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2151,7 +2285,8 @@
                 "source_label": "hochkirchen",
                 "sentence_idx": 745,
                 "start_position": 157,
-                "end_position": 168
+                "end_position": 168,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2167,7 +2302,8 @@
                 "source_label": "olm",
                 "sentence_idx": 745,
                 "start_position": 208,
-                "end_position": 211
+                "end_position": 211,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2183,7 +2319,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 746,
                 "start_position": 138,
-                "end_position": 148
+                "end_position": 148,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2199,7 +2336,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 746,
                 "start_position": 150,
-                "end_position": 156
+                "end_position": 156,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2215,7 +2353,8 @@
                 "source_label": "florenz",
                 "sentence_idx": 746,
                 "start_position": 158,
-                "end_position": 165
+                "end_position": 165,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2231,7 +2370,8 @@
                 "source_label": "mailand",
                 "sentence_idx": 746,
                 "start_position": 167,
-                "end_position": 174
+                "end_position": 174,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2247,7 +2387,8 @@
                 "source_label": "parma",
                 "sentence_idx": 746,
                 "start_position": 179,
-                "end_position": 184
+                "end_position": 184,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2263,7 +2404,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 751,
                 "start_position": 55,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2421,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 752,
                 "start_position": 136,
-                "end_position": 145
+                "end_position": 145,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2295,7 +2438,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 756,
                 "start_position": 34,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2311,7 +2455,8 @@
                 "source_label": "coloza",
                 "sentence_idx": 775,
                 "start_position": 204,
-                "end_position": 210
+                "end_position": 210,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,7 +2472,8 @@
                 "source_label": "rosenberg",
                 "sentence_idx": 811,
                 "start_position": 50,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2343,7 +2489,8 @@
                 "source_label": "stahrenz berg",
                 "sentence_idx": 811,
                 "start_position": 64,
-                "end_position": 80
+                "end_position": 80,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2359,7 +2506,8 @@
                 "source_label": "sachsen",
                 "sentence_idx": 818,
                 "start_position": 97,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2375,7 +2523,8 @@
                 "source_label": "koburg",
                 "sentence_idx": 818,
                 "start_position": 105,
-                "end_position": 111
+                "end_position": 111,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2391,7 +2540,8 @@
                 "source_label": ";",
                 "sentence_idx": 818,
                 "start_position": 111,
-                "end_position": 112
+                "end_position": 112,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2407,7 +2557,8 @@
                 "source_label": "bottenstein",
                 "sentence_idx": 826,
                 "start_position": 51,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2423,7 +2574,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 833,
                 "start_position": 28,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2439,7 +2591,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 853,
                 "start_position": 19,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,7 +2608,8 @@
                 "source_label": "donau",
                 "sentence_idx": 854,
                 "start_position": 10,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2471,7 +2625,8 @@
                 "source_label": "presburg",
                 "sentence_idx": 856,
                 "start_position": 33,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2642,8 @@
                 "source_label": "nigsberg",
                 "sentence_idx": 856,
                 "start_position": 60,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2503,7 +2659,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 875,
                 "start_position": 4,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2519,7 +2676,8 @@
                 "source_label": "stuhlwei senburg",
                 "sentence_idx": 886,
                 "start_position": 7,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2535,7 +2693,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 922,
                 "start_position": 92,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2551,7 +2710,8 @@
                 "source_label": "st. marz",
                 "sentence_idx": 923,
                 "start_position": 194,
-                "end_position": 202
+                "end_position": 202,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2567,7 +2727,8 @@
                 "source_label": "bulgarien",
                 "sentence_idx": 944,
                 "start_position": 135,
-                "end_position": 144
+                "end_position": 144,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2583,7 +2744,8 @@
                 "source_label": "lodomirien",
                 "sentence_idx": 944,
                 "start_position": 155,
-                "end_position": 165
+                "end_position": 165,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2599,7 +2761,8 @@
                 "source_label": "gallizien",
                 "sentence_idx": 944,
                 "start_position": 167,
-                "end_position": 176
+                "end_position": 176,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2615,7 +2778,8 @@
                 "source_label": "servien",
                 "sentence_idx": 944,
                 "start_position": 178,
-                "end_position": 185
+                "end_position": 185,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,7 +2795,8 @@
                 "source_label": "dalmatien",
                 "sentence_idx": 944,
                 "start_position": 203,
-                "end_position": 212
+                "end_position": 212,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2647,7 +2812,8 @@
                 "source_label": "croatien",
                 "sentence_idx": 944,
                 "start_position": 217,
-                "end_position": 225
+                "end_position": 225,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2663,7 +2829,8 @@
                 "source_label": "save mien",
                 "sentence_idx": 944,
                 "start_position": 239,
-                "end_position": 255
+                "end_position": 255,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2679,7 +2846,8 @@
                 "source_label": "croatien",
                 "sentence_idx": 945,
                 "start_position": 29,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2863,8 @@
                 "source_label": "kolocza",
                 "sentence_idx": 948,
                 "start_position": 104,
-                "end_position": 111
+                "end_position": 111,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2711,7 +2880,8 @@
                 "source_label": "bosnien",
                 "sentence_idx": 948,
                 "start_position": 132,
-                "end_position": 139
+                "end_position": 139,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2727,7 +2897,8 @@
                 "source_label": "kos locza",
                 "sentence_idx": 949,
                 "start_position": 111,
-                "end_position": 120
+                "end_position": 120,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2743,7 +2914,8 @@
                 "source_label": "kolocza",
                 "sentence_idx": 956,
                 "start_position": 28,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2759,7 +2931,8 @@
                 "source_label": "bo nien",
                 "sentence_idx": 956,
                 "start_position": 52,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2775,7 +2948,8 @@
                 "source_label": "rosenberg",
                 "sentence_idx": 966,
                 "start_position": 103,
-                "end_position": 112
+                "end_position": 112,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2791,7 +2965,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 970,
                 "start_position": 7,
-                "end_position": 13
+                "end_position": 13,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2807,7 +2982,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 989,
                 "start_position": 149,
-                "end_position": 155
+                "end_position": 155,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2823,7 +2999,8 @@
                 "source_label": "coloca",
                 "sentence_idx": 989,
                 "start_position": 458,
-                "end_position": 464
+                "end_position": 464,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2839,7 +3016,8 @@
                 "source_label": "kroatien",
                 "sentence_idx": 989,
                 "start_position": 580,
-                "end_position": 588
+                "end_position": 588,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,7 +3033,8 @@
                 "source_label": "coloca",
                 "sentence_idx": 996,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2871,7 +3050,8 @@
                 "source_label": "gran",
                 "sentence_idx": 999,
                 "start_position": 179,
-                "end_position": 183
+                "end_position": 183,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2887,7 +3067,8 @@
                 "source_label": "lichtenstein",
                 "sentence_idx": 1002,
                 "start_position": 188,
-                "end_position": 200
+                "end_position": 200,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3084,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1017,
                 "start_position": 195,
-                "end_position": 199
+                "end_position": 199,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2919,7 +3101,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 1045,
                 "start_position": 93,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,7 +3118,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 1047,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2951,7 +3135,8 @@
                 "source_label": "bachiany",
                 "sentence_idx": 1063,
                 "start_position": 31,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2967,7 +3152,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1066,
                 "start_position": 54,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2983,7 +3169,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1079,
                 "start_position": 34,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2999,7 +3186,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1079,
                 "start_position": 44,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3015,7 +3203,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1080,
                 "start_position": 217,
-                "end_position": 222
+                "end_position": 222,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3031,7 +3220,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1094,
                 "start_position": 49,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3047,7 +3237,8 @@
                 "source_label": "europa",
                 "sentence_idx": 1094,
                 "start_position": 246,
-                "end_position": 252
+                "end_position": 252,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3063,7 +3254,8 @@
                 "source_label": "badgldberg",
                 "sentence_idx": 1118,
                 "start_position": 26,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3079,7 +3271,8 @@
                 "source_label": "biebersburg",
                 "sentence_idx": 1118,
                 "start_position": 38,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3095,7 +3288,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 1119,
                 "start_position": 154,
-                "end_position": 163
+                "end_position": 163,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3305,8 @@
                 "source_label": ";",
                 "sentence_idx": 1119,
                 "start_position": 163,
-                "end_position": 164
+                "end_position": 164,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3127,7 +3322,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1119,
                 "start_position": 190,
-                "end_position": 200
+                "end_position": 200,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3143,7 +3339,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1122,
                 "start_position": 109,
-                "end_position": 118
+                "end_position": 118,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3159,7 +3356,8 @@
                 "source_label": "and",
                 "sentence_idx": 1123,
                 "start_position": 75,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3175,7 +3373,8 @@
                 "source_label": "freistadt",
                 "sentence_idx": 1129,
                 "start_position": 196,
-                "end_position": 205
+                "end_position": 205,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3191,7 +3390,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1139,
                 "start_position": 8,
-                "end_position": 12
+                "end_position": 12,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3207,7 +3407,8 @@
                 "source_label": "etig land",
                 "sentence_idx": 1143,
                 "start_position": 101,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3223,7 +3424,8 @@
                 "source_label": "tirnau",
                 "sentence_idx": 1144,
                 "start_position": 50,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,7 +3441,8 @@
                 "source_label": "cypern",
                 "sentence_idx": 1154,
                 "start_position": 185,
-                "end_position": 191
+                "end_position": 191,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3255,7 +3458,8 @@
                 "source_label": "spa nien",
                 "sentence_idx": 1156,
                 "start_position": 15,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3271,7 +3475,8 @@
                 "source_label": "bie bersburg",
                 "sentence_idx": 1157,
                 "start_position": 23,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3287,7 +3492,8 @@
                 "source_label": "deutschland",
                 "sentence_idx": 1158,
                 "start_position": 51,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3303,7 +3509,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1181,
                 "start_position": 29,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3526,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1195,
                 "start_position": 36,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3335,7 +3543,8 @@
                 "source_label": "madjar bel",
                 "sentence_idx": 1197,
                 "start_position": 27,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3351,7 +3560,8 @@
                 "source_label": "lan schitz",
                 "sentence_idx": 1203,
                 "start_position": 166,
-                "end_position": 176
+                "end_position": 176,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3367,7 +3577,8 @@
                 "source_label": "para dejades",
                 "sentence_idx": 1203,
                 "start_position": 214,
-                "end_position": 226
+                "end_position": 226,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3383,7 +3594,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1207,
                 "start_position": 92,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3399,7 +3611,8 @@
                 "source_label": "amerika",
                 "sentence_idx": 1212,
                 "start_position": 342,
-                "end_position": 349
+                "end_position": 349,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3415,7 +3628,8 @@
                 "source_label": "china",
                 "sentence_idx": 1219,
                 "start_position": 12,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3431,7 +3645,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1219,
                 "start_position": 34,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3447,7 +3662,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1229,
                 "start_position": 184,
-                "end_position": 194
+                "end_position": 194,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3463,7 +3679,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1239,
                 "start_position": 44,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3479,7 +3696,8 @@
                 "source_label": "hohen berg",
                 "sentence_idx": 1245,
                 "start_position": 117,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3495,7 +3713,8 @@
                 "source_label": "lansitz",
                 "sentence_idx": 1258,
                 "start_position": 50,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3511,7 +3730,8 @@
                 "source_label": "kaninchenberg",
                 "sentence_idx": 1261,
                 "start_position": 343,
-                "end_position": 356
+                "end_position": 356,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3747,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1262,
                 "start_position": 78,
-                "end_position": 88
+                "end_position": 88,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,7 +3764,8 @@
                 "source_label": "petersburg",
                 "sentence_idx": 1262,
                 "start_position": 262,
-                "end_position": 272
+                "end_position": 272,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3559,7 +3781,8 @@
                 "source_label": "asiro",
                 "sentence_idx": 1286,
                 "start_position": 228,
-                "end_position": 233
+                "end_position": 233,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3575,7 +3798,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1295,
                 "start_position": 84,
-                "end_position": 89
+                "end_position": 89,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3591,7 +3815,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1301,
                 "start_position": 88,
-                "end_position": 97
+                "end_position": 97,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3607,7 +3832,8 @@
                 "source_label": "niederlande",
                 "sentence_idx": 1303,
                 "start_position": 51,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3623,7 +3849,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1308,
                 "start_position": 37,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3639,7 +3866,8 @@
                 "source_label": "lansitz",
                 "sentence_idx": 1311,
                 "start_position": 126,
-                "end_position": 133
+                "end_position": 133,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3655,7 +3883,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1313,
                 "start_position": 81,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3671,7 +3900,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1314,
                 "start_position": 20,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3687,7 +3917,8 @@
                 "source_label": "ivanka",
                 "sentence_idx": 1315,
                 "start_position": 95,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3703,7 +3934,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1315,
                 "start_position": 217,
-                "end_position": 222
+                "end_position": 222,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3719,7 +3951,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1327,
                 "start_position": 60,
-                "end_position": 65
+                "end_position": 65,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +3968,8 @@
                 "source_label": "tyrnau",
                 "sentence_idx": 1360,
                 "start_position": 12,
-                "end_position": 18
+                "end_position": 18,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3751,7 +3985,8 @@
                 "source_label": ";",
                 "sentence_idx": 1360,
                 "start_position": 18,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3767,7 +4002,8 @@
                 "source_label": "neustadt",
                 "sentence_idx": 1361,
                 "start_position": 11,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3783,7 +4019,8 @@
                 "source_label": "trentschin",
                 "sentence_idx": 1361,
                 "start_position": 193,
-                "end_position": 203
+                "end_position": 203,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3799,7 +4036,8 @@
                 "source_label": "neutra",
                 "sentence_idx": 1364,
                 "start_position": 10,
-                "end_position": 16
+                "end_position": 16,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3815,7 +4053,8 @@
                 "source_label": ";",
                 "sentence_idx": 1364,
                 "start_position": 16,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3831,7 +4070,8 @@
                 "source_label": "schemnitz",
                 "sentence_idx": 1364,
                 "start_position": 32,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,7 +4087,8 @@
                 "source_label": ";",
                 "sentence_idx": 1364,
                 "start_position": 41,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3863,7 +4104,8 @@
                 "source_label": "neusohl",
                 "sentence_idx": 1366,
                 "start_position": 10,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3879,7 +4121,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1367,
                 "start_position": 44,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3895,7 +4138,8 @@
                 "source_label": "migoziburg",
                 "sentence_idx": 1368,
                 "start_position": 0,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3911,7 +4155,8 @@
                 "source_label": "koschau",
                 "sentence_idx": 1370,
                 "start_position": 10,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3927,7 +4172,8 @@
                 "source_label": ";",
                 "sentence_idx": 1370,
                 "start_position": 17,
-                "end_position": 18
+                "end_position": 18,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4189,8 @@
                 "source_label": "tyrnau",
                 "sentence_idx": 1371,
                 "start_position": 30,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3959,7 +4206,8 @@
                 "source_label": "st. nikolai",
                 "sentence_idx": 1375,
                 "start_position": 35,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3975,7 +4223,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1378,
                 "start_position": 9,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3991,7 +4240,8 @@
                 "source_label": "ofen",
                 "sentence_idx": 1381,
                 "start_position": 161,
-                "end_position": 165
+                "end_position": 165,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4007,7 +4257,8 @@
                 "source_label": "korompa",
                 "sentence_idx": 1383,
                 "start_position": 29,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4023,7 +4274,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1413,
                 "start_position": 198,
-                "end_position": 202
+                "end_position": 202,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4039,7 +4291,8 @@
                 "source_label": "trentschter comitat",
                 "sentence_idx": 1453,
                 "start_position": 73,
-                "end_position": 92
+                "end_position": 92,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4055,7 +4308,8 @@
                 "source_label": "freistadt",
                 "sentence_idx": 1461,
                 "start_position": 0,
-                "end_position": 9
+                "end_position": 9,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4071,7 +4325,8 @@
                 "source_label": "klobuk",
                 "sentence_idx": 1465,
                 "start_position": 299,
-                "end_position": 305
+                "end_position": 305,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4087,7 +4342,8 @@
                 "source_label": "trent",
                 "sentence_idx": 1478,
                 "start_position": 23,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4103,7 +4359,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1478,
                 "start_position": 169,
-                "end_position": 175
+                "end_position": 175,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4119,7 +4376,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1482,
                 "start_position": 71,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4135,7 +4393,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1482,
                 "start_position": 95,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4410,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1482,
                 "start_position": 113,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4167,7 +4427,8 @@
                 "source_label": "tekenkschin",
                 "sentence_idx": 1490,
                 "start_position": 140,
-                "end_position": 151
+                "end_position": 151,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4183,7 +4444,8 @@
                 "source_label": "trenschin",
                 "sentence_idx": 1490,
                 "start_position": 240,
-                "end_position": 249
+                "end_position": 249,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4199,7 +4461,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1497,
                 "start_position": 77,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4215,7 +4478,8 @@
                 "source_label": "pohlen",
                 "sentence_idx": 1497,
                 "start_position": 159,
-                "end_position": 165
+                "end_position": 165,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4231,7 +4495,8 @@
                 "source_label": "trentschin",
                 "sentence_idx": 1509,
                 "start_position": 34,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4247,7 +4512,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1512,
                 "start_position": 107,
-                "end_position": 113
+                "end_position": 113,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4263,7 +4529,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1512,
                 "start_position": 176,
-                "end_position": 180
+                "end_position": 180,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4279,7 +4546,8 @@
                 "source_label": "rsing",
                 "sentence_idx": 1513,
                 "start_position": 40,
-                "end_position": 45
+                "end_position": 45,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4295,7 +4563,8 @@
                 "source_label": "deutschland",
                 "sentence_idx": 1525,
                 "start_position": 31,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4311,7 +4580,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1528,
                 "start_position": 77,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4327,7 +4597,8 @@
                 "source_label": "neutra",
                 "sentence_idx": 1529,
                 "start_position": 14,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4343,7 +4614,8 @@
                 "source_label": "untere stadt",
                 "sentence_idx": 1529,
                 "start_position": 108,
-                "end_position": 120
+                "end_position": 120,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4631,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1531,
                 "start_position": 18,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4375,7 +4648,8 @@
                 "source_label": "schemnitz",
                 "sentence_idx": 1536,
                 "start_position": 117,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4391,7 +4665,8 @@
                 "source_label": "schemnitz",
                 "sentence_idx": 1537,
                 "start_position": 19,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4407,7 +4682,8 @@
                 "source_label": "sachsen",
                 "sentence_idx": 1539,
                 "start_position": 181,
-                "end_position": 188
+                "end_position": 188,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4423,7 +4699,8 @@
                 "source_label": "hellblaus",
                 "sentence_idx": 1546,
                 "start_position": 53,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4439,7 +4716,8 @@
                 "source_label": "schemnitz",
                 "sentence_idx": 1547,
                 "start_position": 116,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4455,7 +4733,8 @@
                 "source_label": "schemnitz",
                 "sentence_idx": 1556,
                 "start_position": 81,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4471,7 +4750,8 @@
                 "source_label": "ostroluzki",
                 "sentence_idx": 1577,
                 "start_position": 153,
-                "end_position": 163
+                "end_position": 163,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4487,7 +4767,8 @@
                 "source_label": "gran",
                 "sentence_idx": 1577,
                 "start_position": 303,
-                "end_position": 307
+                "end_position": 307,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4503,7 +4784,8 @@
                 "source_label": "altsohl",
                 "sentence_idx": 1577,
                 "start_position": 423,
-                "end_position": 430
+                "end_position": 430,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4519,7 +4801,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1580,
                 "start_position": 167,
-                "end_position": 173
+                "end_position": 173,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4535,7 +4818,8 @@
                 "source_label": "neusohl",
                 "sentence_idx": 1585,
                 "start_position": 20,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4551,7 +4835,8 @@
                 "source_label": "gran",
                 "sentence_idx": 1585,
                 "start_position": 59,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4852,8 @@
                 "source_label": "cedernholz",
                 "sentence_idx": 1593,
                 "start_position": 104,
-                "end_position": 114
+                "end_position": 114,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4583,7 +4869,8 @@
                 "source_label": "neusohl",
                 "sentence_idx": 1595,
                 "start_position": 16,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4599,7 +4886,8 @@
                 "source_label": "marot",
                 "sentence_idx": 1597,
                 "start_position": 5,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4615,7 +4903,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1598,
                 "start_position": 28,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4631,7 +4920,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1599,
                 "start_position": 184,
-                "end_position": 190
+                "end_position": 190,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4647,7 +4937,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1600,
                 "start_position": 27,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4663,7 +4954,8 @@
                 "source_label": "migaziburg",
                 "sentence_idx": 1600,
                 "start_position": 38,
-                "end_position": 48
+                "end_position": 48,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4679,7 +4971,8 @@
                 "source_label": "watzen",
                 "sentence_idx": 1600,
                 "start_position": 84,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4695,7 +4988,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1603,
                 "start_position": 51,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4711,7 +5005,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1603,
                 "start_position": 71,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4727,7 +5022,8 @@
                 "source_label": "gries chenland",
                 "sentence_idx": 1603,
                 "start_position": 250,
-                "end_position": 264
+                "end_position": 264,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4743,7 +5039,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1604,
                 "start_position": 45,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4759,7 +5056,8 @@
                 "source_label": "watzen",
                 "sentence_idx": 1604,
                 "start_position": 67,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5073,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1608,
                 "start_position": 94,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4791,7 +5090,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1614,
                 "start_position": 80,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4807,7 +5107,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1621,
                 "start_position": 14,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4823,7 +5124,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1621,
                 "start_position": 32,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4839,7 +5141,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1623,
                 "start_position": 72,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4855,7 +5158,8 @@
                 "source_label": "oberungarn",
                 "sentence_idx": 1627,
                 "start_position": 33,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4871,7 +5175,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1627,
                 "start_position": 68,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4887,7 +5192,8 @@
                 "source_label": "st. eli sabet",
                 "sentence_idx": 1630,
                 "start_position": 19,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4903,7 +5209,8 @@
                 "source_label": "ste phanskirche",
                 "sentence_idx": 1630,
                 "start_position": 111,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4919,7 +5226,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1630,
                 "start_position": 131,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4935,7 +5243,8 @@
                 "source_label": "kaschau",
                 "sentence_idx": 1636,
                 "start_position": 8,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4951,7 +5260,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1639,
                 "start_position": 17,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4967,7 +5277,8 @@
                 "source_label": "pest",
                 "sentence_idx": 1659,
                 "start_position": 10,
-                "end_position": 14
+                "end_position": 14,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5294,8 @@
                 "source_label": ";",
                 "sentence_idx": 1659,
                 "start_position": 14,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4999,7 +5311,8 @@
                 "source_label": "raab",
                 "sentence_idx": 1660,
                 "start_position": 0,
-                "end_position": 4
+                "end_position": 4,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5015,7 +5328,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1661,
                 "start_position": 0,
-                "end_position": 8
+                "end_position": 8,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5031,7 +5345,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1663,
                 "start_position": 97,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5047,7 +5362,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1665,
                 "start_position": 45,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5063,7 +5379,8 @@
                 "source_label": "zinkendorf",
                 "sentence_idx": 1666,
                 "start_position": 0,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5079,7 +5396,8 @@
                 "source_label": "pest",
                 "sentence_idx": 1667,
                 "start_position": 24,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5095,7 +5413,8 @@
                 "source_label": "gro en",
                 "sentence_idx": 1667,
                 "start_position": 52,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5111,7 +5430,8 @@
                 "source_label": "donau",
                 "sentence_idx": 1668,
                 "start_position": 29,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5127,7 +5447,8 @@
                 "source_label": "watzner gassen",
                 "sentence_idx": 1676,
                 "start_position": 105,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5143,7 +5464,8 @@
                 "source_label": "kalotschawohnt",
                 "sentence_idx": 1676,
                 "start_position": 145,
-                "end_position": 159
+                "end_position": 159,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5159,7 +5481,8 @@
                 "source_label": "rathau",
                 "sentence_idx": 1695,
                 "start_position": 4,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5175,7 +5498,8 @@
                 "source_label": "donaustroms",
                 "sentence_idx": 1695,
                 "start_position": 168,
-                "end_position": 179
+                "end_position": 179,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5515,8 @@
                 "source_label": "pest",
                 "sentence_idx": 1713,
                 "start_position": 62,
-                "end_position": 66
+                "end_position": 66,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5207,7 +5532,8 @@
                 "source_label": "graschalkowitz",
                 "sentence_idx": 1714,
                 "start_position": 49,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5223,7 +5549,8 @@
                 "source_label": "beschnio",
                 "sentence_idx": 1720,
                 "start_position": 260,
-                "end_position": 268
+                "end_position": 268,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5239,7 +5566,8 @@
                 "source_label": "raab",
                 "sentence_idx": 1722,
                 "start_position": 33,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5255,7 +5583,8 @@
                 "source_label": "do nau",
                 "sentence_idx": 1722,
                 "start_position": 79,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5271,7 +5600,8 @@
                 "source_label": "salzburg",
                 "sentence_idx": 1726,
                 "start_position": 64,
-                "end_position": 72
+                "end_position": 72,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5287,7 +5617,8 @@
                 "source_label": "cschorna",
                 "sentence_idx": 1727,
                 "start_position": 176,
-                "end_position": 184
+                "end_position": 184,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5303,7 +5634,8 @@
                 "source_label": "dedenburg",
                 "sentence_idx": 1729,
                 "start_position": 202,
-                "end_position": 211
+                "end_position": 211,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5319,7 +5651,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1729,
                 "start_position": 226,
-                "end_position": 235
+                "end_position": 235,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5335,7 +5668,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1729,
                 "start_position": 254,
-                "end_position": 258
+                "end_position": 258,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5351,7 +5685,8 @@
                 "source_label": "neusiedlersee",
                 "sentence_idx": 1729,
                 "start_position": 289,
-                "end_position": 302
+                "end_position": 302,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5367,7 +5702,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1730,
                 "start_position": 4,
-                "end_position": 13
+                "end_position": 13,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5383,7 +5719,8 @@
                 "source_label": "oedenburg",
                 "sentence_idx": 1731,
                 "start_position": 48,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5736,8 @@
                 "source_label": "paris",
                 "sentence_idx": 1755,
                 "start_position": 130,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5415,7 +5753,8 @@
                 "source_label": "2osterod",
                 "sentence_idx": 1755,
                 "start_position": 236,
-                "end_position": 244
+                "end_position": 244,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5431,7 +5770,8 @@
                 "source_label": "esterha",
                 "sentence_idx": 1757,
                 "start_position": 50,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5447,7 +5787,8 @@
                 "source_label": "paris",
                 "sentence_idx": 1758,
                 "start_position": 542,
-                "end_position": 547
+                "end_position": 547,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5463,7 +5804,8 @@
                 "source_label": "neapol",
                 "sentence_idx": 1770,
                 "start_position": 48,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5479,7 +5821,8 @@
                 "source_label": "europa",
                 "sentence_idx": 1801,
                 "start_position": 100,
-                "end_position": 106
+                "end_position": 106,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5495,7 +5838,8 @@
                 "source_label": "chalcedon",
                 "sentence_idx": 1803,
                 "start_position": 180,
-                "end_position": 189
+                "end_position": 189,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5511,7 +5855,8 @@
                 "source_label": "chalcedonvasen",
                 "sentence_idx": 1804,
                 "start_position": 7,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5527,7 +5872,8 @@
                 "source_label": "paris",
                 "sentence_idx": 1806,
                 "start_position": 25,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5543,7 +5889,8 @@
                 "source_label": "esterha",
                 "sentence_idx": 1808,
                 "start_position": 210,
-                "end_position": 217
+                "end_position": 217,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5559,7 +5906,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 1827,
                 "start_position": 40,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5575,7 +5923,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 1841,
                 "start_position": 164,
-                "end_position": 174
+                "end_position": 174,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5591,7 +5940,8 @@
                 "source_label": "jaspis",
                 "sentence_idx": 1855,
                 "start_position": 179,
-                "end_position": 185
+                "end_position": 185,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +5957,8 @@
                 "source_label": "china",
                 "sentence_idx": 1935,
                 "start_position": 102,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5623,7 +5974,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 1963,
                 "start_position": 21,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5639,7 +5991,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1975,
                 "start_position": 15,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5655,7 +6008,8 @@
                 "source_label": "frankfurt",
                 "sentence_idx": 1977,
                 "start_position": 41,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,7 +6025,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 1980,
                 "start_position": 168,
-                "end_position": 178
+                "end_position": 178,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5687,7 +6042,8 @@
                 "source_label": "esterhai",
                 "sentence_idx": 1980,
                 "start_position": 244,
-                "end_position": 252
+                "end_position": 252,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5703,7 +6059,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1980,
                 "start_position": 266,
-                "end_position": 270
+                "end_position": 270,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5719,7 +6076,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1981,
                 "start_position": 97,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5735,7 +6093,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 1981,
                 "start_position": 298,
-                "end_position": 304
+                "end_position": 304,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5751,7 +6110,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 1982,
                 "start_position": 122,
-                "end_position": 132
+                "end_position": 132,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5767,7 +6127,8 @@
                 "source_label": "oeden burg",
                 "sentence_idx": 1982,
                 "start_position": 338,
-                "end_position": 349
+                "end_position": 349,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5783,7 +6144,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 1982,
                 "start_position": 351,
-                "end_position": 360
+                "end_position": 360,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5799,7 +6161,8 @@
                 "source_label": "wienerisch neustadt",
                 "sentence_idx": 1982,
                 "start_position": 362,
-                "end_position": 381
+                "end_position": 381,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6178,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1982,
                 "start_position": 386,
-                "end_position": 390
+                "end_position": 390,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5831,7 +6195,8 @@
                 "source_label": "paris",
                 "sentence_idx": 1986,
                 "start_position": 30,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5847,7 +6212,8 @@
                 "source_label": "wien",
                 "sentence_idx": 1987,
                 "start_position": 89,
-                "end_position": 93
+                "end_position": 93,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5863,7 +6229,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 1987,
                 "start_position": 133,
-                "end_position": 143
+                "end_position": 143,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5879,7 +6246,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1993,
                 "start_position": 102,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5895,7 +6263,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1996,
                 "start_position": 99,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5911,7 +6280,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 1996,
                 "start_position": 152,
-                "end_position": 162
+                "end_position": 162,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5927,7 +6297,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 1997,
                 "start_position": 21,
-                "end_position": 29
+                "end_position": 29,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5943,7 +6314,8 @@
                 "source_label": "st. nikolo",
                 "sentence_idx": 1997,
                 "start_position": 35,
-                "end_position": 45
+                "end_position": 45,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5959,7 +6331,8 @@
                 "source_label": "frankreichs",
                 "sentence_idx": 2021,
                 "start_position": 38,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5975,7 +6348,8 @@
                 "source_label": "esterhazs",
                 "sentence_idx": 2021,
                 "start_position": 115,
-                "end_position": 124
+                "end_position": 124,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5991,7 +6365,8 @@
                 "source_label": "monbijoux",
                 "sentence_idx": 2021,
                 "start_position": 129,
-                "end_position": 138
+                "end_position": 138,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6007,7 +6382,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 2022,
                 "start_position": 85,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6023,7 +6399,8 @@
                 "source_label": "paris",
                 "sentence_idx": 2027,
                 "start_position": 57,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6039,7 +6416,8 @@
                 "source_label": "wien",
                 "sentence_idx": 2029,
                 "start_position": 31,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6055,7 +6433,8 @@
                 "source_label": "galla",
                 "sentence_idx": 2029,
                 "start_position": 130,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6071,7 +6450,8 @@
                 "source_label": "esterhaz3festins",
                 "sentence_idx": 2036,
                 "start_position": 12,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6087,7 +6467,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2038,
                 "start_position": 198,
-                "end_position": 206
+                "end_position": 206,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6103,7 +6484,8 @@
                 "source_label": "modena",
                 "sentence_idx": 2084,
                 "start_position": 265,
-                "end_position": 271
+                "end_position": 271,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6119,7 +6501,8 @@
                 "source_label": "ba tiani",
                 "sentence_idx": 2090,
                 "start_position": 63,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6135,7 +6518,8 @@
                 "source_label": "stahrenberg",
                 "sentence_idx": 2090,
                 "start_position": 88,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6151,7 +6535,8 @@
                 "source_label": "wien",
                 "sentence_idx": 2101,
                 "start_position": 66,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6167,7 +6552,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2101,
                 "start_position": 76,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6183,7 +6569,8 @@
                 "source_label": "oedenburg",
                 "sentence_idx": 2103,
                 "start_position": 11,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6199,7 +6586,8 @@
                 "source_label": "szeplak",
                 "sentence_idx": 2105,
                 "start_position": 13,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6215,7 +6603,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2105,
                 "start_position": 275,
-                "end_position": 283
+                "end_position": 283,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6231,7 +6620,8 @@
                 "source_label": "cyprus",
                 "sentence_idx": 2113,
                 "start_position": 40,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6247,7 +6637,8 @@
                 "source_label": "bako",
                 "sentence_idx": 2157,
                 "start_position": 137,
-                "end_position": 141
+                "end_position": 141,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6263,7 +6654,8 @@
                 "source_label": "monbijou",
                 "sentence_idx": 2159,
                 "start_position": 96,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6279,7 +6671,8 @@
                 "source_label": "monbijou",
                 "sentence_idx": 2160,
                 "start_position": 29,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6295,7 +6688,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2164,
                 "start_position": 37,
-                "end_position": 45
+                "end_position": 45,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6311,7 +6705,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2170,
                 "start_position": 103,
-                "end_position": 111
+                "end_position": 111,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6327,7 +6722,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2171,
                 "start_position": 129,
-                "end_position": 137
+                "end_position": 137,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6343,7 +6739,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 2171,
                 "start_position": 297,
-                "end_position": 306
+                "end_position": 306,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6359,7 +6756,8 @@
                 "source_label": "zinkendorf",
                 "sentence_idx": 2175,
                 "start_position": 27,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6375,7 +6773,8 @@
                 "source_label": "oedenburg",
                 "sentence_idx": 2198,
                 "start_position": 10,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6391,7 +6790,8 @@
                 "source_label": "dra burg",
                 "sentence_idx": 2199,
                 "start_position": 30,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6407,7 +6807,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 2199,
                 "start_position": 86,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6423,7 +6824,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2205,
                 "start_position": 49,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +6841,8 @@
                 "source_label": "oedenburg",
                 "sentence_idx": 2216,
                 "start_position": 25,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6455,7 +6858,8 @@
                 "source_label": "engen gasse",
                 "sentence_idx": 2221,
                 "start_position": 42,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6471,7 +6875,8 @@
                 "source_label": "oes denburg",
                 "sentence_idx": 2228,
                 "start_position": 12,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6487,7 +6892,8 @@
                 "source_label": "dra burg",
                 "sentence_idx": 2228,
                 "start_position": 60,
-                "end_position": 69
+                "end_position": 69,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6503,7 +6909,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 2247,
                 "start_position": 16,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6519,7 +6926,8 @@
                 "source_label": "esterhazi",
                 "sentence_idx": 2252,
                 "start_position": 81,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6535,7 +6943,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2259,
                 "start_position": 36,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6551,7 +6960,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 2282,
                 "start_position": 136,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6567,7 +6977,8 @@
                 "source_label": "neusiedler see",
                 "sentence_idx": 2283,
                 "start_position": 96,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6583,7 +6994,8 @@
                 "source_label": "esterhaz",
                 "sentence_idx": 2289,
                 "start_position": 86,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6599,7 +7011,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2294,
                 "start_position": 197,
-                "end_position": 202
+                "end_position": 202,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6615,7 +7028,8 @@
                 "source_label": "sachsen",
                 "sentence_idx": 2295,
                 "start_position": 76,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6631,7 +7045,8 @@
                 "source_label": "teschen",
                 "sentence_idx": 2295,
                 "start_position": 84,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6647,7 +7062,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2296,
                 "start_position": 72,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6663,7 +7079,8 @@
                 "source_label": "kitser",
                 "sentence_idx": 2296,
                 "start_position": 91,
-                "end_position": 97
+                "end_position": 97,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6679,7 +7096,8 @@
                 "source_label": "rom",
                 "sentence_idx": 2306,
                 "start_position": 315,
-                "end_position": 318
+                "end_position": 318,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6695,7 +7113,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2308,
                 "start_position": 100,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6711,7 +7130,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2309,
                 "start_position": 84,
-                "end_position": 93
+                "end_position": 93,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6727,7 +7147,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2320,
                 "start_position": 71,
-                "end_position": 80
+                "end_position": 80,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6743,7 +7164,8 @@
                 "source_label": "dos nau",
                 "sentence_idx": 2320,
                 "start_position": 89,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6759,7 +7181,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2324,
                 "start_position": 84,
-                "end_position": 89
+                "end_position": 89,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6775,7 +7198,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2330,
                 "start_position": 25,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6791,7 +7215,8 @@
                 "source_label": "pischdorf",
                 "sentence_idx": 2331,
                 "start_position": 38,
-                "end_position": 47
+                "end_position": 47,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6807,7 +7232,8 @@
                 "source_label": "donaustrohm",
                 "sentence_idx": 2339,
                 "start_position": 144,
-                "end_position": 155
+                "end_position": 155,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6823,7 +7249,8 @@
                 "source_label": "pre s burg",
                 "sentence_idx": 2339,
                 "start_position": 198,
-                "end_position": 209
+                "end_position": 209,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6839,7 +7266,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2341,
                 "start_position": 55,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,7 +7283,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2343,
                 "start_position": 19,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6871,7 +7300,8 @@
                 "source_label": "donpre burg",
                 "sentence_idx": 2345,
                 "start_position": 92,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6887,7 +7317,8 @@
                 "source_label": "don strohm",
                 "sentence_idx": 2346,
                 "start_position": 127,
-                "end_position": 137
+                "end_position": 137,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6903,7 +7334,8 @@
                 "source_label": "moos",
                 "sentence_idx": 2397,
                 "start_position": 153,
-                "end_position": 157
+                "end_position": 157,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6919,7 +7351,8 @@
                 "source_label": "wien",
                 "sentence_idx": 2397,
                 "start_position": 504,
-                "end_position": 508
+                "end_position": 508,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6935,7 +7368,8 @@
                 "source_label": "loipersdorf",
                 "sentence_idx": 2404,
                 "start_position": 25,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6951,7 +7385,8 @@
                 "source_label": "majorhaz",
                 "sentence_idx": 2417,
                 "start_position": 29,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6967,7 +7402,8 @@
                 "source_label": "szarva",
                 "sentence_idx": 2419,
                 "start_position": 7,
-                "end_position": 13
+                "end_position": 13,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6983,7 +7419,8 @@
                 "source_label": "komorn",
                 "sentence_idx": 2421,
                 "start_position": 45,
-                "end_position": 51
+                "end_position": 51,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -6999,7 +7436,8 @@
                 "source_label": "omorn",
                 "sentence_idx": 2423,
                 "start_position": 2,
-                "end_position": 7
+                "end_position": 7,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7015,7 +7453,8 @@
                 "source_label": "waag",
                 "sentence_idx": 2426,
                 "start_position": 58,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7031,7 +7470,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2426,
                 "start_position": 67,
-                "end_position": 72
+                "end_position": 72,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7047,7 +7487,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2431,
                 "start_position": 41,
-                "end_position": 47
+                "end_position": 47,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7063,7 +7504,8 @@
                 "source_label": "komorn",
                 "sentence_idx": 2432,
                 "start_position": 4,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7079,7 +7521,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2432,
                 "start_position": 40,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7095,7 +7538,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2432,
                 "start_position": 112,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7111,7 +7555,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2435,
                 "start_position": 33,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7127,7 +7572,8 @@
                 "source_label": "palischersee",
                 "sentence_idx": 2439,
                 "start_position": 4,
-                "end_position": 16
+                "end_position": 16,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7143,7 +7589,8 @@
                 "source_label": "gijarnat",
                 "sentence_idx": 2443,
                 "start_position": 12,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7159,7 +7606,8 @@
                 "source_label": "palanka",
                 "sentence_idx": 2443,
                 "start_position": 25,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7175,7 +7623,8 @@
                 "source_label": "st.",
                 "sentence_idx": 2443,
                 "start_position": 38,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7191,7 +7640,8 @@
                 "source_label": "gottard",
                 "sentence_idx": 2443,
                 "start_position": 42,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7207,7 +7657,8 @@
                 "source_label": "janoshaza",
                 "sentence_idx": 2443,
                 "start_position": 54,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7223,7 +7674,8 @@
                 "source_label": ";",
                 "sentence_idx": 2443,
                 "start_position": 63,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7239,7 +7691,8 @@
                 "source_label": "deber",
                 "sentence_idx": 2443,
                 "start_position": 69,
-                "end_position": 74
+                "end_position": 74,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7255,7 +7708,8 @@
                 "source_label": "dio ry",
                 "sentence_idx": 2443,
                 "start_position": 100,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7271,7 +7725,8 @@
                 "source_label": "nfkirchen",
                 "sentence_idx": 2445,
                 "start_position": 32,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7287,7 +7742,8 @@
                 "source_label": "sliwowitza",
                 "sentence_idx": 2446,
                 "start_position": 103,
-                "end_position": 113
+                "end_position": 113,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7303,7 +7759,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2447,
                 "start_position": 24,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7319,7 +7776,8 @@
                 "source_label": "ungarn",
                 "sentence_idx": 2459,
                 "start_position": 146,
-                "end_position": 152
+                "end_position": 152,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7335,7 +7793,8 @@
                 "source_label": "spielberg",
                 "sentence_idx": 2492,
                 "start_position": 0,
-                "end_position": 9
+                "end_position": 9,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7351,7 +7810,8 @@
                 "source_label": "feldsberg",
                 "sentence_idx": 2494,
                 "start_position": 85,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7367,7 +7827,8 @@
                 "source_label": ";",
                 "sentence_idx": 2494,
                 "start_position": 94,
-                "end_position": 95
+                "end_position": 95,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7383,7 +7844,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 2494,
                 "start_position": 160,
-                "end_position": 166
+                "end_position": 166,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7399,7 +7861,8 @@
                 "source_label": "lichtensteinisch",
                 "sentence_idx": 2500,
                 "start_position": 18,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7415,7 +7878,8 @@
                 "source_label": "holtsch",
                 "sentence_idx": 2501,
                 "start_position": 19,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7431,7 +7895,8 @@
                 "source_label": "kabitscha",
                 "sentence_idx": 2501,
                 "start_position": 126,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7447,7 +7912,8 @@
                 "source_label": "st. johann",
                 "sentence_idx": 2501,
                 "start_position": 136,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7463,7 +7929,8 @@
                 "source_label": "mala",
                 "sentence_idx": 2501,
                 "start_position": 189,
-                "end_position": 193
+                "end_position": 193,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7479,7 +7946,8 @@
                 "source_label": "neapel",
                 "sentence_idx": 2501,
                 "start_position": 295,
-                "end_position": 301
+                "end_position": 301,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7495,7 +7963,8 @@
                 "source_label": "pre burg",
                 "sentence_idx": 2504,
                 "start_position": 10,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7511,7 +7980,8 @@
                 "source_label": "rottenstein",
                 "sentence_idx": 2505,
                 "start_position": 126,
-                "end_position": 137
+                "end_position": 137,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7527,7 +7997,8 @@
                 "source_label": "st. martin",
                 "sentence_idx": 2506,
                 "start_position": 97,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7543,7 +8014,8 @@
                 "source_label": "donau",
                 "sentence_idx": 2506,
                 "start_position": 164,
-                "end_position": 169
+                "end_position": 169,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7559,7 +8031,8 @@
                 "source_label": "tyrnau",
                 "sentence_idx": 2518,
                 "start_position": 10,
-                "end_position": 16
+                "end_position": 16,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7575,7 +8048,8 @@
                 "source_label": ";",
                 "sentence_idx": 2518,
                 "start_position": 16,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7591,7 +8065,8 @@
                 "source_label": "nikolai",
                 "sentence_idx": 2518,
                 "start_position": 48,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7607,7 +8082,8 @@
                 "source_label": "neustadt",
                 "sentence_idx": 2518,
                 "start_position": 231,
-                "end_position": 239
+                "end_position": 239,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7623,7 +8099,8 @@
                 "source_label": "lavitz",
                 "sentence_idx": 2518,
                 "start_position": 267,
-                "end_position": 273
+                "end_position": 273,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7639,7 +8116,8 @@
                 "source_label": "pest",
                 "sentence_idx": 2520,
                 "start_position": 10,
-                "end_position": 14
+                "end_position": 14,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7655,7 +8133,8 @@
                 "source_label": ";",
                 "sentence_idx": 2520,
                 "start_position": 14,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7671,7 +8150,8 @@
                 "source_label": "oedenburg",
                 "sentence_idx": 2523,
                 "start_position": 10,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7687,7 +8167,8 @@
                 "source_label": "dra burg",
                 "sentence_idx": 2524,
                 "start_position": 30,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -7703,7 +8184,8 @@
                 "source_label": "eisenstadt",
                 "sentence_idx": 2524,
                 "start_position": 86,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

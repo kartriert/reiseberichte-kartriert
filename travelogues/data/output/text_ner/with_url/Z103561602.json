@@ -7,7 +7,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3,
                 "start_position": 0,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +24,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 39,
                 "start_position": 145,
-                "end_position": 152
+                "end_position": 152,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -39,7 +41,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 43,
                 "start_position": 126,
-                "end_position": 133
+                "end_position": 133,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +58,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 62,
                 "start_position": 354,
-                "end_position": 361
+                "end_position": 361,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +75,8 @@
                 "source_label": "keffelsdorf",
                 "sentence_idx": 71,
                 "start_position": 181,
-                "end_position": 192
+                "end_position": 192,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +92,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 72,
                 "start_position": 66,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +109,8 @@
                 "source_label": "dresden",
                 "sentence_idx": 74,
                 "start_position": 241,
-                "end_position": 248
+                "end_position": 248,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +126,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 90,
                 "start_position": 61,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/2879139"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +143,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 93,
                 "start_position": 228,
-                "end_position": 235
+                "end_position": 235,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +160,8 @@
                 "source_label": "londen",
                 "sentence_idx": 94,
                 "start_position": 153,
-                "end_position": 159
+                "end_position": 159,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +177,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 95,
                 "start_position": 51,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -183,7 +194,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 95,
                 "start_position": 361,
-                "end_position": 368
+                "end_position": 368,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +211,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 131,
                 "start_position": 98,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +228,8 @@
                 "source_label": "amerika",
                 "sentence_idx": 164,
                 "start_position": 20,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +245,8 @@
                 "source_label": "verga",
                 "sentence_idx": 166,
                 "start_position": 130,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +262,8 @@
                 "source_label": "frankreich",
                 "sentence_idx": 166,
                 "start_position": 226,
-                "end_position": 236
+                "end_position": 236,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -263,7 +279,8 @@
                 "source_label": "nnemark",
                 "sentence_idx": 191,
                 "start_position": 165,
-                "end_position": 172
+                "end_position": 172,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +296,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 288,
                 "start_position": 139,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +313,8 @@
                 "source_label": "magdeburg",
                 "sentence_idx": 288,
                 "start_position": 222,
-                "end_position": 231
+                "end_position": 231,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +330,8 @@
                 "source_label": "lau niz",
                 "sentence_idx": 288,
                 "start_position": 285,
-                "end_position": 293
+                "end_position": 293,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +347,8 @@
                 "source_label": "europa",
                 "sentence_idx": 290,
                 "start_position": 129,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +364,8 @@
                 "source_label": "warschau",
                 "sentence_idx": 291,
                 "start_position": 110,
-                "end_position": 118
+                "end_position": 118,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +381,8 @@
                 "source_label": "polen",
                 "sentence_idx": 292,
                 "start_position": 272,
-                "end_position": 277
+                "end_position": 277,
+                "url": "https://www.geonames.org/798544"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +398,8 @@
                 "source_label": "dresden",
                 "sentence_idx": 293,
                 "start_position": 32,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +415,8 @@
                 "source_label": "sachsen",
                 "sentence_idx": 305,
                 "start_position": 272,
-                "end_position": 279
+                "end_position": 279,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +432,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 325,
                 "start_position": 60,
-                "end_position": 67
+                "end_position": 67,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +449,8 @@
                 "source_label": "leipzig",
                 "sentence_idx": 329,
                 "start_position": 255,
-                "end_position": 262
+                "end_position": 262,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
