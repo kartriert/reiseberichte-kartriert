@@ -7,7 +7,8 @@
                 "source_label": "ozza",
                 "sentence_idx": 10,
                 "start_position": 16,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +24,8 @@
                 "source_label": "pazzzzm",
                 "sentence_idx": 10,
                 "start_position": 26,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -39,7 +41,8 @@
                 "source_label": "zyzanz",
                 "sentence_idx": 10,
                 "start_position": 34,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +58,8 @@
                 "source_label": "ezza",
                 "sentence_idx": 10,
                 "start_position": 41,
-                "end_position": 45
+                "end_position": 45,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +75,8 @@
                 "source_label": "zzaz",
                 "sentence_idx": 10,
                 "start_position": 52,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +92,8 @@
                 "source_label": "ezz",
                 "sentence_idx": 10,
                 "start_position": 61,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +109,8 @@
                 "source_label": "zza",
                 "sentence_idx": 10,
                 "start_position": 65,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +126,8 @@
                 "source_label": "zyza",
                 "sentence_idx": 10,
                 "start_position": 69,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +143,8 @@
                 "source_label": "zzzzzzei",
                 "sentence_idx": 10,
                 "start_position": 90,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +160,8 @@
                 "source_label": "zzazza",
                 "sentence_idx": 10,
                 "start_position": 103,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +177,8 @@
                 "source_label": "wazza",
                 "sentence_idx": 11,
                 "start_position": 0,
-                "end_position": 5
+                "end_position": 5,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -183,7 +194,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 17,
                 "start_position": 14,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +211,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 40,
                 "start_position": 207,
-                "end_position": 210
+                "end_position": 210,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +228,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 40,
                 "start_position": 210,
-                "end_position": 216
+                "end_position": 216,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +245,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 163,
                 "start_position": 149,
-                "end_position": 159
+                "end_position": 159,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +262,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 165,
                 "start_position": 38,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -263,7 +279,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 165,
                 "start_position": 41,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +296,8 @@
                 "source_label": "nadland",
                 "sentence_idx": 176,
                 "start_position": 468,
-                "end_position": 475
+                "end_position": 475,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +313,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 178,
                 "start_position": 90,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +330,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 191,
                 "start_position": 102,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +347,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 191,
                 "start_position": 105,
-                "end_position": 111
+                "end_position": 111,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +364,8 @@
                 "source_label": "futuro",
                 "sentence_idx": 424,
                 "start_position": 72,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +381,8 @@
                 "source_label": "holstensburg",
                 "sentence_idx": 428,
                 "start_position": 65,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +398,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 465,
                 "start_position": 44,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +415,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 489,
                 "start_position": 17,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +432,8 @@
                 "source_label": "poeck",
                 "sentence_idx": 492,
                 "start_position": 134,
-                "end_position": 139
+                "end_position": 139,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +449,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 577,
                 "start_position": 57,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +466,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 588,
                 "start_position": 149,
-                "end_position": 159
+                "end_position": 159,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +483,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 599,
                 "start_position": 61,
-                "end_position": 71
+                "end_position": 71,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -471,7 +500,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 615,
                 "start_position": 114,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -487,7 +517,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 615,
                 "start_position": 117,
-                "end_position": 123
+                "end_position": 123,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +534,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 618,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +551,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 623,
                 "start_position": 92,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +568,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 645,
                 "start_position": 104,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +585,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 645,
                 "start_position": 107,
-                "end_position": 113
+                "end_position": 113,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +602,8 @@
                 "source_label": "friedrichsberg",
                 "sentence_idx": 681,
                 "start_position": 272,
-                "end_position": 286
+                "end_position": 286,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -583,7 +619,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 688,
                 "start_position": 29,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +636,8 @@
                 "source_label": "poeck",
                 "sentence_idx": 692,
                 "start_position": 47,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +653,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 704,
                 "start_position": 12,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +670,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 704,
                 "start_position": 15,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +687,8 @@
                 "source_label": "poeck",
                 "sentence_idx": 712,
                 "start_position": 56,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -663,7 +704,8 @@
                 "source_label": "nland",
                 "sentence_idx": 733,
                 "start_position": 109,
-                "end_position": 114
+                "end_position": 114,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -679,7 +721,8 @@
                 "source_label": "holstein",
                 "sentence_idx": 738,
                 "start_position": 71,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +738,8 @@
                 "source_label": "friedrichsberg",
                 "sentence_idx": 744,
                 "start_position": 15,
-                "end_position": 29
+                "end_position": 29,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +755,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 750,
                 "start_position": 47,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -727,7 +772,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 750,
                 "start_position": 50,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +789,8 @@
                 "source_label": "aalburg",
                 "sentence_idx": 750,
                 "start_position": 179,
-                "end_position": 186
+                "end_position": 186,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +806,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 762,
                 "start_position": 53,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -775,7 +823,8 @@
                 "source_label": "nazaret",
                 "sentence_idx": 787,
                 "start_position": 53,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -791,7 +840,8 @@
                 "source_label": "loretto",
                 "sentence_idx": 787,
                 "start_position": 82,
-                "end_position": 89
+                "end_position": 89,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -807,7 +857,8 @@
                 "source_label": "italien",
                 "sentence_idx": 787,
                 "start_position": 93,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +874,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 787,
                 "start_position": 151,
-                "end_position": 157
+                "end_position": 157,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +891,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 789,
                 "start_position": 69,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +908,8 @@
                 "source_label": "disko",
                 "sentence_idx": 958,
                 "start_position": 35,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -871,7 +925,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 959,
                 "start_position": 33,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -887,7 +942,8 @@
                 "source_label": "disko",
                 "sentence_idx": 959,
                 "start_position": 72,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -903,7 +959,8 @@
                 "source_label": "waigats",
                 "sentence_idx": 967,
                 "start_position": 93,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -919,7 +976,8 @@
                 "source_label": "waigats",
                 "sentence_idx": 982,
                 "start_position": 224,
-                "end_position": 231
+                "end_position": 231,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -935,7 +993,8 @@
                 "source_label": "maklykout",
                 "sentence_idx": 1002,
                 "start_position": 34,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -951,7 +1010,8 @@
                 "source_label": "jakobshavn",
                 "sentence_idx": 1002,
                 "start_position": 51,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -967,7 +1027,8 @@
                 "source_label": "nacp",
                 "sentence_idx": 1036,
                 "start_position": 26,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -983,7 +1044,8 @@
                 "source_label": "amerika",
                 "sentence_idx": 1064,
                 "start_position": 171,
-                "end_position": 178
+                "end_position": 178,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1061,8 @@
                 "source_label": "tornarsuk",
                 "sentence_idx": 1083,
                 "start_position": 17,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1015,7 +1078,8 @@
                 "source_label": "nouk",
                 "sentence_idx": 1091,
                 "start_position": 35,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1095,8 @@
                 "source_label": "egypten",
                 "sentence_idx": 1139,
                 "start_position": 120,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1047,7 +1112,8 @@
                 "source_label": "nepisenne",
                 "sentence_idx": 1147,
                 "start_position": 24,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1063,7 +1129,8 @@
                 "source_label": "holstensburg",
                 "sentence_idx": 1147,
                 "start_position": 41,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1079,7 +1146,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 1152,
                 "start_position": 32,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1095,7 +1163,8 @@
                 "source_label": "nouk",
                 "sentence_idx": 1158,
                 "start_position": 33,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1180,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1195,
                 "start_position": 74,
-                "end_position": 77
+                "end_position": 77,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1127,7 +1197,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 1195,
                 "start_position": 77,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1143,7 +1214,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1199,
                 "start_position": 116,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1159,7 +1231,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 1199,
                 "start_position": 119,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1175,7 +1248,8 @@
                 "source_label": "dronteim",
                 "sentence_idx": 1200,
                 "start_position": 303,
-                "end_position": 311
+                "end_position": 311,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1191,7 +1265,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1200,
                 "start_position": 398,
-                "end_position": 401
+                "end_position": 401,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1207,7 +1282,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 1200,
                 "start_position": 401,
-                "end_position": 407
+                "end_position": 407,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1223,7 +1299,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 1207,
                 "start_position": 125,
-                "end_position": 133
+                "end_position": 133,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1239,7 +1316,8 @@
                 "source_label": "dronteim",
                 "sentence_idx": 1207,
                 "start_position": 153,
-                "end_position": 161
+                "end_position": 161,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1255,7 +1333,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 1217,
                 "start_position": 91,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1271,7 +1350,8 @@
                 "source_label": "schweden",
                 "sentence_idx": 1217,
                 "start_position": 101,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1287,7 +1367,8 @@
                 "source_label": "gotland",
                 "sentence_idx": 1217,
                 "start_position": 114,
-                "end_position": 121
+                "end_position": 121,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1384,8 @@
                 "source_label": "wallro\u00c3\u0178z\u00c3",
                 "sentence_idx": 1218,
                 "start_position": 162,
-                "end_position": 172
+                "end_position": 172,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1319,7 +1401,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 1218,
                 "start_position": 218,
-                "end_position": 224
+                "end_position": 224,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1335,7 +1418,8 @@
                 "source_label": "dronteim",
                 "sentence_idx": 1218,
                 "start_position": 248,
-                "end_position": 256
+                "end_position": 256,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1351,7 +1435,8 @@
                 "source_label": "flandern",
                 "sentence_idx": 1228,
                 "start_position": 96,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1367,7 +1452,8 @@
                 "source_label": "dronteim",
                 "sentence_idx": 1228,
                 "start_position": 163,
-                "end_position": 171
+                "end_position": 171,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1383,7 +1469,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 1228,
                 "start_position": 192,
-                "end_position": 198
+                "end_position": 198,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1399,7 +1486,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1231,
                 "start_position": 16,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1415,7 +1503,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 1231,
                 "start_position": 19,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1431,7 +1520,8 @@
                 "source_label": "nland",
                 "sentence_idx": 1231,
                 "start_position": 20,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +1537,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1251,
                 "start_position": 82,
-                "end_position": 85
+                "end_position": 85,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1463,7 +1554,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 1251,
                 "start_position": 85,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1479,7 +1571,8 @@
                 "source_label": "skalholt",
                 "sentence_idx": 1252,
                 "start_position": 208,
-                "end_position": 216
+                "end_position": 216,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1495,7 +1588,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1253,
                 "start_position": 70,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1511,7 +1605,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 1253,
                 "start_position": 73,
-                "end_position": 74
+                "end_position": 74,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1527,7 +1622,8 @@
                 "source_label": "nland",
                 "sentence_idx": 1253,
                 "start_position": 74,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1543,7 +1639,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 1253,
                 "start_position": 200,
-                "end_position": 208
+                "end_position": 208,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1559,7 +1656,8 @@
                 "source_label": "dronteim",
                 "sentence_idx": 1253,
                 "start_position": 243,
-                "end_position": 251
+                "end_position": 251,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1575,7 +1673,8 @@
                 "source_label": "nicolai",
                 "sentence_idx": 1277,
                 "start_position": 4,
-                "end_position": 11
+                "end_position": 11,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1591,7 +1690,8 @@
                 "source_label": "island",
                 "sentence_idx": 1279,
                 "start_position": 75,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1607,7 +1707,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 1279,
                 "start_position": 283,
-                "end_position": 286
+                "end_position": 286,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1623,7 +1724,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 1279,
                 "start_position": 286,
-                "end_position": 292
+                "end_position": 292,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1639,7 +1741,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 1678,
                 "start_position": 110,
-                "end_position": 116
+                "end_position": 116,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,7 +1758,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 1679,
                 "start_position": 48,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1775,8 @@
                 "source_label": "amerika",
                 "sentence_idx": 1795,
                 "start_position": 106,
-                "end_position": 113
+                "end_position": 113,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1792,8 @@
                 "source_label": "speck",
                 "sentence_idx": 1804,
                 "start_position": 198,
-                "end_position": 203
+                "end_position": 203,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1703,7 +1809,8 @@
                 "source_label": "tarrak",
                 "sentence_idx": 1851,
                 "start_position": 32,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,7 +1826,8 @@
                 "source_label": "tarnek",
                 "sentence_idx": 1851,
                 "start_position": 43,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1735,7 +1843,8 @@
                 "source_label": "walsingham",
                 "sentence_idx": 1898,
                 "start_position": 76,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1751,7 +1860,8 @@
                 "source_label": "james eiland",
                 "sentence_idx": 1898,
                 "start_position": 91,
-                "end_position": 103
+                "end_position": 103,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1767,7 +1877,8 @@
                 "source_label": "disko eiland",
                 "sentence_idx": 1959,
                 "start_position": 90,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1783,7 +1894,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 1961,
                 "start_position": 511,
-                "end_position": 517
+                "end_position": 517,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1799,7 +1911,8 @@
                 "source_label": "kajacks",
                 "sentence_idx": 1980,
                 "start_position": 285,
-                "end_position": 292
+                "end_position": 292,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1815,7 +1928,8 @@
                 "source_label": "peru",
                 "sentence_idx": 2007,
                 "start_position": 56,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1831,7 +1945,8 @@
                 "source_label": "cordilleras bergen",
                 "sentence_idx": 2007,
                 "start_position": 186,
-                "end_position": 204
+                "end_position": 204,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1847,7 +1962,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2020,
                 "start_position": 52,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +1979,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 2020,
                 "start_position": 55,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1879,7 +1996,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2090,
                 "start_position": 128,
-                "end_position": 131
+                "end_position": 131,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1895,7 +2013,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 2090,
                 "start_position": 131,
-                "end_position": 132
+                "end_position": 132,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1911,7 +2030,8 @@
                 "source_label": "nland",
                 "sentence_idx": 2090,
                 "start_position": 132,
-                "end_position": 137
+                "end_position": 137,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1927,7 +2047,8 @@
                 "source_label": "d\u00c3",
                 "sentence_idx": 2097,
                 "start_position": 99,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1943,7 +2064,8 @@
                 "source_label": "\u00a4 nemark",
                 "sentence_idx": 2097,
                 "start_position": 101,
-                "end_position": 108
+                "end_position": 108,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1959,7 +2081,8 @@
                 "source_label": "jakobshavn",
                 "sentence_idx": 2135,
                 "start_position": 9,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1975,7 +2098,8 @@
                 "source_label": "claushavn",
                 "sentence_idx": 2135,
                 "start_position": 24,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -1991,7 +2115,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2143,
                 "start_position": 94,
-                "end_position": 97
+                "end_position": 97,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2007,7 +2132,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2143,
                 "start_position": 97,
-                "end_position": 103
+                "end_position": 103,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,7 +2149,8 @@
                 "source_label": "jakobshavn",
                 "sentence_idx": 2146,
                 "start_position": 69,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2039,7 +2166,8 @@
                 "source_label": "lornarfuk",
                 "sentence_idx": 2177,
                 "start_position": 16,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2055,7 +2183,8 @@
                 "source_label": "jakobsholm",
                 "sentence_idx": 2191,
                 "start_position": 54,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2071,7 +2200,8 @@
                 "source_label": "marienborn",
                 "sentence_idx": 2192,
                 "start_position": 122,
-                "end_position": 132
+                "end_position": 132,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2087,7 +2217,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 2227,
                 "start_position": 49,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2103,7 +2234,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 2232,
                 "start_position": 149,
-                "end_position": 159
+                "end_position": 159,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2119,7 +2251,8 @@
                 "source_label": "pavia",
                 "sentence_idx": 2463,
                 "start_position": 65,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2135,7 +2268,8 @@
                 "source_label": "alsbach",
                 "sentence_idx": 2464,
                 "start_position": 19,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2151,7 +2285,8 @@
                 "source_label": "nordamerika",
                 "sentence_idx": 2558,
                 "start_position": 40,
-                "end_position": 51
+                "end_position": 51,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2167,7 +2302,8 @@
                 "source_label": "tornarsuk",
                 "sentence_idx": 2593,
                 "start_position": 31,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2183,7 +2319,8 @@
                 "source_label": "pontoppidan",
                 "sentence_idx": 2619,
                 "start_position": 88,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2199,7 +2336,8 @@
                 "source_label": "europa",
                 "sentence_idx": 2653,
                 "start_position": 73,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2215,7 +2353,8 @@
                 "source_label": "speck",
                 "sentence_idx": 2654,
                 "start_position": 292,
-                "end_position": 297
+                "end_position": 297,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2231,7 +2370,8 @@
                 "source_label": "helsing\u00c3",
                 "sentence_idx": 2659,
                 "start_position": 174,
-                "end_position": 182
+                "end_position": 182,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2247,7 +2387,8 @@
                 "source_label": "stianshaab",
                 "sentence_idx": 2674,
                 "start_position": 46,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2263,7 +2404,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 2676,
                 "start_position": 36,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2279,7 +2421,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2676,
                 "start_position": 73,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2295,7 +2438,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2676,
                 "start_position": 76,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2311,7 +2455,8 @@
                 "source_label": "tenhuk",
                 "sentence_idx": 2678,
                 "start_position": 0,
-                "end_position": 6
+                "end_position": 6,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,7 +2472,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 2696,
                 "start_position": 35,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2343,7 +2489,8 @@
                 "source_label": "vands\u00c3",
                 "sentence_idx": 2699,
                 "start_position": 70,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2359,7 +2506,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2705,
                 "start_position": 90,
-                "end_position": 93
+                "end_position": 93,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2375,7 +2523,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 2705,
                 "start_position": 93,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2391,7 +2540,8 @@
                 "source_label": "nland",
                 "sentence_idx": 2705,
                 "start_position": 94,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2407,7 +2557,8 @@
                 "source_label": "dronninglund",
                 "sentence_idx": 2709,
                 "start_position": 70,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2423,7 +2574,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 2709,
                 "start_position": 99,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2439,7 +2591,8 @@
                 "source_label": "nordamerika nordw\u00c3 \u00a4 rts",
                 "sentence_idx": 2711,
                 "start_position": 412,
-                "end_position": 434
+                "end_position": 434,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,7 +2608,8 @@
                 "source_label": "kamtschatka",
                 "sentence_idx": 2711,
                 "start_position": 438,
-                "end_position": 449
+                "end_position": 449,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2471,7 +2625,8 @@
                 "source_label": "asien",
                 "sentence_idx": 2711,
                 "start_position": 451,
-                "end_position": 456
+                "end_position": 456,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2487,7 +2642,8 @@
                 "source_label": "europa",
                 "sentence_idx": 2711,
                 "start_position": 461,
-                "end_position": 467
+                "end_position": 467,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2503,7 +2659,8 @@
                 "source_label": "waigat",
                 "sentence_idx": 2711,
                 "start_position": 500,
-                "end_position": 506
+                "end_position": 506,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2519,7 +2676,8 @@
                 "source_label": "spitzbergen",
                 "sentence_idx": 2711,
                 "start_position": 512,
-                "end_position": 523
+                "end_position": 523,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2535,7 +2693,8 @@
                 "source_label": "island",
                 "sentence_idx": 2711,
                 "start_position": 565,
-                "end_position": 571
+                "end_position": 571,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2551,7 +2710,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2711,
                 "start_position": 593,
-                "end_position": 596
+                "end_position": 596,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2567,7 +2727,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2711,
                 "start_position": 596,
-                "end_position": 602
+                "end_position": 602,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2583,7 +2744,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2711,
                 "start_position": 721,
-                "end_position": 724
+                "end_position": 724,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2599,7 +2761,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 2711,
                 "start_position": 724,
-                "end_position": 725
+                "end_position": 725,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2615,7 +2778,8 @@
                 "source_label": "nlands",
                 "sentence_idx": 2711,
                 "start_position": 725,
-                "end_position": 731
+                "end_position": 731,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2631,7 +2795,8 @@
                 "source_label": "nordamerika",
                 "sentence_idx": 2711,
                 "start_position": 797,
-                "end_position": 808
+                "end_position": 808,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2647,7 +2812,8 @@
                 "source_label": "hudsonsbay",
                 "sentence_idx": 2711,
                 "start_position": 841,
-                "end_position": 851
+                "end_position": 851,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2663,7 +2829,8 @@
                 "source_label": "s\u00c3",
                 "sentence_idx": 2711,
                 "start_position": 940,
-                "end_position": 942
+                "end_position": 942,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2679,7 +2846,8 @@
                 "source_label": "\u00bc dsee",
                 "sentence_idx": 2711,
                 "start_position": 942,
-                "end_position": 947
+                "end_position": 947,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2695,7 +2863,8 @@
                 "source_label": "californien",
                 "sentence_idx": 2712,
                 "start_position": 210,
-                "end_position": 221
+                "end_position": 221,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2711,7 +2880,8 @@
                 "source_label": "kronburg",
                 "sentence_idx": 2712,
                 "start_position": 408,
-                "end_position": 416
+                "end_position": 416,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2727,7 +2897,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 2713,
                 "start_position": 174,
-                "end_position": 184
+                "end_position": 184,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2743,7 +2914,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 2725,
                 "start_position": 31,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2759,7 +2931,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2727,
                 "start_position": 30,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2775,7 +2948,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2727,
                 "start_position": 33,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2791,7 +2965,8 @@
                 "source_label": "dronninglund",
                 "sentence_idx": 2767,
                 "start_position": 62,
-                "end_position": 74
+                "end_position": 74,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2807,7 +2982,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2767,
                 "start_position": 149,
-                "end_position": 152
+                "end_position": 152,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2823,7 +2999,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2767,
                 "start_position": 152,
-                "end_position": 158
+                "end_position": 158,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2839,7 +3016,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2782,
                 "start_position": 28,
-                "end_position": 31
+                "end_position": 31,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,7 +3033,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2782,
                 "start_position": 31,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2871,7 +3050,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2904,
                 "start_position": 20,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2887,7 +3067,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2904,
                 "start_position": 23,
-                "end_position": 29
+                "end_position": 29,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +3084,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 2912,
                 "start_position": 30,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2919,7 +3101,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 2923,
                 "start_position": 55,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,7 +3118,8 @@
                 "source_label": "hudsons bay",
                 "sentence_idx": 2980,
                 "start_position": 49,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2951,7 +3135,8 @@
                 "source_label": "todberg",
                 "sentence_idx": 2981,
                 "start_position": 61,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2967,7 +3152,8 @@
                 "source_label": "middelbye",
                 "sentence_idx": 2981,
                 "start_position": 73,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2983,7 +3169,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 2981,
                 "start_position": 134,
-                "end_position": 140
+                "end_position": 140,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -2999,7 +3186,8 @@
                 "source_label": "hudsensbad",
                 "sentence_idx": 2983,
                 "start_position": 36,
-                "end_position": 46
+                "end_position": 46,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3015,7 +3203,8 @@
                 "source_label": "hudsonsbah",
                 "sentence_idx": 2983,
                 "start_position": 118,
-                "end_position": 128
+                "end_position": 128,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3031,7 +3220,8 @@
                 "source_label": "labrador",
                 "sentence_idx": 2984,
                 "start_position": 95,
-                "end_position": 103
+                "end_position": 103,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3047,7 +3237,8 @@
                 "source_label": "england",
                 "sentence_idx": 2984,
                 "start_position": 153,
-                "end_position": 160
+                "end_position": 160,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3063,7 +3254,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 2986,
                 "start_position": 19,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3079,7 +3271,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 2986,
                 "start_position": 114,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3095,7 +3288,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 2986,
                 "start_position": 132,
-                "end_position": 144
+                "end_position": 144,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3305,8 @@
                 "source_label": "island",
                 "sentence_idx": 2989,
                 "start_position": 17,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3127,7 +3322,8 @@
                 "source_label": "island",
                 "sentence_idx": 2989,
                 "start_position": 102,
-                "end_position": 108
+                "end_position": 108,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3143,7 +3339,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 2989,
                 "start_position": 114,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3159,7 +3356,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 2989,
                 "start_position": 117,
-                "end_position": 123
+                "end_position": 123,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3175,7 +3373,8 @@
                 "source_label": "nortsoak",
                 "sentence_idx": 2997,
                 "start_position": 109,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3191,7 +3390,8 @@
                 "source_label": "umanak",
                 "sentence_idx": 2997,
                 "start_position": 170,
-                "end_position": 176
+                "end_position": 176,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3207,7 +3407,8 @@
                 "source_label": "island",
                 "sentence_idx": 3003,
                 "start_position": 33,
-                "end_position": 39
+                "end_position": 39,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3223,7 +3424,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3003,
                 "start_position": 52,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3239,7 +3441,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3003,
                 "start_position": 55,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3255,7 +3458,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3003,
                 "start_position": 56,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3271,7 +3475,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 3004,
                 "start_position": 81,
-                "end_position": 87
+                "end_position": 87,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3287,7 +3492,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3018,
                 "start_position": 17,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3303,7 +3509,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3024,
                 "start_position": 163,
-                "end_position": 176
+                "end_position": 176,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,7 +3526,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 3031,
                 "start_position": 127,
-                "end_position": 135
+                "end_position": 135,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3335,7 +3543,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3031,
                 "start_position": 189,
-                "end_position": 192
+                "end_position": 192,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3351,7 +3560,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3031,
                 "start_position": 192,
-                "end_position": 198
+                "end_position": 198,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3367,7 +3577,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 3034,
                 "start_position": 4,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3383,7 +3594,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3043,
                 "start_position": 173,
-                "end_position": 186
+                "end_position": 186,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3399,7 +3611,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3069,
                 "start_position": 29,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3415,7 +3628,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3069,
                 "start_position": 32,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3431,7 +3645,8 @@
                 "source_label": "euer land",
                 "sentence_idx": 3084,
                 "start_position": 118,
-                "end_position": 127
+                "end_position": 127,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3447,7 +3662,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3105,
                 "start_position": 234,
-                "end_position": 247
+                "end_position": 247,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3463,7 +3679,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3105,
                 "start_position": 251,
-                "end_position": 254
+                "end_position": 254,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3479,7 +3696,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3105,
                 "start_position": 254,
-                "end_position": 260
+                "end_position": 260,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3495,7 +3713,8 @@
                 "source_label": "vaaelse",
                 "sentence_idx": 3113,
                 "start_position": 237,
-                "end_position": 244
+                "end_position": 244,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3511,7 +3730,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3113,
                 "start_position": 314,
-                "end_position": 326
+                "end_position": 326,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3527,7 +3747,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3141,
                 "start_position": 46,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3543,7 +3764,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3141,
                 "start_position": 49,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3559,7 +3781,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3141,
                 "start_position": 50,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3575,7 +3798,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3150,
                 "start_position": 91,
-                "end_position": 103
+                "end_position": 103,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3591,7 +3815,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3150,
                 "start_position": 389,
-                "end_position": 392
+                "end_position": 392,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3607,7 +3832,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3150,
                 "start_position": 392,
-                "end_position": 398
+                "end_position": 398,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3623,7 +3849,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3151,
                 "start_position": 52,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3639,7 +3866,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3152,
                 "start_position": 263,
-                "end_position": 266
+                "end_position": 266,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3655,7 +3883,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3152,
                 "start_position": 266,
-                "end_position": 272
+                "end_position": 272,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3671,7 +3900,8 @@
                 "source_label": "kir benmauer",
                 "sentence_idx": 3165,
                 "start_position": 43,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3687,7 +3917,8 @@
                 "source_label": "tunnulliarbik",
                 "sentence_idx": 3168,
                 "start_position": 141,
-                "end_position": 154
+                "end_position": 154,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3703,7 +3934,8 @@
                 "source_label": "kakortok",
                 "sentence_idx": 3183,
                 "start_position": 125,
-                "end_position": 133
+                "end_position": 133,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3719,7 +3951,8 @@
                 "source_label": "tunnulliarbit",
                 "sentence_idx": 3183,
                 "start_position": 138,
-                "end_position": 151
+                "end_position": 151,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3735,7 +3968,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3183,
                 "start_position": 246,
-                "end_position": 249
+                "end_position": 249,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3751,7 +3985,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3183,
                 "start_position": 249,
-                "end_position": 255
+                "end_position": 255,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3767,7 +4002,8 @@
                 "source_label": "itlianeshaab",
                 "sentence_idx": 3184,
                 "start_position": 219,
-                "end_position": 231
+                "end_position": 231,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3783,7 +4019,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3191,
                 "start_position": 227,
-                "end_position": 230
+                "end_position": 230,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3799,7 +4036,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3191,
                 "start_position": 230,
-                "end_position": 236
+                "end_position": 236,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3815,7 +4053,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3192,
                 "start_position": 168,
-                "end_position": 180
+                "end_position": 180,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3831,7 +4070,8 @@
                 "source_label": "island",
                 "sentence_idx": 3203,
                 "start_position": 84,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3847,7 +4087,8 @@
                 "source_label": "lapponica",
                 "sentence_idx": 3205,
                 "start_position": 49,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3863,7 +4104,8 @@
                 "source_label": "lapponica",
                 "sentence_idx": 3211,
                 "start_position": 89,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3879,7 +4121,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3211,
                 "start_position": 115,
-                "end_position": 118
+                "end_position": 118,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3895,7 +4138,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3211,
                 "start_position": 118,
-                "end_position": 124
+                "end_position": 124,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3911,7 +4155,8 @@
                 "source_label": "flora lapponica",
                 "sentence_idx": 3214,
                 "start_position": 67,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3927,7 +4172,8 @@
                 "source_label": "schweden",
                 "sentence_idx": 3217,
                 "start_position": 171,
-                "end_position": 179
+                "end_position": 179,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3943,7 +4189,8 @@
                 "source_label": "island",
                 "sentence_idx": 3220,
                 "start_position": 50,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3959,7 +4206,8 @@
                 "source_label": "island",
                 "sentence_idx": 3221,
                 "start_position": 247,
-                "end_position": 253
+                "end_position": 253,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3975,7 +4223,8 @@
                 "source_label": "island",
                 "sentence_idx": 3223,
                 "start_position": 77,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -3991,7 +4240,8 @@
                 "source_label": "andromeda",
                 "sentence_idx": 3223,
                 "start_position": 89,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4007,7 +4257,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3225,
                 "start_position": 12,
-                "end_position": 15
+                "end_position": 15,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4023,7 +4274,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3225,
                 "start_position": 15,
-                "end_position": 16
+                "end_position": 16,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4039,7 +4291,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3225,
                 "start_position": 16,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4055,7 +4308,8 @@
                 "source_label": "lappland",
                 "sentence_idx": 3226,
                 "start_position": 170,
-                "end_position": 178
+                "end_position": 178,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4071,7 +4325,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3232,
                 "start_position": 226,
-                "end_position": 229
+                "end_position": 229,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4087,7 +4342,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3232,
                 "start_position": 229,
-                "end_position": 235
+                "end_position": 235,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4103,7 +4359,8 @@
                 "source_label": "island",
                 "sentence_idx": 3241,
                 "start_position": 24,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4119,7 +4376,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 3243,
                 "start_position": 135,
-                "end_position": 141
+                "end_position": 141,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4135,7 +4393,8 @@
                 "source_label": "friedrichshaab",
                 "sentence_idx": 3243,
                 "start_position": 146,
-                "end_position": 160
+                "end_position": 160,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4151,7 +4410,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3243,
                 "start_position": 256,
-                "end_position": 268
+                "end_position": 268,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4167,7 +4427,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 3244,
                 "start_position": 47,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4183,7 +4444,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3244,
                 "start_position": 57,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4199,7 +4461,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3244,
                 "start_position": 60,
-                "end_position": 66
+                "end_position": 66,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4215,7 +4478,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3244,
                 "start_position": 195,
-                "end_position": 205
+                "end_position": 205,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4231,7 +4495,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3249,
                 "start_position": 57,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4247,7 +4512,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3249,
                 "start_position": 131,
-                "end_position": 144
+                "end_position": 144,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4263,7 +4529,8 @@
                 "source_label": "rommelpot",
                 "sentence_idx": 3250,
                 "start_position": 14,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4279,7 +4546,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3251,
                 "start_position": 107,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4295,7 +4563,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3251,
                 "start_position": 110,
-                "end_position": 111
+                "end_position": 111,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4311,7 +4580,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3251,
                 "start_position": 111,
-                "end_position": 116
+                "end_position": 116,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4327,7 +4597,8 @@
                 "source_label": "japan",
                 "sentence_idx": 3258,
                 "start_position": 77,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4343,7 +4614,8 @@
                 "source_label": "kamtschatka",
                 "sentence_idx": 3258,
                 "start_position": 87,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4359,7 +4631,8 @@
                 "source_label": "jakobshavn",
                 "sentence_idx": 3259,
                 "start_position": 63,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4375,7 +4648,8 @@
                 "source_label": "disko",
                 "sentence_idx": 3260,
                 "start_position": 23,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4391,7 +4665,8 @@
                 "source_label": "amerika",
                 "sentence_idx": 3264,
                 "start_position": 140,
-                "end_position": 147
+                "end_position": 147,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4407,7 +4682,8 @@
                 "source_label": "hudsonsbay",
                 "sentence_idx": 3264,
                 "start_position": 163,
-                "end_position": 173
+                "end_position": 173,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4423,7 +4699,8 @@
                 "source_label": "kabras dor",
                 "sentence_idx": 3264,
                 "start_position": 178,
-                "end_position": 188
+                "end_position": 188,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4439,7 +4716,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3264,
                 "start_position": 232,
-                "end_position": 235
+                "end_position": 235,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4455,7 +4733,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3264,
                 "start_position": 235,
-                "end_position": 241
+                "end_position": 241,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4471,7 +4750,8 @@
                 "source_label": "isfingilausinga",
                 "sentence_idx": 3268,
                 "start_position": 413,
-                "end_position": 428
+                "end_position": 428,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4487,7 +4767,8 @@
                 "source_label": "disko eiland",
                 "sentence_idx": 3275,
                 "start_position": 177,
-                "end_position": 189
+                "end_position": 189,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4503,7 +4784,8 @@
                 "source_label": "evland",
                 "sentence_idx": 3277,
                 "start_position": 17,
-                "end_position": 23
+                "end_position": 23,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4519,7 +4801,8 @@
                 "source_label": "jakobshavn",
                 "sentence_idx": 3280,
                 "start_position": 12,
-                "end_position": 22
+                "end_position": 22,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4535,7 +4818,8 @@
                 "source_label": "christianshaab",
                 "sentence_idx": 3282,
                 "start_position": 76,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4551,7 +4835,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3285,
                 "start_position": 80,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4567,7 +4852,8 @@
                 "source_label": "kronprinzeneiland",
                 "sentence_idx": 3288,
                 "start_position": 31,
-                "end_position": 48
+                "end_position": 48,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4583,7 +4869,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 3304,
                 "start_position": 32,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4599,7 +4886,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3305,
                 "start_position": 70,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4615,7 +4903,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3309,
                 "start_position": 12,
-                "end_position": 22
+                "end_position": 22,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4631,7 +4920,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3311,
                 "start_position": 41,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4647,7 +4937,8 @@
                 "source_label": "lichtenfeld",
                 "sentence_idx": 3324,
                 "start_position": 73,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4663,7 +4954,8 @@
                 "source_label": "friedrichshaab",
                 "sentence_idx": 3326,
                 "start_position": 12,
-                "end_position": 26
+                "end_position": 26,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4679,7 +4971,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3331,
                 "start_position": 12,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4695,7 +4988,8 @@
                 "source_label": "cap farvel",
                 "sentence_idx": 3334,
                 "start_position": 4,
-                "end_position": 14
+                "end_position": 14,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4711,7 +5005,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3334,
                 "start_position": 38,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4727,7 +5022,8 @@
                 "source_label": "lichtenau",
                 "sentence_idx": 3334,
                 "start_position": 73,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4743,7 +5039,8 @@
                 "source_label": "holsteinsburg",
                 "sentence_idx": 3337,
                 "start_position": 441,
-                "end_position": 454
+                "end_position": 454,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4759,7 +5056,8 @@
                 "source_label": "gotaab",
                 "sentence_idx": 3343,
                 "start_position": 4,
-                "end_position": 10
+                "end_position": 10,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,7 +5073,8 @@
                 "source_label": "friedrichshaab",
                 "sentence_idx": 3343,
                 "start_position": 56,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4791,7 +5090,8 @@
                 "source_label": "jakobshaon",
                 "sentence_idx": 3344,
                 "start_position": 3,
-                "end_position": 13
+                "end_position": 13,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4807,7 +5107,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 3348,
                 "start_position": 51,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4823,7 +5124,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3349,
                 "start_position": 107,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4839,7 +5141,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3352,
                 "start_position": 24,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4855,7 +5158,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3352,
                 "start_position": 27,
-                "end_position": 33
+                "end_position": 33,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4871,7 +5175,8 @@
                 "source_label": "kakortok",
                 "sentence_idx": 3356,
                 "start_position": 63,
-                "end_position": 71
+                "end_position": 71,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4887,7 +5192,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3356,
                 "start_position": 95,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4903,7 +5209,8 @@
                 "source_label": "island",
                 "sentence_idx": 3357,
                 "start_position": 300,
-                "end_position": 306
+                "end_position": 306,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4919,7 +5226,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3362,
                 "start_position": 66,
-                "end_position": 67
+                "end_position": 67,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4935,7 +5243,8 @@
                 "source_label": "nlands",
                 "sentence_idx": 3362,
                 "start_position": 67,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4951,7 +5260,8 @@
                 "source_label": "statenhuk",
                 "sentence_idx": 3362,
                 "start_position": 367,
-                "end_position": 376
+                "end_position": 376,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4967,7 +5277,8 @@
                 "source_label": "bergen",
                 "sentence_idx": 3363,
                 "start_position": 54,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4983,7 +5294,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3365,
                 "start_position": 67,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -4999,7 +5311,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3365,
                 "start_position": 70,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5015,7 +5328,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3370,
                 "start_position": 141,
-                "end_position": 142
+                "end_position": 142,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5031,7 +5345,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3388,
                 "start_position": 76,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5047,7 +5362,8 @@
                 "source_label": "island",
                 "sentence_idx": 3388,
                 "start_position": 120,
-                "end_position": 126
+                "end_position": 126,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5063,7 +5379,8 @@
                 "source_label": "island",
                 "sentence_idx": 3393,
                 "start_position": 455,
-                "end_position": 461
+                "end_position": 461,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5079,7 +5396,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3395,
                 "start_position": 51,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5095,7 +5413,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3396,
                 "start_position": 76,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5111,7 +5430,8 @@
                 "source_label": "island",
                 "sentence_idx": 3397,
                 "start_position": 260,
-                "end_position": 266
+                "end_position": 266,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5127,7 +5447,8 @@
                 "source_label": "moos",
                 "sentence_idx": 3398,
                 "start_position": 465,
-                "end_position": 469
+                "end_position": 469,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5143,7 +5464,8 @@
                 "source_label": "holmenshavn",
                 "sentence_idx": 3425,
                 "start_position": 108,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5159,7 +5481,8 @@
                 "source_label": "bosanshavn",
                 "sentence_idx": 3428,
                 "start_position": 66,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5175,7 +5498,8 @@
                 "source_label": "island",
                 "sentence_idx": 3436,
                 "start_position": 287,
-                "end_position": 293
+                "end_position": 293,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5191,7 +5515,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3437,
                 "start_position": 27,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5207,7 +5532,8 @@
                 "source_label": "island",
                 "sentence_idx": 3440,
                 "start_position": 247,
-                "end_position": 253
+                "end_position": 253,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5223,7 +5549,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3444,
                 "start_position": 98,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5239,7 +5566,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3444,
                 "start_position": 101,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5255,7 +5583,8 @@
                 "source_label": "altona",
                 "sentence_idx": 3447,
                 "start_position": 133,
-                "end_position": 139
+                "end_position": 139,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5271,7 +5600,8 @@
                 "source_label": "kopenhagen",
                 "sentence_idx": 3447,
                 "start_position": 309,
-                "end_position": 319
+                "end_position": 319,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5287,7 +5617,8 @@
                 "source_label": "egevog",
                 "sentence_idx": 3448,
                 "start_position": 88,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5303,7 +5634,8 @@
                 "source_label": "linden\u00c3",
                 "sentence_idx": 3448,
                 "start_position": 118,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5319,7 +5651,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 3448,
                 "start_position": 132,
-                "end_position": 140
+                "end_position": 140,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5335,7 +5668,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3449,
                 "start_position": 93,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5351,7 +5685,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3449,
                 "start_position": 96,
-                "end_position": 97
+                "end_position": 97,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5367,7 +5702,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3449,
                 "start_position": 97,
-                "end_position": 102
+                "end_position": 102,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5383,7 +5719,8 @@
                 "source_label": "norwegen",
                 "sentence_idx": 3450,
                 "start_position": 74,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5399,7 +5736,8 @@
                 "source_label": "holland",
                 "sentence_idx": 3454,
                 "start_position": 147,
-                "end_position": 154
+                "end_position": 154,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5415,7 +5753,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3454,
                 "start_position": 187,
-                "end_position": 188
+                "end_position": 188,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5431,7 +5770,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3454,
                 "start_position": 188,
-                "end_position": 193
+                "end_position": 193,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5447,7 +5787,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3454,
                 "start_position": 380,
-                "end_position": 383
+                "end_position": 383,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5463,7 +5804,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3454,
                 "start_position": 383,
-                "end_position": 389
+                "end_position": 389,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5479,7 +5821,8 @@
                 "source_label": "spitbergen",
                 "sentence_idx": 3456,
                 "start_position": 12,
-                "end_position": 22
+                "end_position": 22,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5495,7 +5838,8 @@
                 "source_label": "island",
                 "sentence_idx": 3470,
                 "start_position": 155,
-                "end_position": 161
+                "end_position": 161,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5511,7 +5855,8 @@
                 "source_label": "eisbergen",
                 "sentence_idx": 3472,
                 "start_position": 193,
-                "end_position": 202
+                "end_position": 202,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5527,7 +5872,8 @@
                 "source_label": "riserup",
                 "sentence_idx": 3491,
                 "start_position": 222,
-                "end_position": 229
+                "end_position": 229,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5543,7 +5889,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3494,
                 "start_position": 134,
-                "end_position": 137
+                "end_position": 137,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5559,7 +5906,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3494,
                 "start_position": 137,
-                "end_position": 143
+                "end_position": 143,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5575,7 +5923,8 @@
                 "source_label": "holsteensborg",
                 "sentence_idx": 3517,
                 "start_position": 73,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5591,7 +5940,8 @@
                 "source_label": "spitzbergen",
                 "sentence_idx": 3518,
                 "start_position": 389,
-                "end_position": 400
+                "end_position": 400,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5607,7 +5957,8 @@
                 "source_label": "holland",
                 "sentence_idx": 3519,
                 "start_position": 25,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5623,7 +5974,8 @@
                 "source_label": "spitzbergen",
                 "sentence_idx": 3519,
                 "start_position": 157,
-                "end_position": 168
+                "end_position": 168,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5639,7 +5991,8 @@
                 "source_label": "amsterdam",
                 "sentence_idx": 3520,
                 "start_position": 137,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5655,7 +6008,8 @@
                 "source_label": "holsteensborg",
                 "sentence_idx": 3522,
                 "start_position": 44,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,7 +6025,8 @@
                 "source_label": "holsteensborg",
                 "sentence_idx": 3526,
                 "start_position": 111,
-                "end_position": 124
+                "end_position": 124,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5687,7 +6042,8 @@
                 "source_label": "ertlok",
                 "sentence_idx": 3534,
                 "start_position": 233,
-                "end_position": 239
+                "end_position": 239,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5703,7 +6059,8 @@
                 "source_label": "holsteensborg",
                 "sentence_idx": 3534,
                 "start_position": 271,
-                "end_position": 284
+                "end_position": 284,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5719,7 +6076,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3540,
                 "start_position": 35,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5735,7 +6093,8 @@
                 "source_label": "\u00b6 nland",
                 "sentence_idx": 3540,
                 "start_position": 38,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5751,7 +6110,8 @@
                 "source_label": "gr\u00c3",
                 "sentence_idx": 3541,
                 "start_position": 50,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5767,7 +6127,8 @@
                 "source_label": "\u00b6",
                 "sentence_idx": 3541,
                 "start_position": 53,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5783,7 +6144,8 @@
                 "source_label": "nland",
                 "sentence_idx": 3541,
                 "start_position": 54,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5799,7 +6161,8 @@
                 "source_label": "jacobshavn",
                 "sentence_idx": 3547,
                 "start_position": 57,
-                "end_position": 67
+                "end_position": 67,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -5815,7 +6178,8 @@
                 "source_label": "julianeshaab",
                 "sentence_idx": 3552,
                 "start_position": 40,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
