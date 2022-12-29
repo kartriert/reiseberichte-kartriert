@@ -169,14 +169,16 @@ For each element of the list features, you need to check and possibly correct 3 
     
 ### Step 3: Correct feature information in the .json file
  
-Here, we enter the correct information into the file.
-
 ![](data/postcorrectionkeffelsdorf05.png)
+
+Here, we enter the correct information into the file.
 
 ![](data/postcorrectionkeffelsdorf06.png)
 
 Make sure you only change the characters that you need to.
+
 Make sure that you use quotes (```""```) in the coordinates.
+
 Make sure, you put the East-Coordinate before the North-Coordinate in the .json feature.
 
 ### Step 4: Data management
