@@ -96,4 +96,83 @@ An extended example file can be found [here](./data/output/text_ner/with_url/Z11
     ]
 }
 ```
+
+### Manual Post-Correction for (GEO)JSON files
+
+#### Step 1
+
+Edda: Z103519403
+Jan-Philipp: Z103519506
+Lisa: Z103519609
+Sarah: Z103561602, Z114800707, Z11480080X 
+Solange: Z114799006
+Svenja: Z114801803
+Tatiana: Z69804407
+
+Check, if your file already has **geonames-URLs** attached:
+Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/? --> No geonames-URLs.
+Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/**with_url/**? --> With geonames-URLs. Proceed to Step 2.
+
+## Step 1b: automatically add geonames-URL to file
+
+If your file only has dummy geonames-URLs, it looks like this: 
+
+![](data/dummyurl.png)
+
+This dummy URL has been created with simple Textprocessing. It is possible to manually change ```None```to the correct identifyer (e. g. ```2618425```) in Step 2, but let's try the computational solution first. It is less error-prone and (in theory) faster.
+
+The goal is for you file to look like this:
+
+![](data/geonamesurl.png)
+
+Try using Sarahs pipeline [```add_info_to_JSON.ipynb```] (https://github.com/kartriert/reiseberichte-kartriert/blob/d447fa9920acb9e5411de6d01a28e5f3e1f36ba6/travelogues/src/add_info_to_JSON.ipynb) to replace the dummy URLs with geonames-URLs. 
+
+#### Step 2: Check, if the correct location was matched to the keyword
+
+For each element of the list features, you need to check and possibly correct 3 chunks of information:
+
+![](data/postcorrection.png)
+
+1.  Copy the url into your browser. 
+    Quick check on the map: Does this placement make any sense in the context of the historical source material?
+    
+    ![](data/postcorrection.png)
+    
+    If yes: Great! --> Next element.
+    
+2.  If there still is a dummy-URl, enter the ```source_label```into [geonames.org] (https://www.geonames.org) search bar.
+    Are there multiple alternatives with this name? Is one immediately the most logical choice?
+    
+    If yes: Great! --> Next step.
+    
+    Are there no matches in Geonames? 
+    
+    ![](data/postcorrectionkeffelsdorf.png)
+    
+    ![](data/postcorrectionkeffelsdorf02.png)
+    
+    Try a quick web search: Did the OCR not work porperly? Meaning, is the keyword (```source_label```) correct?
+    
+    ![](data/postcorrectionkeffelsdorf03.png)
+    
+    If you find a solution (here: ss was turned into ff during OCR), try it in Geonames again.
+    
+    ![](data/postcorrectionkeffelsdorf04.png)
+    
+    If you found a solution that isn't listed in Geonames, try to find a permalink from another Database that you can enter in the url-property (i. e. Wikidata).
+    
+    **And remember, we are only trying to opimize the results. It will not be possible to deduce every location without the full textual context.**
+    
+#### Step 3: Correct feature information in the .geojson file
+ 
+Here, we enter the correct information into the file.
+
+![](data/postcorrectionkeffelsdorf05.png)
+
+![](data/postcorrectionkeffelsdorf06.png)
+
+Make sure you only change the characters that you need to.
+Make sure that you use quotes (```""```) in the coordinates.
+Make sure, you put the East-Coordinate before the North-Coordinate in the .geojson feature.
+    
 ## Results
