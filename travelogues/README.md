@@ -101,13 +101,13 @@ An extended example file can be found [here](./data/output/text_ner/with_url/Z11
 
 ### Step 1
 
-Edda: Z103519403
-Jan-Philipp: Z103519506
-Lisa: Z103519609
-Sarah: Z103561602, Z114800707, Z11480080X 
-Solange: Z114799006
-Svenja: Z114801803
-Tatiana: Z69804407
+- Edda: Z103519403
+- Jan-Philipp: Z103519506
+- Lisa: Z103519609
+- Sarah: Z103561602, Z114800707, Z11480080X 
+- Solange: Z114799006
+- Svenja: Z114801803
+- Tatiana: Z69804407
 
 Check, if your file already has **geonames-URLs** attached:
 Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/? --> No geonames-URLs.
