@@ -144,14 +144,14 @@ For each element of the list features, you need to check and possibly correct 3 
     If yes: Great! --> Next element.
     
 2.  If there still is a dummy-URl, enter the ```source_label```into https://www.geonames.org search bar.
+
+    ![](data/postcorrectionkeffelsdorf.png)
     
     Are there multiple alternatives with this name? Is one immediately the most logical choice?
     
     If yes: Great! --> Next step.
     
     Are there no matches in Geonames? 
-    
-    ![](data/postcorrectionkeffelsdorf.png)
     
     ![](data/postcorrectionkeffelsdorf02.png)
     
