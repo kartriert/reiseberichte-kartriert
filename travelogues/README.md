@@ -97,9 +97,9 @@ An extended example file can be found [here](./data/output/text_ner/with_url/Z11
 }
 ```
 
-### Manual Post-Correction for (GEO)JSON files
+## Manual Post-Correction for (GEO)JSON files
 
-#### Step 1
+### Step 1
 
 Edda: Z103519403
 Jan-Philipp: Z103519506
@@ -113,7 +113,7 @@ Check, if your file already has **geonames-URLs** attached:
 Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/? --> No geonames-URLs.
 Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/**with_url/**? --> With geonames-URLs. Proceed to Step 2.
 
-## Step 1b: automatically add geonames-URL to file
+### Step 1b: automatically add geonames-URL to file
 
 If your file only has dummy geonames-URLs, it looks like this: 
 
@@ -125,22 +125,24 @@ The goal is for you file to look like this:
 
 ![](data/geonamesurl.png)
 
-Try using Sarahs pipeline [```add_info_to_JSON.ipynb```] (https://github.com/kartriert/reiseberichte-kartriert/blob/d447fa9920acb9e5411de6d01a28e5f3e1f36ba6/travelogues/src/add_info_to_JSON.ipynb) to replace the dummy URLs with geonames-URLs. 
+Try using Sarahs pipeline ```add_info_to_JSON.ipynb``` (https://github.com/kartriert/reiseberichte-kartriert/blob/d447fa9920acb9e5411de6d01a28e5f3e1f36ba6/travelogues/src/add_info_to_JSON.ipynb) to replace the dummy URLs with geonames-URLs. 
 
-#### Step 2: Check, if the correct location was matched to the keyword
+### Step 2: Check, if the correct location was matched to the keyword
 
 For each element of the list features, you need to check and possibly correct 3 chunks of information:
 
 ![](data/postcorrection.png)
 
 1.  Copy the url into your browser. 
+    
     Quick check on the map: Does this placement make any sense in the context of the historical source material?
     
     ![](data/postcorrection.png)
     
     If yes: Great! --> Next element.
     
-2.  If there still is a dummy-URl, enter the ```source_label```into [geonames.org] (https://www.geonames.org) search bar.
+2.  If there still is a dummy-URl, enter the ```source_label```into https://www.geonames.org search bar.
+    
     Are there multiple alternatives with this name? Is one immediately the most logical choice?
     
     If yes: Great! --> Next step.
@@ -163,7 +165,7 @@ For each element of the list features, you need to check and possibly correct 3 
     
     **And remember, we are only trying to opimize the results. It will not be possible to deduce every location without the full textual context.**
     
-#### Step 3: Correct feature information in the .geojson file
+### Step 3: Correct feature information in the .geojson file
  
 Here, we enter the correct information into the file.
 
