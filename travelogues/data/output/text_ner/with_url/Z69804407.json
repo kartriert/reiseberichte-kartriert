@@ -8,7 +8,7 @@
                 "sentence_idx": 3,
                 "start_position": 3,
                 "end_position": 9,
-                "url": "https://www.geonames.org/170062"
+                "url": "https://www.geonames.org/170063"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
                 "sentence_idx": 5,
                 "start_position": 64,
                 "end_position": 69,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2409507"
             },
             "geometry": {
                 "type": "Point",
