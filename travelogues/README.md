@@ -10,7 +10,7 @@
 
 In order to get the best results, we decided it would be beneficial to manually correct the JSON files
 that contain the NER results for the travelogues. To do this in a relatively fast manner, we
-created a pipeline which adds the missing URLs of the GeoNames features to the files. Since the API has a small rate limiti
+created a pipeline which adds the missing URLs of the GeoNames features to the files. Since the API has a small rate limit
 (only 1000 credits per hour), a lot still has to be done a hundred percent manually.
 
 The location results have to be corrected because the original travelogues, written in non-standardised German from the 18th century,
@@ -19,83 +19,12 @@ spelling errors that need to be corrected before trying to find their match on G
 before being displayed on our map. Additionally, historical locations were often not correctly recognised – their URLs and coordinates
 need to be corrected.
 
-The [format](https://en.wikipedia.org/wiki/GeoJSON) for the GeoJSONs.
+For doings so, I also added a short [notebook for semi-automatic post-correction of GeoJSON files](./src/add_info_to_JSON.ipynb).
+
+Please find the detailed workflow in the following [chapter](#manual-post-correction-for-geojson-files).
+
+We used this [format](https://en.wikipedia.org/wiki/GeoJSON) for the GeoJSONs.
 An extended example file can be found [here](./data/output/text_ner/with_url/Z11480080X.json).
-```
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "arabien",
-                "sentence_idx": 5,
-                "start_position": 35,
-                "end_position": 42,
-                "url": "https://www.geonames.org/102358"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "45",
-                    "25"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "arabien",
-                "sentence_idx": 13,
-                "start_position": 133,
-                "end_position": 140,
-                "url": "https://www.geonames.org/102358"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "45",
-                    "25"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "haleb",
-                "sentence_idx": 14,
-                "start_position": 135,
-                "end_position": 140,
-                "url": "https://www.geonames.org/170063"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "37.16117",
-                    "36.20124"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "\u00a4",
-                "sentence_idx": 15,
-                "start_position": 77,
-                "end_position": 78,
-                "url": "https://www.geonames.org/None"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    null,
-                    null
-                ]
-            }
-        }
-    ]
-}
-```
 
 ## Manual Post-Correction for (GEO)JSON files
 
@@ -104,7 +33,7 @@ An extended example file can be found [here](./data/output/text_ner/with_url/Z11
 - Edda: Z103519403
 - Jan-Philipp: Z103519506
 - Lisa: Z103519609
-- Sarah: Z103561602, Z114800707, Z11480080X 
+- Sarah: Z114800707 (until further notice, it has 38.000 lines...)
 - Solange: Z114799006
 - Svenja: Z114801803
 - Tatiana: Z69804407
