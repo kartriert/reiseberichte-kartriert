@@ -16,5 +16,5 @@ with open (file, 'r') as f:
             feature["properties"]["url"] = "https://www.geonames.org/" + str(g.geonames_id)
 
         json_dump = json.dumps(json_file, indent=4)
-        with open('../data/output/text_ner/with_url/' + os.path.basename(file) + '_test', 'w') as f_w:
+        with open('../data/output/text_ner/with_url/' + os.path.basename(file), 'w') as f_w:
             f_w.write(json_dump)
