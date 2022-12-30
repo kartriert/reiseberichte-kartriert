@@ -14,7 +14,7 @@
     <script type='text/javascript' src=".\leaflet.ajax.min.js"></script>
     <script type='text/javascript' src=".\jquery-1.9.1.min.js"></script>
     <script type='text/javascript' src=".\jquery-ui.js"></script>
-    <script src="https://rawgit.com/dwilhelm89/LeafletSlider/master/SliderControl.js" type="text/javascript"></script>
+    <script src="./SliderControl.js" type="text/javascript"></script>
     <style>#map { height: 768px; width: 1280px }</style>
   </head>
   
@@ -23,47 +23,120 @@
     <div id="map"></div>
     
     <script>
-      // Initialisierung der Hintergrundkarte
-      var map = L.map('map').setView([40, 0], 3);
-      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19,attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
-      // Style der Marker für Punktobjekte
-      var testMarker = {
-        radius: 8,
-        fillColor: "#ff1800",
-        color: "#000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.8
-      };
-      //Import der GeoJson-Layer
-      var testLayer = new L.GeoJSON.AJAX("./ner-results/Z15657730X.geojson", {
-        pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, testMarker);
-      }, time: "1531"});
-      var testLayer2 = new L.GeoJSON.AJAX("./ner-results/Z15958790X.geojson", {
-        pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, {fillColor: "#fa4800"});
-      }, time: "1589" }, {});
-      var testGroup = L.layerGroup([testLayer, testLayer2]);
-      //Darstellung der GeoJson-Layer
-      testLayer.on('data:loaded', function(){
-        testLayer.addTo(map);
-      });
-      testLayer2.on('data:loaded', function(){
-        testLayer2.addTo(map);
-      });
-      // Layerkontrolle
-      var base ={}
-      var overlays = {
-      "Itinerarium Wegraiß Kü. May. potschafft gen Constantinopel zu dem Türckischen Kayser Solyman Anno 30.": testLayer,
-      "Kurtzer vnd warhafftiger Bericht, von der Reyß aus Venedig nach Hierusalem, Von dannen in Aegypten, auff den Berg Sinai ... auffs new übersehen vnd gem.": testLayer2
-      };
-      var layerControl = L.control.layers(base, overlays).addTo(map);
-      var sControl = L.control.sliderControl({position: "topleft", layer: testGroup, range: true});
-      map.addControl(sControl);
-      sControl.startSlider();
-      // Nicht funktionsfähiger Stylewechsel
-      testLayer.setStyle({fillColor: "#fa4800"});
+	  
+	  function filelistRequest(){
+		  return new Promise(function (resolve, reject) {
+			jQuery.get("cgi-bin/filecgi.py").then(
+				(response) => {
+					var rawfilelisting = response;
+					var filelisting = JSON.stringify(rawfilelisting);
+					filelisting = filelisting.slice(1, -2)
+					var filenamelist = filelisting.split(";");
+					resolve(filenamelist)
+				},
+				(error) => {
+					reject(error);
+				}
+			);
+		  });
+	  }
+	  
+	  function getMetadata(path) {
+		  return $.getJSON(path);
+	  }
+	  
+	  async function main() {
+		  // Initialisierung der Hintergrundkarte
+		  var map = L.map('map').setView([40, 0], 3);     
+		  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19,attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+		  // Ermittlung der verfügbaren GeoJSONs
+		  var filenamelist = await filelistRequest();
+		  // Listung der Metadatenquellen
+		  var metadatafiles = []
+		  for (let j=0; j<filenamelist.length; j++){
+			  var entry = filenamelist[j].replace("ner-results", "metadata");
+			  var entry = entry.replace("geojson", "json");
+			  metadatafiles[j] = entry;
+		  } 
+		  // Style der Marker für Punktobjekte
+		  var testMarker = {
+			radius: 8,
+			color: "#000",
+			weight: 1,
+			opacity: 1,
+			fillOpacity: 0.8
+		  };
+		  //Import der GeoJson-Layer
+		  var t;
+		  var tl;
+		  var sixteenthLayers = [];
+		  for (let i=0; i < filenamelist.length; i++){
+			var meta = await getMetadata(metadatafiles[i]);
+			for (let g=0; g<meta.length; g++){
+				if (meta[g].label.constructor.name=="Array"){
+					if (meta[g].label[0]["@value"]=="Date Issued"){
+						t = meta[g].value;
+					}
+					if (meta[g].label[0]["@value"]=="Title"){
+						tl = meta[g].value;
+					}
+				}
+			}
+			//Generiere Markefarbe für Layer
+			var color;
+			var r = Math.floor(Math.random() * 255);
+			var g = Math.floor(Math.random() * 255);
+			var b = Math.floor(Math.random() * 255);
+			color= "rgb("+r+" ,"+g+","+ b+")"; 
+			// Füge Layer zur Sammlung hinzu
+			sixteenthLayers.push ( new L.GeoJSON.AJAX(filenamelist[i], {
+				title : tl,
+				pointToLayer: function (feature, latlng) {
+					return L.circleMarker(latlng, {
+						radius: 8,
+						fillColor: color,
+						color: "#000",
+						weight: 1,
+						opacity: 1,
+						fillOpacity: 0.8	
+						});
+				}, time: t}));
+		  }
+		  // Sortiere und gruppiere Layer nach Datum
+		  sixteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
+		  var timeGroups = [];
+		  var tempgroup;
+		  for (let l=0; l < sixteenthLayers.length; l++){
+			  var t = sixteenthLayers[l].options.time;
+			  if (l==0){
+			   tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+				}
+			  else {
+				 if (t != sixteenthLayers[l-1].options.time){
+					 timeGroups.push (tempgroup);
+					 tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+				 }  
+				 else {
+					 tempgroup.addLayer(sixteenthLayers[l]);
+				 }
+			   }
+		  }
+		  var testGroup = L.layerGroup(timeGroups);
+		  // Layerkontrolle
+		  var base = {}
+		  var titles = {};
+		  for (let k=0; k < sixteenthLayers.length; k++){
+				titles[sixteenthLayers[k].options.title] = sixteenthLayers[k];
+				}
+		  var overlays = titles;
+		  		  var sControl = L.control.sliderControl({position: "topleft", layer: testGroup, range: true, sameDate: true, alwaysShowDate: true, timeStrLength: 4});
+		  map.addControl(sControl);
+		  var layerControl = L.control.layers(base, overlays).addTo(map);
+		  sControl.startSlider();
+	  }
+	  
+	  main();
+	  
     </script>
     
   </body>
