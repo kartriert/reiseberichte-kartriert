@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/124321917'>Lussy, Melchior, 1529-1606</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Rei\u00dfbuch gen Hierusalem, Welcher massen der Gestreng, Edel, Nothvest, F\u00fcrsichtig und Wei\u00df Hrr Melchior Lussy Ritter, Landamman zu Underwalden ... in das heilige Land Palestina gezogen ist ; Darinnen dann die f\u00fcrnembsten St\u00e4tt und Orther von Christo unserm liebsten Herren und Heyland weyland pers\u00f6nlich heimgesucht, und durch das hohe Weck Menschlichter Erl\u00f6sung geziert und geheiliget, ordentlich beschriben werden ; Sampt Weiterer Verzeichnu\u00df viler anderer denckw\u00fcrdiger \u00f6rther unnd zufallender Gefahren ... Jetzund zum erstenmal zu sonderer Belustigung de\u00df Christlichen Lesers im Druck au\u00dfgegangen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Freiburg / Schweiz"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Gemperlin"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1590"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4072395-1'>Heiligtum</a>, <a href='http://d-nb.info/gnd/4028586-8'>Jerusalem</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10084758'>Alt Mag 106356-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z197267901"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10084758"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2015-01-11T22:00:16"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-01-11T22:20:40"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2030-03-11T22:00:16"
+    }
+]

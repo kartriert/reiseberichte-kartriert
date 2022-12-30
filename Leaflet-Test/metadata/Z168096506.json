@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/100003559'>Costa, Emanuel, -1564</a> - <a href='http://d-nb.info/gnd/104268417'>Maffei, Giovanni Pietro, 1533-1603, [\u00dcbers.]</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Kurtze Verzeichnu\u00df und historische Beschreibung deren dingen, so von der Societet Jesu in Orient, von ... 1542 bi\u00df ... 1568 gehandlet worden: Erstlich durch Joannem Petrum Maffeium au\u00df Portugalesischer sprach in Latein und jetzo ... ins Teutsch gebracht ... durch ... Joannem Georgium G\u00f6tzen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Ingolstadt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "David Sartorius"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1586"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/80092-2'>Jesuiten</a>, Jesuiten, <a href='http://d-nb.info/gnd/4075699-3'>Orient, 1542-1568</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10401907'>Alt Prunk 64.J.16</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z168096506"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10401907"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-01-11T02:10:09"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T03:44:57"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2028-03-11T02:10:09"
+    }
+]

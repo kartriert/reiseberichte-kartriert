@@ -1,0 +1,153 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Nova Novorum. Newe zeitungen aus Osten, Westen, von newen gefundenen Landen, Newen V\u00f6lkeren, Newen handtierungen, vngehorten sprachen vnd schriften: Von Francisci Draci, Indische oder Amerische expedition"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Stra\u00dfburg"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1596"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[7] Bl."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118527207'>Drake, Francis</a>, 1540-1596, Drake, Francis, 1540-1596, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 1595, >, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, <a href='http://d-nb.info/gnd/4079228-6'>Westindien, 1595</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10163082'>Alt Prunk 61.J.13.(2)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z170807203"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10163082"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2012-11-29T02:56:56"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-03T07:27:57"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2028-01-29T02:56:56"
+    }
+]

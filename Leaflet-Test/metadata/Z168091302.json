@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "Seydlitz, Melchior von"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Gr\u00fcndtliche Beschreibung der Wallfart nach dem heiligen Lande ... Auffs newe vom Authore ubersehen und corrigirt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "G\u00f6rlitz"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Ambrosius Fritsch"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1584"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4044381-4'>Pal\u00e4stina</a>, <a href='http://d-nb.info/gnd/4064460-1'>Wallfahrt </a>, <, 1556-1559, >"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10316414'>Alt Prunk 62.T.20</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z168091302"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10316414"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2012-12-21T02:54:59"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-03T07:53:42"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2028-02-21T02:54:59"
+    }
+]

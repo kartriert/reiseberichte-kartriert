@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118516418'>Bry, Theodor </a> - <a href='http://d-nb.info/gnd/11851640X'>Bry, Johann Theodor </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "[Sammlung der Reisen nach dem abendl\u00e4ndischen Indien]. [1]. Wunderbarliche, doch Wahrhafftige Erkl\u00e4rung, Von der Gelegenheit vnd Sitten der Wilden in Virginia, welche newlich von den Engell\u00e4ndern, so im Jar 1585. vom Herrn Reichard Greinuile, einem von der Ritterschafft, in gemeldete Landschafft die zu bewohnen gef\u00fchrt waren, ist erfunden worden, In verlegung H. Walter Raleigh, Ritter vnd Obersten de\u00df Zinbergwercks, au\u00df verg\u00fcnstigung der Durchleuchtigsten vnnd Vnvberwindlichsten, Elisabeth, K\u00f6nigin in Engelland, etc."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Johan Wechel"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1590"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, Geschichte 16. Jh. - 17. Jh., <a href='http://d-nb.info/gnd/4026718-0'>Indianer</a>, <a href='http://d-nb.info/gnd/4055967-1'>Spanier </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4128651-0'>Kolonisation</a>, Geschichte, <a href='http://d-nb.info/gnd/4055964-6'>Spanien</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC11085738'>Alt Prunk 77.C.30.(Vol.1)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z185142104"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC11085738"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-01-13T04:15:21"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-02T14:41:28"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-03-13T04:15:21"
+    }
+]

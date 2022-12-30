@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118798367'>Staden, Hans, 1525-1576</a> - <a href='http://d-nb.info/gnd/119224089'>L\u00e9ry, Jean </a> - <a href='http://d-nb.info/gnd/118840223'>Le Moyne de Morgues, Jacques, 1533-1588</a> - <a href='http://d-nb.info/gnd/118516418'>Bry, Theodor </a> - <a href='http://d-nb.info/gnd/11851640X'>Bry, Johann Theodor </a> - <a href='http://d-nb.info/gnd/118581090'>Merian, Matthaeus, der \u00c4ltere, 1593-1650</a> - <a href='http://d-nb.info/gnd/118516396'>Bry, Johann Israel </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "America: Brasilia durch Johann Staden von Homberg aus Hessen, aus eigener erfahrung in Teutsch beschrieben. Item Historia der Schiffart Joannis Lerij in Brasilien, welche er selbst publiciert hat ... Vom Wilden unerh\u00f6rtem wesen der Innwohner, ... sampt einem Colloquio in der Wilden Sprach ... mit ... Fig. in Kupffer gestochen ... durch Dieterich Bry"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Franckfurt am Mayn"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Theodori de Bry"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1593"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4008003-1'>Brasilien</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "  - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z163300909"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09625464"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-06-19T03:09:50"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-06-19T04:02:21"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2033-08-19T03:09:50"
+    }
+]

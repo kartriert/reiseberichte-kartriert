@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/124566065'>Nicolay, Nicolas </a> - Horst, R\u00fctger  - <a href='http://d-nb.info/gnd/1020070978'>Silvius, Willem, -1580, [Beitr.]</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Vier Bucher Von de Raisz vnd Schiffart in die Turckey, beschrieben durch Hern N. Nicolai, B\u00fcrtig au\u00df dem Delphinat, Kammerling vnd Geograff Ko. Mr. inn Franckreich: Mit ein vnnd sextzich [!] Man vnnd Weibliche Figuren, nach dem leben abgesetzt, nach verenderung vnd gestalt der Lender, vnd gebrauch der selber, mit beschreibung jres art vnd leben, so wol inn Frid als Kriegzeiten ; Neben anzeigung etlicher namhaftiger geschichten bey vnsern zeiten geschehen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Antwerpen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Durch Wilhelm Silvium K. M. verordneten Buchdrucker"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1576"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[4] Bl., 312 S., Bl. 313 - 315, [4]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4074900-9'>Mittelmeerraum</a>, Reisebericht 1551-1552, <a href='http://d-nb.info/gnd/4075720-1'>Osmanisches Reich</a>, Reisebericht 1551-1552, <a href='http://d-nb.info/gnd/4022047-3'>Griechenland</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1551-1552, Quelle, <a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1551-1552, Quelle, <a href='http://d-nb.info/gnd/4042482-0'>Nordafrika</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1551, 1551-1552, <a href='http://d-nb.info/gnd/4027653-3'>Iran</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1551-1552, Quelle, <a href='http://d-nb.info/gnd/4074900-9'>Mittelmeerraum</a>, <a href='http://d-nb.info/gnd/4031011-5'>Kleidung</a>, Geschichte 1550, Quelle, <a href='http://d-nb.info/gnd/4075720-1'>Osmanisches Reich</a>, <a href='http://d-nb.info/gnd/4031011-5'>Kleidung</a>, Geschichte 1550, Quelle"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10732756'>Alt Mag 309848-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z160260500"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10732756"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2015-08-31T05:18:41"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-08-31T06:04:31"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2030-10-31T05:18:41"
+    }
+]

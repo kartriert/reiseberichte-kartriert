@@ -1,0 +1,153 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "M\u00f6ller, Heinrich I - Ulloa, Alfonso - Menavino, Giovanni Antonio - <a href='http://d-nb.info/gnd/11850522X'>Aventinus, Johannes, 1477-1534</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "T\u00fcrckische Historien. Von der T\u00fcrcken Ankunfft, Regierung, K\u00f6nigen, vnd Keysern, Kriegen ... wider Christen und Heiden (etc.)"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1563"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>, Geschichte, <a href='http://d-nb.info/gnd/4027743-4'>Islam</a>, <a href='http://d-nb.info/gnd/4033114-3'>Krieg </a>, <, um 1563, >, <a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10130809'>Alt Prunk 47.Mm.20</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z180628606"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10130809"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-09-02T02:54:03"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T20:55:54"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2028-11-02T02:54:03"
+    }
+]

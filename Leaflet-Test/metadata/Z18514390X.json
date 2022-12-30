@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "Bry, Johann Theodorus de - Bry, Johann Israel de"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "[Sammlung der Reisen nach dem Kongo und nach dem morgenl\u00e4ndischen Indien]. 3. Dritter Theil Indiae Orientalis, Darinnen erstlich das ander Theil der Schifffahrten Joann Huygens von Lintschotten au\u00df Hollandt so er in Orient gethan, begriffen, vnd f\u00fcrnemlich alle gelegenheit derselbigen Landen, Insulen, Meerpforten, etc. so vnter wegen auffstossen, vnd dann in Jndia f\u00fcrkommen, Wie auch alles, was der Author allda im Landt, vnd nachmals auff seiner Widerreyse nach Hollandt gesehen vnd erfahren, eygentlich beschrieben wirdt. II. Der Holl\u00e4nder Schifffahrt in die Orientalische Jnsulen, Iauan vnd Sumatra, sampt Sitten, Leben vnd Superstition, etc. der V\u00f6lcker. III. Drey Schifffahrten der Holl\u00e4nder nach obermeldten Jndien, durch das Mittn\u00e4chtigsche oder Ei\u00dfmeer ... Alles auffs trewlichst von neuwem au\u00df den Niderl\u00e4ndischen Exemplarien in Hochteutsch bracht, vnd ... zusammen gef\u00fcgt. Sampt Vielen ... k\u00fcnstlichen Figurn, vnd Landtafeln, in Kupffer gestochen, vnd an Tag geben, durch Io. Theodor vnd Io. Israel de Bry, Gebr\u00fcder [Warhafftige, Eygentliche Contrafaytung v\u00f1 F\u00fcrbildung, der SeeMappen, Jnsulen, St\u00e4tten vnd V\u00f6lcker, Wie auch deren Leben, Sitten vnd Trachten ... ]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Johan Saur"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1599"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, <a href='http://d-nb.info/gnd/4116816-1'>Ostindien, 16. - 17. Jh.</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, <a href='http://d-nb.info/gnd/4032097-2'>Republik Kongo, 16. - 17. Jh.</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC11093434'>Alt Prunk 77.C.31.(Vol.3)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z18514390X"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC11093434"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-01-15T00:25:10"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2014-12-10T21:35:58"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-03-15T00:25:10"
+    }
+]

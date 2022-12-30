@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118560093'>Karl V., Heiliges R\u00f6misches Reich, Kaiser, 1500-1558</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Sendtbrief (Sendbrief) so die R\u00f6misch Keiserlich ... Maiestat jres erlangten Sygs gegen dem Barbarossa im K\u00fcnigreich Thunis, seiner Kays. Maiestat Br\u00fcder dem R\u00f6mischen K\u00fcnig den 23 Julij 1535 aus Affrica zuegeschriben hat"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Wien"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "[Johann Singriener]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1535"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4033114-3'>Krieg</a>, <a href='http://d-nb.info/gnd/4107317-4'>Tunis, 1535</a>, <a href='http://d-nb.info/gnd/4139988-2'>Dokument</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09759860'>Alt Prunk 20.T.161</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z157583008"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09759860"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2015-05-31T22:58:47"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-05-31T23:19:41"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2030-07-31T22:58:47"
+    }
+]

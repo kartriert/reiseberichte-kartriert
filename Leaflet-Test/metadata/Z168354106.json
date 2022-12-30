@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118945882'>Schmidel, Ulrich, 1505-1580</a> - <a href='http://d-nb.info/gnd/117056235'>Hulsius, Levinus, 1550-1606</a> - durch ... Schmidel selbs beschrieben / An jetzt ... an Tag geben mit Verbesserung vnd Corrigierung der St\u00e4tt/ L\u00e4nder vnd Fl\u00fc\u00dfnamen/ de\u00dfgleichen mit einer ... Landtaffel/ Figuren/ ... gezieret Durch Levinum Hulsium"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Schiffahrt. Vierte Schiffart. Warhafftige Historien Einer Wunderbaren Schiffart/ welche Vlrich Schmidel von Straubing/ von Anno 1534 bi\u00df Anno 1554 in Americam oder Newenwelt/ bey Brasilia Vnd Rio della Plata gethan"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "XA-DE"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1599"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "8 ungez\u00e4hlte Seiten, 103 Seiten, 16 ungez\u00e4hlte Bl\u00e4tter Bildtafeln, 1 ungez\u00e4hltes gefaltetes Blatt Bildtafel"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4078014-4'>S\u00fcdamerika, um 1534-1554</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, um 1534-1554, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, <a href='http://d-nb.info/gnd/118945882'>Schmidel, Ulrich</a>, 1505-1580, Schmidel, Ulrich, 1505-1580, Risen, <a href='http://d-nb.info/gnd/118945882'>Schmidel, Ulrich</a>, um 1534-1554, 1505-1580, Schmidel, Ulrich, um 1534-1554, 1505-1580"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09974254'>Kar 393576-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z168354106"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09974254"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-02-20T05:21:51"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-02-22T08:37:08"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2033-04-20T05:21:51"
+    }
+]

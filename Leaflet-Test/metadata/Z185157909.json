@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/123588855'>Benzoni, Girolamo, 1519-1570</a> - <a href='http://d-nb.info/gnd/118516418'>Bry, Theodor </a> - <a href='http://d-nb.info/gnd/11851640X'>Bry, Johann Theodor </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "[Sammlung der Reisen nach dem abendl\u00e4ndischen Indien]. 6. Das sechste Theil der neuwen Welt. oder Der Historien Hieron. Benzo von Meylandt, Das dritte Buch. Darinnen warhafftig erzehlet wirdt, wie die Spanier die Goldreiche Landschafften de\u00df Peruanischen K\u00f6nigreichs eyngenommen, den K\u00f6nig Atabalibam gefangen vnd get\u00f6dtet. Auch wie sie, entlich sich selbst vntereinander auffgerieben haben. Sampt einem kurtzen zu end angehengten Tract\u00e4tlein von den gl\u00fcckhafftigen Jnseln. Alles mit sch\u00f6nen Kupfferst\u00fccken vorgebildet vnd an Tag geben Durch Dieterich von Bry, Kunststecher vnd B\u00fcrger zu Franckfurt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "by Johann Feyrabendt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1597"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "(3 Bl.), 62 (61) S., mit (1 Tf. gef.), (1), 28 Bl."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, Geschichte 16. Jh., <a href='http://d-nb.info/gnd/4026718-0'>Indianer</a>, <a href='http://d-nb.info/gnd/4055967-1'>Spanier </a>, <, 16. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4128651-0'>Kolonisation</a>, Geschichte, <a href='http://d-nb.info/gnd/4055964-6'>Spanien</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, Geschichte 16. Jh. - 17. Jh., <a href='http://d-nb.info/gnd/4026718-0'>Indianer</a>, <a href='http://d-nb.info/gnd/4055967-1'>Spanier </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4128651-0'>Kolonisation</a>, Geschichte, <a href='http://d-nb.info/gnd/4055964-6'>Spanien</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC10477539'>Alt Prunk 77.C.30.(Vol.6)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z185157909"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC10477539"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-01-13T04:34:25"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-02T15:34:05"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-03-13T04:34:25"
+    }
+]

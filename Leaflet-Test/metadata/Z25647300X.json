@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/120314266'>Gonz\u00e1lez de Mendoza, Juan, 1545-1618</a> - <a href='http://d-nb.info/gnd/124411150'>Kellner, Johann, -1589, [\u00dcbers.]</a> - [Juan Gonz\u00e1lez de Mendoza]. [\u00dcbers.: Johann Kellner]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "<<Ein>> neuwe, kurtze, doch warhafftige Beschreibung de\u00df gar gro\u00dfm\u00e4chtigen, weitbegriffenen, bi\u00dfhero unbekandten K\u00f6nigreichs China ...: in hispanischer Sprach beschrieben, au\u00df derselbigen in die Italianische unnd nunmehr in Hochteutsch gebracht"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Franckfurt am Mayn"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Feyerabend"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1589"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[8] Bl., 181, [1]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4009937-4'>China</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC06547319'>Kar 394461-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z25647300X"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC06547319"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-02-20T01:43:17"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-02-22T08:28:55"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2033-04-20T01:43:17"
+    }
+]

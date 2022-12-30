@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/100752543'>Geuffroy, Antoine, ca. 16. Jh.</a> - <a href='http://d-nb.info/gnd/128884967'>H\u00f6niger, Nikolaus, 1548-1598, [Bearb.]</a> - <a href='http://d-nb.info/gnd/118662554'>Bessarion, Kardinal, 1408-1472, [Beitr.]</a> - <a href='http://d-nb.info/gnd/118975560'>Georgijevi\u0107, Bartolomej, 1510-1566, [Beitr.]</a> - <a href='http://d-nb.info/gnd/119879026'>Zschorn, Johannes, [Bearb.]</a> - <a href='http://d-nb.info/gnd/119026929'>Petan\u010di\u0107, Feliks, 1455-1517, [Beitr.]</a> - <a href='http://d-nb.info/gnd/118594702'>Pius II., Papst, 1405-1464, [Beitr.]</a> - Babenhausen, Wilhelm, [Widmungsempf\u00e4nger]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Erste Theil, der Hoffhaltung Des T\u00fcrckhischen Keysers vnd Othoma\u00f1ischen Reichs beschreibung, darinn nicht allein der T\u00fcrcken Empter, Beuelchs vnd Krieg\u00dfleuthen Gewalt, Dienst, Besoldung vnd Namen ... angezeigt: Sonder auch aller T\u00fcrckischen Keysern Nam[m]en, Thaten, Krieg vnd Handel so sie wider die Christen vnd Heyden haben verbracht, bi\u00df auff di\u00df M.D.LXXVIII.jar ... beschrieben ; De\u00dfgleichen, Von der T\u00fcrcken Aberglauben, Religion ... Von jrem Leben, Wesen, Sitten, Kleidung, Essen, Trincken, Statuten, Policey, Gerichtlichem Proce\u00df, [et]c. Von des falschen Propheten Mahomeths Lehr ... Von der T\u00fcrcken wahren Vrsprung, vnd der vier Reich so au\u00df der Mahometischen Seckt entstanden sein. Item von der Gefangnen Christen Elendt, Jamer vnd Noth ..."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Basel"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Durch Sebastian Henrichpetri"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1578"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[4] Bl., cccxliij, [1]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "16. Jh., <a href='http://d-nb.info/gnd/4075720-1'>Osmanisches Reich</a>, Geschichte Anf\u00e4nge-1578, <a href='http://d-nb.info/gnd/4061165-6'>T\u00fcrken</a>, <a href='http://d-nb.info/gnd/4024600-0'>Herrscher</a>, <a href='http://d-nb.info/gnd/4027743-4'>Islam</a>, <a href='http://d-nb.info/gnd/4024600-0'>Herrscher</a>, <a href='http://d-nb.info/gnd/118619993'>Sulaiman</a>, I., Osmanisches Reich, Sultan, 1494-1566, Sulaiman I., Osmanisches Reich, Sultan, 1494-1566, <a href='http://d-nb.info/gnd/138054231'>Selim</a>, II., Osmanisches Reich, Sultan, 1524-1574, Selim II., Osmanisches Reich, Sultan, 1524-1574, <a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>, <a href='http://d-nb.info/gnd/4204494-7'>Sitte</a>, <a href='http://d-nb.info/gnd/4015701-5'>Europa</a>, <a href='http://d-nb.info/gnd/4049716-1'>Rezeption</a>, <a href='http://d-nb.info/gnd/4174997-2'>Polemik</a>, Geschichte 1578, Quelle, <a href='http://d-nb.info/gnd/4015701-5'>Europa</a>, <a href='http://d-nb.info/gnd/4075720-1'>Osmanisches Reich</a>, <a href='http://d-nb.info/gnd/4114598-7'>Milit\u00e4rische Bedrohung</a>, Geschichte 1578"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09897436'>Alt Prunk 72.Q.47</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z185912505"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09897436"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-02-07T01:00:23"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-05T19:22:48"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2029-04-07T01:00:23"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118516418'>Bry, Theodor </a> - <a href='http://d-nb.info/gnd/11851640X'>Bry, Johann Theodor </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "[Sammlung der Reisen nach dem abendl\u00e4ndischen Indien]. 8. Americ\u00e6 Achter Theil, In welchem Erstlich beschrieben wirt das M\u00e4chtige vnd Goldtreiche K\u00f6nigreich Guiana, zu Norden de\u00df grossen Flusses Oronoke ... gelegen, sampt desselbigen ... Hauptst\u00e4tten Manoa vnd Macuieguarai ... Item, Eine kurtze Beschreibung der vmbligenden Landtschafften Emereia, Arromaia, Amapaia, Topago, &c. ... beschrieben durch ... Walthern Ralegh, Rittern vnd Hauptmann ... welcher neben dem ... Hauptmann Lorentz Keymis alles selber erfahren vnd gesehen hat im Jar 1595. vnd 1596. Zum andern die Reyse de\u00df ... Thomas Candisch, welcher im Jar 1586. mit 3. Schiffen in Engellandt au\u00dfgefahren vnd nach dem er das Meer bey die 13000. Engell\u00e4ndischer Meil besegelt, in Anno 1588. wider an ist gelanget, sampt Erzehlung aller Abentheuwer ... Durch Frantzen Prettie einen Engell\u00e4nder, welcher dieser Fahrt Pers\u00f6nlich hat beygewohnet, von Tag zu Tag auffgezeichnet. Vnd zum dritten die letzte Rey\u00df ... Frantzen Draeck vnd Iohan Havckens, Rittern, welche Anno 1595. ... in Engellandt abgesegelt in die Occidentalische Indien, die Statt Panama eynzunemmen, Auff welcher Reyse sie beyde jr Leben beschlossen haben. Alles erstlich in Engell\u00e4ndischer Sprach au\u00dfgangen, jetzt aber au\u00df der Holl\u00e4ndischen translation in die Hochteutsche Sprache gebracht, durch Avgvstinvm Cassiodorvm Reinivm. Mit etlichen sch\u00f6nen Kupfferst\u00fccken geziert vnd an Tag gegeben, durch Dieterichen von Bry seligen, hinderlassene Erben"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Johan Wechel"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1599"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, Geschichte 16. Jh. - 17. Jh., <a href='http://d-nb.info/gnd/4026718-0'>Indianer</a>, <a href='http://d-nb.info/gnd/4055967-1'>Spanier </a>, <, 16. Jh. - 17. Jh., >, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4128651-0'>Kolonisation</a>, Geschichte, <a href='http://d-nb.info/gnd/4055964-6'>Spanien</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC11092625'>Alt Prunk 77.C.30.(Vol.8)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z185157107"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC11092625"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-01-15T00:11:00"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-02T15:27:20"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-03-15T00:11"
+    }
+]

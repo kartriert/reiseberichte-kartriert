@@ -1,0 +1,153 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118535021'>Francisco, de Javier, 1506-1552</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Indianische Missiue oder Sendbrieff Herren Francisci Xauier der Ordens Jesu Christi inn Indien Regelherren, geschriben an den Probst Ignatium von Layola, vnnd andere seine mitbr\u00fcder, die zu Rom, Padua, Portugal, Valenz, C\u00f6ln, vnd Pari\u00df wonen. Von dem anfang des Christlichen glaubens in Indien ... V\u00df dem dem Lateyn erst verte\u00fcutscht vnnd an tag geben"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "[S.l.]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1545"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118555359'>Ignacio</a>, de Loyola, 1491-1556, Ignacio, de Loyola, 1491-1556, Aufsatzsammlung, <a href='http://d-nb.info/gnd/80092-2'>Jesuiten</a>, Jesuiten, <a href='http://d-nb.info/gnd/4039567-4'>Mission </a>, <, 16. Jh., >, <a href='http://d-nb.info/gnd/4116816-1'>Ostindien</a>, Briefsammlung, <a href='http://d-nb.info/gnd/4039567-4'>Mission</a>, <a href='http://d-nb.info/gnd/2009545-4'>Katholische Kirche</a>, Katholische Kirche, <a href='http://d-nb.info/gnd/80092-2'>Jesuiten</a>, 16. Jh., Jesuiten, 16. Jh., <a href='http://d-nb.info/gnd/4116816-1'>Ostindien</a>, <a href='http://d-nb.info/gnd/4116816-1'>Ostindien</a>, <a href='http://d-nb.info/gnd/4039567-4'>Mission</a>, <a href='http://d-nb.info/gnd/2009545-4'>Katholische Kirche</a>, Katholische Kirche, <a href='http://d-nb.info/gnd/80092-2'>Jesuiten</a>, Jesuiten, 16. Jh. Briefe"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09870771'>Alt Prunk 64.H.29.(12)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z169010905"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09870771"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-01-11T01:26:14"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T02:48:30"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2028-03-11T01:26:14"
+    }
+]

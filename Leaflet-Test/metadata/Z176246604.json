@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/10001075X'>\u00c1lvares, Francisco, 1465-1540</a> - <a href='http://d-nb.info/gnd/119646188'>Corsali, Andrea</a> - <a href='http://d-nb.info/gnd/118683527'>Feyerabend, Sigmund, 1528-1590</a> - <a href='http://d-nb.info/gnd/118590251'>Orosius, Paulus, 385-418</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "General Chronica, Das ist: Warhaffte eigentliche vnd kurtze Beschreibung, vieler namhaffter, vnd zum theil bi\u00df daher vnbekannter Landtschafften, Erstlich de\u00df Gro\u00dfmechtigen vnd gewaltigen Herrn Priester Joha\u00f1s ... K\u00f6nigreichen vnd Herrschafften, auch derselbigen ... Regiment. Zum andern ein gemeine Beschreibung de\u00df gantzen Erdbodems, in drey B\u00fccher getheilt ... Zum dritten ... ein kurtzer ... Au\u00dfzug ... der neuw erfundenen Jnseln, Americe vnd Magellane ... Jetzt auffs neuw ... verteutscht, auch ... in drey ... B\u00fccher getheilt ... [T.I: Ein schreiben Andree Corsali von Florentz, an ... Herrn Julianum den andern, au\u00dfgangen zu Cochin ... den 6. Januarij im 1515. Jar. ; Das ander Schreiben Andree Corsali von Florentz, an ... Herren Hertzogen Lorentzen de Medici ... ; Die rei\u00df zu de\u00df ... K\u00f6nigs in hohen Ethiopien, den wir Priester Johann nennen, Hoffl\u00e4gern, darinnen alle seine K\u00f6nigreich ... Gewohnheiten beschrieben werden ... T.II: Cosmographia, Das ist: Warhaffte eigentliche vnd kurtze Beschreibung, de\u00df gantzen Erdbodems ... T.III: Chronica, Das ist: Warhaffte eigentliche vnd kurtze Beschreibung, de\u00df Vmbkrei\u00df vnd Gelegenheit der gantzen Welt ... durch ... Paulum Orosium ... in Latein beschrieben ... von ... Hieronymum Boner ... verteutscht]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Frankfurt, Main"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "[durch Johannem Schmidt], [in verlegung Sigmund Feyrabendts]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1581"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[3], 143, 94, [2]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4020216-1'>Geografie</a>, <a href='http://d-nb.info/gnd/4202654-4'>Kosmografie</a>, Weltgeschichte, <a href='http://d-nb.info/gnd/4312591-8'>Cochin</a>, <a href='http://d-nb.info/gnd/4046844-6'>Portugiesen </a>, <, 16. Jh., >, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, <a href='http://d-nb.info/gnd/4046844-6'>Portugiesen </a>, <, 16. Jh., >, <a href='http://d-nb.info/gnd/4000639-6'>\u00c4thiopien</a>, <a href='http://d-nb.info/gnd/4156935-0'>Gesandtschaft </a>, <, 1520-1527, >"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09891630'>Alt Prunk 39.N.9</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z176246604"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09891630"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-05-07T04:42:13"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2014-05-07T07:30:22"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-07-07T04:42:13"
+    }
+]

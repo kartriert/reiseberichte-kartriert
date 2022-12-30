@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118975560'>Georgijevi\u0107, Bartolomej, 1510-1566</a> - <a href='http://d-nb.info/gnd/11854988X'>Herold, Johannes, 1514-1567, [\u00dcbers.]</a> - durch Bartholome Georgewyts, der dreyzehen jar in der T\u00fcrckey gefangen gewesen, zum sibenden mal verkaufft, erst bey jars frist erledigt worden, alles warhafft vnnd grundlich im Latein beschriben, kl\u00e4glich z\u016f lesen. Verde\u00fctsch durch Joannem Herold"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "T\u00fcrckey Oder Von yetziger T\u00fcrcken kirchengepr\u00e4ng, Sytten vnnd leben: auch was grausamen jochs, was vns\u00e4glichen jammers die gefangnen Christen, vnder den selben gedulden m\u00fcssen ; sampt Namenb\u00fcchlin Persischer vnd Windischer in der T\u00fcrckey g\u00e4nge[n] spraachen, zwey Tract\u00e4tlin"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Basel"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "by den Erben And. Cratandri"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1545"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[32] Bl."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1545, Quelle, <a href='http://d-nb.info/gnd/4120079-2'>T\u00fcrkisch</a>, <a href='http://d-nb.info/gnd/4130010-5'>Sprachf\u00fchrer</a>, Geschichte 1545, Quelle, <a href='http://d-nb.info/gnd/4061163-2'>T\u00fcrkei</a>, <a href='http://d-nb.info/gnd/4033131-3'>Kriegsgefangener</a>, Geschichte 1545, Quelle, <a href='http://d-nb.info/gnd/4033245-7'>Kroatisch</a>, <a href='http://d-nb.info/gnd/4130010-5'>Sprachf\u00fchrer</a>, Geschichte 1545, Quelle"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC03016377'>Alt Mag 304952-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z35076705"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC03016377"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-09-19T04:52:17"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T20:26:43"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "The restrictions placed on the commercial re-use of this digital object expire as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Die Einschr\u00e4nkungen hinsichtlich der kommerziellen Verwertung dieses digitalen Objekts enden mit"
+            }
+        ],
+        "value": "2028-11-19T04:52:17"
+    }
+]
