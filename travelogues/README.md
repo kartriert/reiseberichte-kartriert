@@ -165,6 +165,8 @@ For each element of the list features, you need to check and possibly correct 3 
     
     If you found a solution that isn't listed in Geonames, try to find a permalink from another Database that you can enter in the url-property (i. e. Wikidata).
     
+    If you can't find a reasonable solution, reset the url to the dummy-URL(```/None```) and the coordinates to ```null```. It will be ignored for further clustering.
+    
     **And remember, we are only trying to opimize the results. It will not be possible to deduce every location without the full textual context.**
     
 ### Step 3: Correct feature information in the .json file
