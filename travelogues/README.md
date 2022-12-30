@@ -1,7 +1,7 @@
 # Subproject "Travelogues"
 
 ## The workflow
-![](data/workflow.png)
+![](data/images/workflow.png)
 
 ## Scripts and modules
 
@@ -24,7 +24,7 @@ For doings so, I also added a short [notebook for semi-automatic post-correction
 Please find the detailed workflow in the following [chapter](#manual-post-correction-for-geojson-files).
 
 We used this [format](https://en.wikipedia.org/wiki/GeoJSON) for the GeoJSONs.
-An extended example file can be found [here](./data/output/text_ner/with_url/Z11480080X.json).
+A finished example file can be found [here](./data/output/text_ner/with_url/finished/Z114800707.json).
 
 ## Manual Post-Correction for (GEO)JSON files
 
@@ -48,13 +48,13 @@ Is your file stored in reiseberichte-kartriert/travelogues/data/output/text_ner/
 
 If your file only has **dummy geonames-URLs**, it looks like this: 
 
-![](data/dummyurl.png)
+![](data/images/dummyurl.png)
 
 This dummy URL has been created with simple Textprocessing. It is possible to manually change ```None```to the correct identifyer (e. g. ```2618425```) in Step 2, but let's try the computational solution first. It is less error-prone and (in theory) faster.
 
 **The goal is for your file to look like this:**
 
-![](data/geonamesurl.png)
+![](data/images/geonamesurl.png)
 
 Try using Sarahs pipeline ```add_info_to_JSON.ipynb``` (https://github.com/kartriert/reiseberichte-kartriert/blob/d447fa9920acb9e5411de6d01a28e5f3e1f36ba6/travelogues/src/add_info_to_JSON.ipynb) to replace the dummy URLs with geonames-URLs. 
 
@@ -62,19 +62,19 @@ Try using Sarahs pipeline ```add_info_to_JSON.ipynb``` (https://github.com/kartr
 
 For each element of the list features, you need to check and possibly correct 3 chunks of information:
 
-![](data/postcorrection.png)
+![](data/images/postcorrection.png)
 
 1.  Copy the url into your browser. 
     
     Quick check on the map: **Does this placement make any sense in the context of the historical source material?**
     
-    ![](data/postcorrection02.png)
+    ![](data/images/postcorrection02.png)
     
     If yes: Great! --> Next element.
     
 2.  If there still is a dummy-URl, enter the ```source_label```into https://www.geonames.org search bar.
 
-    ![](data/postcorrectionkeffelsdorf.png)
+    ![](data/images/postcorrectionkeffelsdorf.png)
     
     Are there multiple alternatives with this name? Is one immediately the most logical choice?
     
@@ -82,15 +82,15 @@ For each element of the list features, you need to check and possibly correct 3 
     
     Are there no matches in Geonames? 
     
-    ![](data/postcorrectionkeffelsdorf02.png)
+    ![](data/images/postcorrectionkeffelsdorf02.png)
     
     Try a quick web search: Did the OCR not work porperly? Meaning, **is the keyword (```source_label```) correct?**
     
-    ![](data/postcorrectionkeffelsdorf03.png)
+    ![](data/images/postcorrectionkeffelsdorf03.png)
     
     If you find a solution (here: ss was turned into ff during OCR), try it in Geonames again.
     
-    ![](data/postcorrectionkeffelsdorf04.png)
+    ![](data/images/postcorrectionkeffelsdorf04.png)
     
     If you found a solution that isn't listed in Geonames, try to find a permalink from another Database that you can enter in the url-property (i. e. Wikidata).
     
@@ -100,11 +100,11 @@ For each element of the list features, you need to check and possibly correct 3 
     
 ### Step 3: Correct feature information in the .json file
  
-![](data/postcorrectionkeffelsdorf05.png)
+![](data/images/postcorrectionkeffelsdorf05.png)
 
 Here, we enter the correct information into the file.
 
-![](data/postcorrectionkeffelsdorf06.png)
+![](data/images/postcorrectionkeffelsdorf06.png)
 
 Make sure you only change the characters that you need to.
 
@@ -116,11 +116,11 @@ Make sure, you put the East-Coordinate before the North-Coordinate in the .json 
 
 You can edit the .json file online:
 
-![](data/datamanagement.png)
+![](data/images/datamanagement.png)
 
 After you finished your editing session, remember to add an extended description, so that both you and the group can see the progress that was made and is always up to date:
 
-![](data/datamanagement02.png)
+![](data/images/datamanagement02.png)
 
 If you choose to download your file, work in your forked repository or whatever, make sure that you reupload/push your corrected file at the same place with the same name so that the version control system of Github can log the changes and process made.
     
