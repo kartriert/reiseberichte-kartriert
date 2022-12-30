@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "America",
+        "occurrences": 1,
+        "gazetteer_title": "America",
+        "gazetteer_uri": "http://sws.geonames.org/8950605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8659,
+          44.72274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Creta",
+        "occurrences": 1,
+        "gazetteer_title": "Creta",
+        "gazetteer_uri": "http://sws.geonames.org/8970229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.31081,
+          45.66603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Florida",
+        "occurrences": 4,
+        "gazetteer_title": "Floridablanca",
+        "gazetteer_uri": "http://sws.geonames.org/3682385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08644,
+          7.06222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gersten",
+        "occurrences": 1,
+        "gazetteer_title": "Gersten",
+        "gazetteer_uri": "http://sws.geonames.org/6552891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.51667,
+          52.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hirschen",
+        "occurrences": 2,
+        "gazetteer_title": "Zgon",
+        "gazetteer_uri": "http://sws.geonames.org/753314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.39838,
+          53.65019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Japan",
+        "occurrences": 1,
+        "gazetteer_title": "Japan",
+        "gazetteer_uri": "http://sws.geonames.org/5195265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9102,
+          40.99258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 4,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jirg",
+        "occurrences": 1,
+        "gazetteer_title": "J\u012brak",
+        "gazetteer_uri": "http://sws.geonames.org/130117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.09362,
+          32.45052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Londen",
+        "occurrences": 1,
+        "gazetteer_title": "London",
+        "gazetteer_uri": "http://sws.geonames.org/2643743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Mei\u00dfen",
+        "occurrences": 1,
+        "gazetteer_title": "Mei\u00dfen",
+        "gazetteer_uri": "http://sws.geonames.org/2872154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95489,
+          52.26984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Persia",
+        "occurrences": 1,
+        "gazetteer_title": "Persia",
+        "gazetteer_uri": "http://sws.geonames.org/4871055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56806,
+          41.57999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Spanien",
+        "occurrences": 1,
+        "gazetteer_title": "Kingdom of Spain",
+        "gazetteer_uri": "http://sws.geonames.org/2510769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Th\u00fcringen",
+        "occurrences": 1,
+        "gazetteer_title": "Th\u00fcringen",
+        "gazetteer_uri": "http://sws.geonames.org/2763658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.76667,
+          47.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Virginia",
+        "occurrences": 22,
+        "gazetteer_title": "Virginia Beach",
+        "gazetteer_uri": "http://sws.geonames.org/4791259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97799,
+          36.85293
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Armenia",
+        "occurrences": 1,
+        "gazetteer_title": "Armenia",
+        "gazetteer_uri": "http://sws.geonames.org/3689560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68111,
+          4.53389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Braunschweig",
+        "occurrences": 3,
+        "gazetteer_title": "Braunschweig",
+        "gazetteer_uri": "http://sws.geonames.org/2945024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52673,
+          52.26594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jerusalem",
+        "occurrences": 1,
+        "gazetteer_title": "Jerusalem",
+        "gazetteer_uri": "http://sws.geonames.org/281184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21633,
+          31.76904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sachsen",
+        "occurrences": 1,
+        "gazetteer_title": "Sachsen",
+        "gazetteer_uri": "http://sws.geonames.org/2842568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65971,
+          49.28999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Steyr",
+        "occurrences": 1,
+        "gazetteer_title": "Aschach an der Steyr",
+        "gazetteer_uri": "http://sws.geonames.org/2782370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33544,
+          48.01312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Syon",
+        "occurrences": 1,
+        "gazetteer_title": "Syon Park House",
+        "gazetteer_uri": "http://sws.geonames.org/6930364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31247,
+          51.47675
+        ]
+      }
+    }
+  ]
+}

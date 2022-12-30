@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Aethiopia",
+        "occurrences": 1,
+        "gazetteer_title": "Federal Democratic Republic of Ethiopia",
+        "gazetteer_uri": "http://sws.geonames.org/337996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5,
+          9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Alexandria",
+        "occurrences": 3,
+        "gazetteer_title": "Alexandria",
+        "gazetteer_uri": "http://sws.geonames.org/361058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91582,
+          31.20176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Amsterdam",
+        "occurrences": 12,
+        "gazetteer_title": "Amsterdam",
+        "gazetteer_uri": "http://sws.geonames.org/2759794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88969,
+          52.37403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bally",
+        "occurrences": 4,
+        "gazetteer_title": "B\u0101li",
+        "gazetteer_uri": "http://sws.geonames.org/1277539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34115,
+          22.64859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bandan",
+        "occurrences": 1,
+        "gazetteer_title": "J\u016bk\u016bl Band\u0101n",
+        "gazetteer_uri": "http://sws.geonames.org/130084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64266,
+          37.10891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bantam",
+        "occurrences": 1,
+        "gazetteer_title": "Bantam",
+        "gazetteer_uri": "http://sws.geonames.org/5281876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23623,
+          41.72454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Brandt",
+        "occurrences": 1,
+        "gazetteer_title": "Brandt",
+        "gazetteer_uri": "http://sws.geonames.org/5226493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.62422,
+          44.66358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Brasilia",
+        "occurrences": 1,
+        "gazetteer_title": "Bras\u00edlia",
+        "gazetteer_uri": "http://sws.geonames.org/3469058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92972,
+          -15.77972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "China",
+        "occurrences": 5,
+        "gazetteer_title": "People\u2019s Republic of China",
+        "gazetteer_uri": "http://sws.geonames.org/1814991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Guinea",
+        "occurrences": 1,
+        "gazetteer_title": "Nueva Guinea",
+        "gazetteer_uri": "http://sws.geonames.org/3617459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45616,
+          11.68758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Holland",
+        "occurrences": 1,
+        "gazetteer_title": "Holland",
+        "gazetteer_uri": "http://sws.geonames.org/5237098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00302,
+          44.96862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hollande",
+        "occurrences": 1,
+        "gazetteer_title": "Provincie Zuid-Holland",
+        "gazetteer_uri": "http://sws.geonames.org/2743698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66667,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hollandt",
+        "occurrences": 2,
+        "gazetteer_title": "Kingdom of the Netherlands",
+        "gazetteer_uri": "http://sws.geonames.org/2750405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "India",
+        "occurrences": 2,
+        "gazetteer_title": "Indian Subcontinent",
+        "gazetteer_uri": "http://sws.geonames.org/6269134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97021,
+          22.20775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Indien",
+        "occurrences": 13,
+        "gazetteer_title": "Republic of India",
+        "gazetteer_uri": "http://sws.geonames.org/1269750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jaua",
+        "occurrences": 4,
+        "gazetteer_title": "Cerro Jaua",
+        "gazetteer_uri": "http://sws.geonames.org/3639228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.43333,
+          4.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Madagascar",
+        "occurrences": 1,
+        "gazetteer_title": "Madagascar",
+        "gazetteer_uri": "http://sws.geonames.org/12036340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.695,
+          -20.03085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Madura",
+        "occurrences": 2,
+        "gazetteer_title": "Madurai",
+        "gazetteer_uri": "http://sws.geonames.org/1264521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.11953,
+          9.919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Malacca",
+        "occurrences": 5,
+        "gazetteer_title": "Malacca",
+        "gazetteer_uri": "http://sws.geonames.org/1734759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2405,
+          2.196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Mecha",
+        "occurrences": 2,
+        "gazetteer_title": "Mecha",
+        "gazetteer_uri": "http://sws.geonames.org/528144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4977,
+          57.2654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Oost",
+        "occurrences": 2,
+        "gazetteer_title": "East Jerusalem",
+        "gazetteer_uri": "http://sws.geonames.org/7303419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23388,
+          31.78336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Portugal",
+        "occurrences": 7,
+        "gazetteer_title": "Little Portugal",
+        "gazetteer_uri": "http://sws.geonames.org/7870917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42956,
+          43.64663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Rangun",
+        "occurrences": 1,
+        "gazetteer_title": "Yangon",
+        "gazetteer_uri": "http://sws.geonames.org/1298824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15611,
+          16.80528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Samarra",
+        "occurrences": 1,
+        "gazetteer_title": "S\u0101marr\u0101\u2019",
+        "gazetteer_uri": "http://sws.geonames.org/91597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.88568,
+          34.1959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Steinst\u00fccken",
+        "occurrences": 1,
+        "gazetteer_title": "Steinst\u00fccken",
+        "gazetteer_uri": "http://sws.geonames.org/2827649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.13089,
+          52.3887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sumatra",
+        "occurrences": 3,
+        "gazetteer_title": "Sumatra",
+        "gazetteer_uri": "http://sws.geonames.org/4174274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98058,
+          30.02058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Texel",
+        "occurrences": 1,
+        "gazetteer_title": "Gemeente Texel",
+        "gazetteer_uri": "http://sws.geonames.org/2746383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81166,
+          53.07883
+        ]
+      }
+    }
+  ]
+}

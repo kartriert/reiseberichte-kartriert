@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "America",
+        "occurrences": 1,
+        "gazetteer_title": "America",
+        "gazetteer_uri": "http://sws.geonames.org/8950605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8659,
+          44.72274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 2,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Schottland",
+        "occurrences": 2,
+        "gazetteer_title": "Scotland",
+        "gazetteer_uri": "http://sws.geonames.org/2638360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Allach",
+        "occurrences": 2,
+        "gazetteer_title": "Allach-Untermenzing",
+        "gazetteer_uri": "http://sws.geonames.org/6946131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4607,
+          48.1887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Arabien",
+        "occurrences": 1,
+        "gazetteer_title": "Kingdom of Saudi Arabia",
+        "gazetteer_uri": "http://sws.geonames.org/102358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Armenien",
+        "occurrences": 1,
+        "gazetteer_title": "Republic of Armenia",
+        "gazetteer_uri": "http://sws.geonames.org/174982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          40.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Asien",
+        "occurrences": 4,
+        "gazetteer_title": "Asia",
+        "gazetteer_uri": "http://sws.geonames.org/8378482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34353,
+          37.93682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Aurach",
+        "occurrences": 1,
+        "gazetteer_title": "Aurach",
+        "gazetteer_uri": "http://sws.geonames.org/2954023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9224,
+          47.70347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bairam",
+        "occurrences": 1,
+        "gazetteer_title": "Bayramaly",
+        "gazetteer_uri": "http://sws.geonames.org/1219762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.16715,
+          37.61852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Dornach",
+        "occurrences": 1,
+        "gazetteer_title": "Dornach",
+        "gazetteer_uri": "http://sws.geonames.org/2935799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.89877,
+          48.6309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Drino",
+        "occurrences": 1,
+        "gazetteer_title": "Drino",
+        "gazetteer_uri": "http://sws.geonames.org/783298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.57194,
+          41.75056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Egypten",
+        "occurrences": 1,
+        "gazetteer_title": "Arab Republic of Egypt",
+        "gazetteer_uri": "http://sws.geonames.org/357994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Europa",
+        "occurrences": 1,
+        "gazetteer_title": "Europa",
+        "gazetteer_uri": "http://sws.geonames.org/8961484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08176,
+          45.61563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Orient",
+        "occurrences": 1,
+        "gazetteer_title": "East London",
+        "gazetteer_uri": "http://sws.geonames.org/1006984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.91162,
+          -33.01529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Portugal",
+        "occurrences": 1,
+        "gazetteer_title": "Little Portugal",
+        "gazetteer_uri": "http://sws.geonames.org/7870917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42956,
+          43.64663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Venedig",
+        "occurrences": 2,
+        "gazetteer_title": "Mestre",
+        "gazetteer_uri": "http://sws.geonames.org/3173529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24538,
+          45.49167
+        ]
+      }
+    }
+  ]
+}

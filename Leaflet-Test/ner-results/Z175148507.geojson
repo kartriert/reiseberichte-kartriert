@@ -1,0 +1,757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Alexandria",
+        "occurrences": 2,
+        "gazetteer_title": "Alexandria",
+        "gazetteer_uri": "http://sws.geonames.org/361058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91582,
+          31.20176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Arabia",
+        "occurrences": 3,
+        "gazetteer_title": "Arabia",
+        "gazetteer_uri": "http://sws.geonames.org/5693254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.37263,
+          42.73111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Armenia",
+        "occurrences": 1,
+        "gazetteer_title": "Armenia",
+        "gazetteer_uri": "http://sws.geonames.org/3689560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68111,
+          4.53389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Arzin",
+        "occurrences": 1,
+        "gazetteer_title": "Arz\u012bn",
+        "gazetteer_uri": "http://sws.geonames.org/20914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7628,
+          37.6053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bergen",
+        "occurrences": 1,
+        "gazetteer_title": "Bergen",
+        "gazetteer_uri": "http://sws.geonames.org/3161732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32415,
+          60.39299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Berlin",
+        "occurrences": 1,
+        "gazetteer_title": "Berlin",
+        "gazetteer_uri": "http://sws.geonames.org/2950159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41053,
+          52.52437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bingen",
+        "occurrences": 1,
+        "gazetteer_title": "Bingen",
+        "gazetteer_uri": "http://sws.geonames.org/5787305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.46452,
+          45.71484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cali",
+        "occurrences": 1,
+        "gazetteer_title": "Cali",
+        "gazetteer_uri": "http://sws.geonames.org/3687925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5225,
+          3.43722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cambaya",
+        "occurrences": 2,
+        "gazetteer_title": "Cerro Cambaya",
+        "gazetteer_uri": "http://sws.geonames.org/3945966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29691,
+          -16.80051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Canaria",
+        "occurrences": 5,
+        "gazetteer_title": "Las Palmas de Gran Canaria",
+        "gazetteer_uri": "http://sws.geonames.org/2515270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41343,
+          28.09973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Carangano",
+        "occurrences": 1,
+        "gazetteer_title": "Cerro Carangano",
+        "gazetteer_uri": "http://sws.geonames.org/3806228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.19374,
+          10.3672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cristo",
+        "occurrences": 1,
+        "gazetteer_title": "Cristo",
+        "gazetteer_uri": "http://sws.geonames.org/8956489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01361,
+          45.27451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cumari",
+        "occurrences": 1,
+        "gazetteer_title": "Cumari",
+        "gazetteer_uri": "http://sws.geonames.org/3465019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15111,
+          -18.26306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Damasco",
+        "occurrences": 1,
+        "gazetteer_title": "Damascus",
+        "gazetteer_uri": "http://sws.geonames.org/170654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29128,
+          33.5102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Ethiopia",
+        "occurrences": 1,
+        "gazetteer_title": "Little Ethiopia",
+        "gazetteer_uri": "http://sws.geonames.org/7134199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36528,
+          34.05472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Ferrara",
+        "occurrences": 1,
+        "gazetteer_title": "Ferrara",
+        "gazetteer_uri": "http://sws.geonames.org/3177090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62057,
+          44.83804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Flandern",
+        "occurrences": 1,
+        "gazetteer_title": "Flanders",
+        "gazetteer_uri": "http://sws.geonames.org/3337388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Florenz",
+        "occurrences": 1,
+        "gazetteer_title": "Florence",
+        "gazetteer_uri": "http://sws.geonames.org/3176959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24626,
+          43.77925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Fortunate",
+        "occurrences": 1,
+        "gazetteer_title": "Canary Islands",
+        "gazetteer_uri": "http://sws.geonames.org/2520308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gambia",
+        "occurrences": 3,
+        "gazetteer_title": "Gambia",
+        "gazetteer_uri": "http://sws.geonames.org/2413451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5,
+          13.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gersten",
+        "occurrences": 1,
+        "gazetteer_title": "Gersten",
+        "gazetteer_uri": "http://sws.geonames.org/6552891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.51667,
+          52.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hispania",
+        "occurrences": 8,
+        "gazetteer_title": "Hispania",
+        "gazetteer_uri": "http://sws.geonames.org/3680857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90718,
+          5.79925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "India",
+        "occurrences": 9,
+        "gazetteer_title": "Indian Subcontinent",
+        "gazetteer_uri": "http://sws.geonames.org/6269134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97021,
+          22.20775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Indien",
+        "occurrences": 2,
+        "gazetteer_title": "Republic of India",
+        "gazetteer_uri": "http://sws.geonames.org/1269750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jamaica",
+        "occurrences": 1,
+        "gazetteer_title": "Jamaica",
+        "gazetteer_uri": "http://sws.geonames.org/5122520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80569,
+          40.69149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jch",
+        "occurrences": 1,
+        "gazetteer_title": "Qasigiannguit",
+        "gazetteer_uri": "http://sws.geonames.org/3420768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.19221,
+          68.81926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jena",
+        "occurrences": 1,
+        "gazetteer_title": "Jena",
+        "gazetteer_uri": "http://sws.geonames.org/4160148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37014,
+          29.66356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jerusalem",
+        "occurrences": 1,
+        "gazetteer_title": "Jerusalem",
+        "gazetteer_uri": "http://sws.geonames.org/281184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21633,
+          31.76904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Lisbona",
+        "occurrences": 1,
+        "gazetteer_title": "Lisbon",
+        "gazetteer_uri": "http://sws.geonames.org/2267057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13333,
+          38.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Mecha",
+        "occurrences": 5,
+        "gazetteer_title": "Mecha",
+        "gazetteer_uri": "http://sws.geonames.org/528144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4977,
+          57.2654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Mieres",
+        "occurrences": 5,
+        "gazetteer_title": "Mieres",
+        "gazetteer_uri": "http://sws.geonames.org/6534085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6266,
+          42.12304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Monde",
+        "occurrences": 1,
+        "gazetteer_title": "Phare du bout du monde",
+        "gazetteer_uri": "http://sws.geonames.org/6639599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17916,
+          46.13787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Nauen",
+        "occurrences": 2,
+        "gazetteer_title": "Nauen",
+        "gazetteer_uri": "http://sws.geonames.org/2866931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.23205,
+          51.97727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Oman",
+        "occurrences": 1,
+        "gazetteer_title": "Dibba Al-Baya",
+        "gazetteer_uri": "http://sws.geonames.org/288760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26597,
+          25.63643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Persia",
+        "occurrences": 1,
+        "gazetteer_title": "Persia",
+        "gazetteer_uri": "http://sws.geonames.org/4871055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56806,
+          41.57999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Po",
+        "occurrences": 1,
+        "gazetteer_title": "Singapore",
+        "gazetteer_uri": "http://sws.geonames.org/1880252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85007,
+          1.28967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Portugal",
+        "occurrences": 4,
+        "gazetteer_title": "Little Portugal",
+        "gazetteer_uri": "http://sws.geonames.org/7870917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42956,
+          43.64663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sagres",
+        "occurrences": 3,
+        "gazetteer_title": "Sagres",
+        "gazetteer_uri": "http://sws.geonames.org/2263650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.94311,
+          37.00864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sancto",
+        "occurrences": 2,
+        "gazetteer_title": "Tampa Bay",
+        "gazetteer_uri": "http://sws.geonames.org/4174759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54749,
+          27.76589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Seman",
+        "occurrences": 1,
+        "gazetteer_title": "Seman",
+        "gazetteer_uri": "http://sws.geonames.org/4089138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11219,
+          32.73263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Senegal",
+        "occurrences": 3,
+        "gazetteer_title": "Le Petit Senegal",
+        "gazetteer_uri": "http://sws.geonames.org/7250810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95528,
+          40.80444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Stetten",
+        "occurrences": 1,
+        "gazetteer_title": "Stetten",
+        "gazetteer_uri": "http://sws.geonames.org/6695938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66298,
+          47.74025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Sumer",
+        "occurrences": 2,
+        "gazetteer_title": "Sumer",
+        "gazetteer_uri": "http://sws.geonames.org/726630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33278,
+          43.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Tauro",
+        "occurrences": 1,
+        "gazetteer_title": "Gioia Tauro",
+        "gazetteer_uri": "http://sws.geonames.org/6539859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.89899,
+          38.42397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Venedig",
+        "occurrences": 8,
+        "gazetteer_title": "Mestre",
+        "gazetteer_uri": "http://sws.geonames.org/3173529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24538,
+          45.49167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Vnd",
+        "occurrences": 1,
+        "gazetteer_title": "Vangaindrano",
+        "gazetteer_uri": "http://sws.geonames.org/1054329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6,
+          -23.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Z\u00fcrich",
+        "occurrences": 1,
+        "gazetteer_title": "Z\u00fcrich",
+        "gazetteer_uri": "http://sws.geonames.org/2657896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.36667
+        ]
+      }
+    }
+  ]
+}

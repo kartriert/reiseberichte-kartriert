@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Augusto",
+        "occurrences": 1,
+        "gazetteer_title": "Augusto Corr\u00eaa",
+        "gazetteer_uri": "http://sws.geonames.org/3406961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.635,
+          -1.02167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "China",
+        "occurrences": 2,
+        "gazetteer_title": "People\u2019s Republic of China",
+        "gazetteer_uri": "http://sws.geonames.org/1814991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Cuba",
+        "occurrences": 1,
+        "gazetteer_title": "Santiago de Cuba",
+        "gazetteer_uri": "http://sws.geonames.org/3536729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.82667,
+          20.02083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Europa",
+        "occurrences": 1,
+        "gazetteer_title": "Europa",
+        "gazetteer_uri": "http://sws.geonames.org/8961484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08176,
+          45.61563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Iulio",
+        "occurrences": 1,
+        "gazetteer_title": "Iulio",
+        "gazetteer_uri": "http://sws.geonames.org/8969952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19142,
+          45.60675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Londen",
+        "occurrences": 1,
+        "gazetteer_title": "London",
+        "gazetteer_uri": "http://sws.geonames.org/2643743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Norwegen",
+        "occurrences": 1,
+        "gazetteer_title": "Kingdom of Norway",
+        "gazetteer_uri": "http://sws.geonames.org/3144096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Oost",
+        "occurrences": 1,
+        "gazetteer_title": "East Jerusalem",
+        "gazetteer_uri": "http://sws.geonames.org/7303419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23388,
+          31.78336
+        ]
+      }
+    }
+  ]
+}

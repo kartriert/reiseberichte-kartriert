@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Africa",
+        "occurrences": 1,
+        "gazetteer_title": "Africa",
+        "gazetteer_uri": "http://sws.geonames.org/4253757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07277,
+          37.84033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Goletta",
+        "occurrences": 1,
+        "gazetteer_title": "Goletta Sottana",
+        "gazetteer_uri": "http://sws.geonames.org/8976491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20592,
+          44.3053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Stetten",
+        "occurrences": 1,
+        "gazetteer_title": "Stetten",
+        "gazetteer_uri": "http://sws.geonames.org/6695938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66298,
+          47.74025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Tirol",
+        "occurrences": 1,
+        "gazetteer_title": "Puerto Tirol",
+        "gazetteer_uri": "http://sws.geonames.org/3429721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.08206,
+          -27.37218
+        ]
+      }
+    }
+  ]
+}

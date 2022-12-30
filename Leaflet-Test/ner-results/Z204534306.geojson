@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Aach",
+        "occurrences": 1,
+        "gazetteer_title": "Aach",
+        "gazetteer_uri": "http://sws.geonames.org/2959946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85384,
+          47.8424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Aurach",
+        "occurrences": 3,
+        "gazetteer_title": "Aurach",
+        "gazetteer_uri": "http://sws.geonames.org/2954023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9224,
+          47.70347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Chur",
+        "occurrences": 24,
+        "gazetteer_title": "Chur",
+        "gazetteer_uri": "http://sws.geonames.org/567554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.96948,
+          57.11639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Dalmatien",
+        "occurrences": 1,
+        "gazetteer_title": "Split",
+        "gazetteer_uri": "http://sws.geonames.org/3190261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43915,
+          43.50891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Frankreich",
+        "occurrences": 1,
+        "gazetteer_title": "Republic of France",
+        "gazetteer_uri": "http://sws.geonames.org/3017382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Garch",
+        "occurrences": 1,
+        "gazetteer_title": "K\u016bh-e Valeh Now",
+        "gazetteer_uri": "http://sws.geonames.org/1118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36059,
+          36.1456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Italien",
+        "occurrences": 2,
+        "gazetteer_title": "Italian Republic",
+        "gazetteer_uri": "http://sws.geonames.org/3175395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 1,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "L\u00fcttich",
+        "occurrences": 1,
+        "gazetteer_title": "Li\u00e8ge",
+        "gazetteer_uri": "http://sws.geonames.org/2792413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56749,
+          50.63373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Mettingen",
+        "occurrences": 1,
+        "gazetteer_title": "Mettingen",
+        "gazetteer_uri": "http://sws.geonames.org/2871541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27864,
+          48.74555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Pappenheim",
+        "occurrences": 1,
+        "gazetteer_title": "Pappenheim",
+        "gazetteer_uri": "http://sws.geonames.org/2855467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97431,
+          48.93383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Pfalz",
+        "occurrences": 2,
+        "gazetteer_title": "Landau in der Pfalz",
+        "gazetteer_uri": "http://sws.geonames.org/2881646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11692,
+          49.19844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "R\u00f6",
+        "occurrences": 1,
+        "gazetteer_title": "R\u00f6 kyrka",
+        "gazetteer_uri": "http://sws.geonames.org/8128552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38929,
+          59.69672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Trier",
+        "occurrences": 5,
+        "gazetteer_title": "Trier",
+        "gazetteer_uri": "http://sws.geonames.org/2821164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63935,
+          49.75565
+        ]
+      }
+    }
+  ]
+}

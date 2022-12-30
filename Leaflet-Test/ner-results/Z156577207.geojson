@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Dee",
+        "occurrences": 1,
+        "gazetteer_title": "Dee",
+        "gazetteer_uri": "http://sws.geonames.org/5722564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62674,
+          45.58817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Griechenland",
+        "occurrences": 2,
+        "gazetteer_title": "Hellenic Republic",
+        "gazetteer_uri": "http://sws.geonames.org/390903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Obernburg",
+        "occurrences": 1,
+        "gazetteer_title": "Obernburg",
+        "gazetteer_uri": "http://sws.geonames.org/2859676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.90616,
+          51.2327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "San",
+        "occurrences": 1,
+        "gazetteer_title": "Sanaa",
+        "gazetteer_uri": "http://sws.geonames.org/71137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.20667,
+          15.35472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Wien",
+        "occurrences": 1,
+        "gazetteer_title": "Vienna",
+        "gazetteer_uri": "http://sws.geonames.org/2761369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37208,
+          48.20849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Wolfen",
+        "occurrences": 1,
+        "gazetteer_title": "Wolfen",
+        "gazetteer_uri": "http://sws.geonames.org/2806919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26873,
+          51.66122
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Adrianopoli",
+        "occurrences": 1,
+        "gazetteer_title": "Edirne",
+        "gazetteer_uri": "http://sws.geonames.org/747712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55597,
+          41.67719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bononia",
+        "occurrences": 1,
+        "gazetteer_title": "Bologna",
+        "gazetteer_uri": "http://sws.geonames.org/3181928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33875,
+          44.49381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Bulgarien",
+        "occurrences": 1,
+        "gazetteer_title": "Republic of Bulgaria",
+        "gazetteer_uri": "http://sws.geonames.org/732800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25,
+          42.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Gracia",
+        "occurrences": 1,
+        "gazetteer_title": "Gr\u00e0cia",
+        "gazetteer_uri": "http://sws.geonames.org/3121245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15641,
+          41.40237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Jar",
+        "occurrences": 1,
+        "gazetteer_title": "Rahim Yar Khan",
+        "gazetteer_uri": "http://sws.geonames.org/1167460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Key",
+        "occurrences": 2,
+        "gazetteer_title": "Key",
+        "gazetteer_uri": "http://sws.geonames.org/4047330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5344,
+          34.1026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Rodope",
+        "occurrences": 1,
+        "gazetteer_title": "Nom\u00f3s Rod\u00f3pis",
+        "gazetteer_uri": "http://sws.geonames.org/734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          41.08333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "R\u00f6",
+        "occurrences": 1,
+        "gazetteer_title": "R\u00f6 kyrka",
+        "gazetteer_uri": "http://sws.geonames.org/8128552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38929,
+          59.69672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "R\u00f6m",
+        "occurrences": 3,
+        "gazetteer_title": "R\u00f8m\u00f8",
+        "gazetteer_uri": "http://sws.geonames.org/2614572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52343,
+          55.14487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Spittal",
+        "occurrences": 1,
+        "gazetteer_title": "Spittal",
+        "gazetteer_uri": "http://sws.geonames.org/2637217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99428,
+          55.75828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Tolna",
+        "occurrences": 1,
+        "gazetteer_title": "Tolna",
+        "gazetteer_uri": "http://sws.geonames.org/5062194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4401,
+          47.82722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Wien",
+        "occurrences": 7,
+        "gazetteer_title": "Vienna",
+        "gazetteer_uri": "http://sws.geonames.org/2761369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37208,
+          48.20849
+        ]
+      }
+    }
+  ]
+}

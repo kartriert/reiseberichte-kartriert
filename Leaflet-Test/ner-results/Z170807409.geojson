@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Andu",
+        "occurrences": 1,
+        "gazetteer_title": "Aandu",
+        "gazetteer_uri": "http://sws.geonames.org/592640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72389,
+          59.15444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Brandt",
+        "occurrences": 1,
+        "gazetteer_title": "Brandt",
+        "gazetteer_uri": "http://sws.geonames.org/5226493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.62422,
+          44.66358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "China",
+        "occurrences": 2,
+        "gazetteer_title": "People\u2019s Republic of China",
+        "gazetteer_uri": "http://sws.geonames.org/1814991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "England",
+        "occurrences": 2,
+        "gazetteer_title": "England",
+        "gazetteer_uri": "http://sws.geonames.org/4110001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.96903,
+          34.54426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Florida",
+        "occurrences": 1,
+        "gazetteer_title": "Floridablanca",
+        "gazetteer_uri": "http://sws.geonames.org/3682385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08644,
+          7.06222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Hispania",
+        "occurrences": 3,
+        "gazetteer_title": "Hispania",
+        "gazetteer_uri": "http://sws.geonames.org/3680857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90718,
+          5.79925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Indien",
+        "occurrences": 3,
+        "gazetteer_title": "Republic of India",
+        "gazetteer_uri": "http://sws.geonames.org/1269750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Lisabona",
+        "occurrences": 1,
+        "gazetteer_title": "Lisbon",
+        "gazetteer_uri": "http://sws.geonames.org/2267057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13333,
+          38.71667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Malis",
+        "occurrences": 3,
+        "gazetteer_title": "Millis",
+        "gazetteer_uri": "http://sws.geonames.org/166896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.48844,
+          36.00362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Parma",
+        "occurrences": 1,
+        "gazetteer_title": "Perm",
+        "gazetteer_uri": "http://sws.geonames.org/511196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25017,
+          58.01046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Peru",
+        "occurrences": 1,
+        "gazetteer_title": "Peru",
+        "gazetteer_uri": "http://sws.geonames.org/4975080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40534,
+          44.50673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source_label": "Spa",
+        "occurrences": 1,
+        "gazetteer_title": "Spa",
+        "gazetteer_uri": "http://sws.geonames.org/2786318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86674,
+          50.48375
+        ]
+      }
+    }
+  ]
+}
