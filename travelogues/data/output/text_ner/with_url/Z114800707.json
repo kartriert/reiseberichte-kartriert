@@ -10681,13 +10681,12 @@
                 "sentence_idx": 2758,
                 "start_position": 46,
                 "end_position": 51,
-                "url": "https://www.geonames.org/8191003"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "139.73723",
-                    "-33.91791"
+                    null, null
                 ]
             }
         },
