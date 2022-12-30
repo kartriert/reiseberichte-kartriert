@@ -21,17 +21,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "rtemberg",
+                "source_label": "würtemberg",
                 "sentence_idx": 1,
                 "start_position": 28,
                 "end_position": 36,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2953481"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "9",
+                    "48.5"
                 ]
             }
         },
@@ -55,51 +55,34 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "sa",
+                "source_label": "sachsen",
                 "sentence_idx": 1,
                 "start_position": 47,
-                "end_position": 49,
-                "url": "https://www.geonames.org/6255150"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "chsen",
-                "sentence_idx": 1,
-                "start_position": 50,
                 "end_position": 55,
-                "url": "https://www.geonames.org/2658744"
+                "url": "https://www.geonames.org/2879139"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "8.13204",
-                    "47.17765"
+                    "12.37129",
+                    "51.33962"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "brandenbu rg",
+                "source_label": "brandenburg",
                 "sentence_idx": 1,
                 "start_position": 57,
                 "end_position": 69,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2852458"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.06566,
+                    52.39886
                 ]
             }
         },
