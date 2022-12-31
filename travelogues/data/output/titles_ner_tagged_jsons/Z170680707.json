@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Savoyen",
                 "start_position": 12,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/6955428"
             },
             "geometry": {
                 "type": "Point",

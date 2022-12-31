@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 11,
-                "end_position": 18
+                "end_position": 18,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",

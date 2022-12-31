@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Arabien",
                 "start_position": 45,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/102358"
             },
             "geometry": {
                 "type": "Point",

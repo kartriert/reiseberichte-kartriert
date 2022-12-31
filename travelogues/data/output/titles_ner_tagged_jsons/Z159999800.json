@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Oesterreich",
                 "start_position": 29,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/2782113"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.33333",
+                    "47.33333"
                 ]
             }
         },
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "Salzburg",
                 "start_position": 42,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/2766824"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.04399",
+                    "47.79941"
                 ]
             }
         },
@@ -36,13 +38,14 @@
             "properties": {
                 "source_label": "Passau",
                 "start_position": 52,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/2855328"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.43122",
+                    "48.5665"
                 ]
             }
         },
@@ -51,13 +54,14 @@
             "properties": {
                 "source_label": "Berchtesgaden",
                 "start_position": 62,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/2950881"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.00187",
+                    "47.63236"
                 ]
             }
         }

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Africa",
                 "start_position": 42,
-                "end_position": 48
+                "end_position": 48,
+                "url": "https://www.geonames.org/6255146"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Ostindien",
                 "start_position": 53,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 62,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Salzburg",
                 "start_position": 13,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/2766824"
             },
             "geometry": {
                 "type": "Point",

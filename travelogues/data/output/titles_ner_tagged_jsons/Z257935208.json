@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Prag",
                 "start_position": 31,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/3067696"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 35,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

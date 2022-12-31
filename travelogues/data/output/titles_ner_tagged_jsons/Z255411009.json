@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Europa",
                 "start_position": 34,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/6255148"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 98,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 115,
-                "end_position": 122
+                "end_position": 122,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 124,
-                "end_position": 131
+                "end_position": 131,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Sicilien",
                 "start_position": 133,
-                "end_position": 141
+                "end_position": 141,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 146,
-                "end_position": 151
+                "end_position": 151,
+                "url": "https://www.geonames.org/2988507"
             },
             "geometry": {
                 "type": "Point",

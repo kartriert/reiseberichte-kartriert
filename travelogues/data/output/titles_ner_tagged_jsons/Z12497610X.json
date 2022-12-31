@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Stade",
                 "start_position": 27,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/2829901"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Madras",
                 "start_position": 38,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/1264527"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Ostindien",
                 "start_position": 48,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Ostindien",
                 "start_position": 66,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

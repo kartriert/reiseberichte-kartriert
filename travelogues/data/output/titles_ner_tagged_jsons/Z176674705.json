@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Riga",
                 "start_position": 59,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/456172"
             },
             "geometry": {
                 "type": "Point",

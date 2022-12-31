@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Fuld",
                 "start_position": 44,
-                "end_position": 48
+                "end_position": 48,
+                "url": "https://www.geonames.org/7250802"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Rhein",
                 "start_position": 86,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/12077024"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Mayn",
                 "start_position": 96,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/3042020"
             },
             "geometry": {
                 "type": "Point",

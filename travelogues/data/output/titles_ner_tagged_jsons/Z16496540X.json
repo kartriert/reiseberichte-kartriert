@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Spanien",
                 "start_position": 56,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/2510769"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Welschland",
                 "start_position": 68,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/10383075"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 78,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Spanien",
                 "start_position": 117,
-                "end_position": 124
+                "end_position": 124,
+                "url": "https://www.geonames.org/2510769"
             },
             "geometry": {
                 "type": "Point",

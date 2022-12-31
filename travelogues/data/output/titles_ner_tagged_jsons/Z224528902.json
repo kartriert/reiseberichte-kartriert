@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "England",
                 "start_position": 48,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/11919979"
             },
             "geometry": {
                 "type": "Point",

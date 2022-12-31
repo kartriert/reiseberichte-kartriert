@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Siam",
                 "start_position": 37,
-                "end_position": 41
+                "end_position": 41,
+                "url": "https://www.geonames.org/1818185"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 41,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

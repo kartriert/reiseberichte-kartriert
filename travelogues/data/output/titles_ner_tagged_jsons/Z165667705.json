@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "vereinigten nordamerikanischen Staaten",
                 "start_position": 23,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Ost-Florida",
                 "start_position": 68,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/1004136"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Bahama-Inseln",
                 "start_position": 88,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/6479097"
             },
             "geometry": {
                 "type": "Point",

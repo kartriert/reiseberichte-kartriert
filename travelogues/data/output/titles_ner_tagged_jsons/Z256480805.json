@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Paraquaria",
                 "start_position": 110,
-                "end_position": 120
+                "end_position": 120,
+                "url": "https://www.geonames.org/3437598"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Guiana",
                 "start_position": 249,
-                "end_position": 255
+                "end_position": 255,
+                "url": "https://www.geonames.org/3378535"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Rom",
                 "start_position": 87,
-                "end_position": 90
+                "end_position": 90,
+                "url": "https://www.geonames.org/3169070"
             },
             "geometry": {
                 "type": "Point",

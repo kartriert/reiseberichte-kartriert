@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Baiern",
                 "start_position": 65,
-                "end_position": 71
+                "end_position": 71,
+                "url": "https://www.geonames.org/2951840"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "11.5",
+                    "48.5"
                 ]
             }
         },
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "Schwaben",
                 "start_position": 73,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/2824481"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "9",
+                    "48"
                 ]
             }
         },
@@ -36,13 +38,14 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 93,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "8.01427",
+                    "47.00016"
                 ]
             }
         }

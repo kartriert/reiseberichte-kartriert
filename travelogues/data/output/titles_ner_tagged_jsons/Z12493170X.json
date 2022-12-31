@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Amerika",
                 "start_position": 227,
-                "end_position": 234
+                "end_position": 234,
+                "url": "https://www.geonames.org/6255150"
             },
             "geometry": {
                 "type": "Point",

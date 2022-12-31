@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Sicilien",
                 "start_position": 16,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Rhein",
                 "start_position": 14,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/12077024"
             },
             "geometry": {
                 "type": "Point",

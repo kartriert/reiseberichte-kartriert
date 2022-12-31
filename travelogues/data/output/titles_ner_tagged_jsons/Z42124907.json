@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Pelew-Inseln",
                 "start_position": 68,
-                "end_position": 80
+                "end_position": 80,
+                "url": "https://www.geonames.org/1559581"
             },
             "geometry": {
                 "type": "Point",

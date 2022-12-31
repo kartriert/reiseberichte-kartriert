@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Schweitzerlandes",
                 "start_position": 21,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

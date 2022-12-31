@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Egypten",
                 "start_position": 30,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/357994"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Arabien",
                 "start_position": 42,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/102358"
             },
             "geometry": {
                 "type": "Point",

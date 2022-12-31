@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Palermo",
                 "start_position": 12,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/2523920"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.33561",
+                    "38.13205"
                 ]
             }
         }

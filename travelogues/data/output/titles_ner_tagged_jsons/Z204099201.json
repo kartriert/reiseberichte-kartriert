@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Mannheim",
                 "start_position": 83,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/2873891"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Baiern",
                 "start_position": 93,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/2951840"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Oesterreich",
                 "start_position": 104,
-                "end_position": 115
+                "end_position": 115,
+                "url": "https://www.geonames.org/2782113"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 121,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",

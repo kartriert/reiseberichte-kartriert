@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Erfurt",
                 "start_position": 78,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/2929670"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Gotha",
                 "start_position": 86,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/2918752"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Weimar",
                 "start_position": 93,
-                "end_position": 99
+                "end_position": 99,
+                "url": "https://www.geonames.org/2812482"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Jena",
                 "start_position": 101,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/2895044"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Naumburg",
                 "start_position": 107,
-                "end_position": 115
+                "end_position": 115,
+                "url": "https://www.geonames.org/2866906"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Weissenfels",
                 "start_position": 117,
-                "end_position": 128
+                "end_position": 128,
+                "url": "https://www.geonames.org/2811899"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +102,8 @@
             "properties": {
                 "source_label": "Laupst\u00e4dt",
                 "start_position": 130,
-                "end_position": 139
+                "end_position": 139,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +118,8 @@
             "properties": {
                 "source_label": "Halle",
                 "start_position": 141,
-                "end_position": 146
+                "end_position": 146,
+                "url": "https://www.geonames.org/2911522"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +134,8 @@
             "properties": {
                 "source_label": "Leipzig",
                 "start_position": 148,
-                "end_position": 155
+                "end_position": 155,
+                "url": "https://www.geonames.org/2879139"
             },
             "geometry": {
                 "type": "Point",

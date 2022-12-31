@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Dahomy",
                 "start_position": 66,
-                "end_position": 72
+                "end_position": 72,
+                "url": "https://www.geonames.org/4423412"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Guinea",
                 "start_position": 76,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/2420477"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 82,
-                "end_position": 83
+                "end_position": 83,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Arabiens",
                 "start_position": 111,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 105,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",

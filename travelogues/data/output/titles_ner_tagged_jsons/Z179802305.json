@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 50,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": ";",
                 "start_position": 55,
-                "end_position": 56
+                "end_position": 56,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Hrsg",
                 "start_position": 57,
-                "end_position": 61
+                "end_position": 61,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

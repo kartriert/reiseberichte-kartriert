@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Toulouse",
                 "start_position": 32,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/2972315"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Montpellier",
                 "start_position": 46,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/2992166"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Marokko",
                 "start_position": 17,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/2542007"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": ";",
                 "start_position": 24,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 43,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Spanien",
                 "start_position": 55,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/2510769"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Portugal",
                 "start_position": 67,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/2264397"
             },
             "geometry": {
                 "type": "Point",

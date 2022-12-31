@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "T\u00fcrkey",
                 "start_position": 54,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "Persien",
                 "start_position": 62,
-                "end_position": 69
+                "end_position": 69,
+                "url": "https://www.geonames.org/130758"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "53",
+                    "32"
                 ]
             }
         },
@@ -36,13 +38,14 @@
             "properties": {
                 "source_label": "Arabien",
                 "start_position": 74,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/102358"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "45",
+                    "25"
                 ]
             }
         },
@@ -51,13 +54,14 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 81,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-103.72567",
+                    "35.17116"
                 ]
             }
         }

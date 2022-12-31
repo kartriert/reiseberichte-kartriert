@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Griechenland",
                 "start_position": 10,
-                "end_position": 22
+                "end_position": 22,
+                "url": "https://www.geonames.org/390903"
             },
             "geometry": {
                 "type": "Point",

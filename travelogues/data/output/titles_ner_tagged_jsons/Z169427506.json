@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Sizilien",
                 "start_position": 79,
-                "end_position": 87
+                "end_position": 87,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",

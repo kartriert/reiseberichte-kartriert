@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "China",
                 "start_position": 45,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/1814991"
             },
             "geometry": {
                 "type": "Point",

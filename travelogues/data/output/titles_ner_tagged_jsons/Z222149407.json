@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Russland",
                 "start_position": 17,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",

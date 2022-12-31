@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Karpathen",
                 "start_position": 109,
-                "end_position": 118
+                "end_position": 118,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 118,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

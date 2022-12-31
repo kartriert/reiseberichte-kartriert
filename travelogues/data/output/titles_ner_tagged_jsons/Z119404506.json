@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Biarne",
                 "start_position": 19,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/3032799"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Island",
                 "start_position": 48,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/2629691"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Kopenhagen",
                 "start_position": 115,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/2618425"
             },
             "geometry": {
                 "type": "Point",

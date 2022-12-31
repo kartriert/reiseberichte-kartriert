@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Capri",
                 "start_position": 57,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/3180630"
             },
             "geometry": {
                 "type": "Point",

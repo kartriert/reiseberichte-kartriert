@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Spanien",
                 "start_position": 21,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/2510769"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Piemont",
                 "start_position": 30,
-                "end_position": 37
+                "end_position": 37,
+                "url": "https://www.geonames.org/3170831"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Lombardei",
                 "start_position": 43,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/3174618"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Tyrol",
                 "start_position": 57,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/2763587"
             },
             "geometry": {
                 "type": "Point",

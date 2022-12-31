@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Kamtschatka",
                 "start_position": 38,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/2125072"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Sibirien",
                 "start_position": 54,
-                "end_position": 62
+                "end_position": 62,
+                "url": "https://www.geonames.org/2016590"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 68,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 78,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

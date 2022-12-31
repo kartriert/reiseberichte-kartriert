@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 37,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Syrien",
                 "start_position": 30,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/163843"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Aegypten",
                 "start_position": 41,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/357994"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 49,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

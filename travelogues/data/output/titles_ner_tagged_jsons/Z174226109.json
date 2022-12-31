@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Schwaben",
                 "start_position": 13,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/2824481"
             },
             "geometry": {
                 "type": "Point",
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "Baiern",
                 "start_position": 23,
-                "end_position": 29
+                "end_position": 29,
+                "url": "https://www.geonames.org/2951840"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "11.5",
+                    "48.5"
                 ]
             }
         },
@@ -36,13 +38,14 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 31,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "8.01427",
+                    "47.00016"
                 ]
             }
         },
@@ -51,13 +54,14 @@
             "properties": {
                 "source_label": "Franken",
                 "start_position": 40,
-                "end_position": 47
+                "end_position": 47,
+                "url": "https://www.geonames.org/2803465"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "9",
+                    "50"
                 ]
             }
         }

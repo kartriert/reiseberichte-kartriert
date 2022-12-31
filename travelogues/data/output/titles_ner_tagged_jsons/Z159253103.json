@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Krain",
                 "start_position": 77,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/6278686"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Istrien",
                 "start_position": 84,
-                "end_position": 91
+                "end_position": 91,
+                "url": "https://www.geonames.org/3337514"
             },
             "geometry": {
                 "type": "Point",

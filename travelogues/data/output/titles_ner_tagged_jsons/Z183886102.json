@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Guinea",
                 "start_position": 11,
-                "end_position": 17
+                "end_position": 17,
+                "url": "https://www.geonames.org/2420477"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Columbien",
                 "start_position": 49,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/3686110"
             },
             "geometry": {
                 "type": "Point",

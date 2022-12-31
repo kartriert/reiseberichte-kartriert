@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 59,
-                "end_position": 70
+                "end_position": 70,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 72,
-                "end_position": 79
+                "end_position": 79,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Polen",
                 "start_position": 81,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/798544"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 203,
-                "end_position": 210
+                "end_position": 210,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Polen",
                 "start_position": 218,
-                "end_position": 223
+                "end_position": 223,
+                "url": "https://www.geonames.org/798544"
             },
             "geometry": {
                 "type": "Point",

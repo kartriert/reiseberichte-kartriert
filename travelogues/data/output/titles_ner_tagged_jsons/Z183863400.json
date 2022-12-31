@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Schwabens",
                 "start_position": 25,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/2835503"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Schwarzwald",
                 "start_position": 46,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/2881885"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 69,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",

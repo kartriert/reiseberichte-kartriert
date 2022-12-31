@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Island",
                 "start_position": 25,
-                "end_position": 31
+                "end_position": 31,
+                "url": "https://www.geonames.org/2629691"
             },
             "geometry": {
                 "type": "Point",

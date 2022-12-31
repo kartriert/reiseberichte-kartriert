@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Mexico",
                 "start_position": 75,
-                "end_position": 81
+                "end_position": 81,
+                "url": "https://www.geonames.org/3996063"
             },
             "geometry": {
                 "type": "Point",

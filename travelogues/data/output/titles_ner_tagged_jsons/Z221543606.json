@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Orient",
                 "start_position": 13,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/6269133"
             },
             "geometry": {
                 "type": "Point",

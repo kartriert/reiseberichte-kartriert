@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Riesengebirge",
                 "start_position": 34,
-                "end_position": 47
+                "end_position": 47,
+                "url": "https://www.geonames.org/3096639"
             },
             "geometry": {
                 "type": "Point",

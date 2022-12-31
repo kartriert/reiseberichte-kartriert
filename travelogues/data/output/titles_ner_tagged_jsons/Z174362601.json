@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 12,
-                "end_position": 22
+                "end_position": 22,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 27,
-                "end_position": 34
+                "end_position": 34,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Nizza",
                 "start_position": 159,
-                "end_position": 164
+                "end_position": 164,
+                "url": "https://www.geonames.org/2990440"
             },
             "geometry": {
                 "type": "Point",

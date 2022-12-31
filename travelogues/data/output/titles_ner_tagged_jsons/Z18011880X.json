@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Auvergne",
                 "start_position": 12,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/3022988"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 207,
-                "end_position": 217
+                "end_position": 217,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",

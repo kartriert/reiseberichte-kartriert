@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Gr\u00f6nland",
                 "start_position": 13,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/3425505"
             },
             "geometry": {
                 "type": "Point",

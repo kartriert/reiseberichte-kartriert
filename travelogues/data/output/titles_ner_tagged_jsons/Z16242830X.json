@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Alpen",
                 "start_position": 111,
-                "end_position": 116
+                "end_position": 116,
+                "url": "https://www.geonames.org/682673"
             },
             "geometry": {
                 "type": "Point",

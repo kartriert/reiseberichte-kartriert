@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Patagonien",
                 "start_position": 17,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/3841798"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-68",
+                    "-44"
                 ]
             }
         },
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "S\u00fcdamerika",
                 "start_position": 61,
-                "end_position": 71
+                "end_position": 71,
+                "url": "https://www.geonames.org/6255150"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-57.65625",
+                    "-14.60485"
                 ]
             }
         }

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Neapel",
                 "start_position": 0,
-                "end_position": 6
+                "end_position": 6,
+                "url": "https://www.geonames.org/3172394"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Sizilien",
                 "start_position": 11,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",

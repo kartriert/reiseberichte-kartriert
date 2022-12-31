@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Afrika",
                 "start_position": 47,
-                "end_position": 53
+                "end_position": 53,
+                "url": "https://www.geonames.org/6255146"
             },
             "geometry": {
                 "type": "Point",

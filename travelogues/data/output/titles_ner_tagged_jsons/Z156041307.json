@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "London",
                 "start_position": 44,
-                "end_position": 50
+                "end_position": 50,
+                "url": "https://www.geonames.org/2643743"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 57,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Persien",
                 "start_position": 69,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/130758"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 102,
-                "end_position": 109
+                "end_position": 109,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 111,
-                "end_position": 122
+                "end_position": 122,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Holland",
                 "start_position": 127,
-                "end_position": 134
+                "end_position": 134,
+                "url": "https://www.geonames.org/2750405"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +102,8 @@
             "properties": {
                 "source_label": "London",
                 "start_position": 286,
-                "end_position": 292
+                "end_position": 292,
+                "url": "https://www.geonames.org/2643743"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +118,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 299,
-                "end_position": 306
+                "end_position": 306,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +134,8 @@
             "properties": {
                 "source_label": "Persien",
                 "start_position": 311,
-                "end_position": 318
+                "end_position": 318,
+                "url": "https://www.geonames.org/130758"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +150,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 344,
-                "end_position": 351
+                "end_position": 351,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +166,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 353,
-                "end_position": 364
+                "end_position": 364,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +182,8 @@
             "properties": {
                 "source_label": "Holland",
                 "start_position": 369,
-                "end_position": 376
+                "end_position": 376,
+                "url": "https://www.geonames.org/2750405"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +198,8 @@
             "properties": {
                 "source_label": "Ru\u00dfland",
                 "start_position": 511,
-                "end_position": 518
+                "end_position": 518,
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +214,8 @@
             "properties": {
                 "source_label": "Persien",
                 "start_position": 520,
-                "end_position": 527
+                "end_position": 527,
+                "url": "https://www.geonames.org/130758"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +230,8 @@
             "properties": {
                 "source_label": "Armenien",
                 "start_position": 562,
-                "end_position": 570
+                "end_position": 570,
+                "url": "https://www.geonames.org/174982"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +246,8 @@
             "properties": {
                 "source_label": "China",
                 "start_position": 572,
-                "end_position": 577
+                "end_position": 577,
+                "url": "https://www.geonames.org/1814991"
             },
             "geometry": {
                 "type": "Point",

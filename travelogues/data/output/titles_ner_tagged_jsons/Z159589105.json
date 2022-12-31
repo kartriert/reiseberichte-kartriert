@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Dalmatien",
                 "start_position": 35,
-                "end_position": 44
+                "end_position": 44,
+                "url": "https://www.geonames.org/3337527"
             },
             "geometry": {
                 "type": "Point",

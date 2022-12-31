@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 77,
-                "end_position": 87
+                "end_position": 87,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",

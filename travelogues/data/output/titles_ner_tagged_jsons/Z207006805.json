@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Oesterreich",
                 "start_position": 106,
-                "end_position": 117
+                "end_position": 117,
+                "url": "https://www.geonames.org/2782113"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Sicilien",
                 "start_position": 204,
-                "end_position": 212
+                "end_position": 212,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 221,
-                "end_position": 225
+                "end_position": 225,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Neapolis",
                 "start_position": 231,
-                "end_position": 239
+                "end_position": 239,
+                "url": "https://www.geonames.org/3172394"
             },
             "geometry": {
                 "type": "Point",

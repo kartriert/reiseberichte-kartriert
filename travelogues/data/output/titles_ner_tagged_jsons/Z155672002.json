@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Europens",
                 "start_position": 59,
-                "end_position": 67
+                "end_position": 67,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",

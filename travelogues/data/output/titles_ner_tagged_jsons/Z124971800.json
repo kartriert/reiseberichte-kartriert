@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 13,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Meklenburg",
                 "start_position": 47,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/2807465"
             },
             "geometry": {
                 "type": "Point",

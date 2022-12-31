@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Pre\u00dfburg",
                 "start_position": 11,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/3060972"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "M\u00e4hren",
                 "start_position": 26,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/3070359"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Schlesien",
                 "start_position": 40,
-                "end_position": 49
+                "end_position": 49,
+                "url": "https://www.geonames.org/3066138"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Ungarn",
                 "start_position": 54,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/719819"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Siebenb\u00fcrgen",
                 "start_position": 66,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/664661"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Pre\u00dfburg",
                 "start_position": 102,
-                "end_position": 110
+                "end_position": 110,
+                "url": "https://www.geonames.org/3060972"
             },
             "geometry": {
                 "type": "Point",

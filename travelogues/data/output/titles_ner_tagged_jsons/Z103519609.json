@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Bayern",
                 "start_position": 18,
-                "end_position": 24
+                "end_position": 24,
+                "url": "https://www.geonames.org/2867714"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "W\u00fcrtemberg",
                 "start_position": 26,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/2825297"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Pfalz",
                 "start_position": 38,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/2874225"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Sachsen",
                 "start_position": 45,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/2842566"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Brandenburg",
                 "start_position": 54,
-                "end_position": 65
+                "end_position": 65,
+                "url": "https://www.geonames.org/2945356"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Oesterreich",
                 "start_position": 67,
-                "end_position": 78
+                "end_position": 78,
+                "url": "https://www.geonames.org/2782113"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +102,8 @@
             "properties": {
                 "source_label": "M\u00e4hren",
                 "start_position": 80,
-                "end_position": 86
+                "end_position": 86,
+                "url": "https://www.geonames.org/3070359"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +118,8 @@
             "properties": {
                 "source_label": "B\u00f6hmen",
                 "start_position": 88,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/3078198"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +134,8 @@
             "properties": {
                 "source_label": "Ungarn",
                 "start_position": 99,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/719819"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Spanien",
                 "start_position": 12,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/2510769"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Madrid",
                 "start_position": 34,
-                "end_position": 40
+                "end_position": 40,
+                "url": "https://www.geonames.org/3117735"
             },
             "geometry": {
                 "type": "Point",

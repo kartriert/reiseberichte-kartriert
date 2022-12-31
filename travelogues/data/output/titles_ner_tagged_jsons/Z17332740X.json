@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Mequinetz",
                 "start_position": 11,
-                "end_position": 20
+                "end_position": 20,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Fetz",
                 "start_position": 60,
-                "end_position": 64
+                "end_position": 64,
+                "url": "https://www.geonames.org/3335384"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Marocco",
                 "start_position": 69,
-                "end_position": 76
+                "end_position": 76,
+                "url": "https://www.geonames.org/2542007"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "London",
                 "start_position": 246,
-                "end_position": 252
+                "end_position": 252,
+                "url": "https://www.geonames.org/2643743"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Sicilien",
                 "start_position": 13,
-                "end_position": 21
+                "end_position": 21,
+                "url": "https://www.geonames.org/2523118"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Maltha",
                 "start_position": 26,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/6031418"
             },
             "geometry": {
                 "type": "Point",

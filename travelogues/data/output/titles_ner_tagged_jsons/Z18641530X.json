@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Oeland",
                 "start_position": 13,
-                "end_position": 19
+                "end_position": 19,
+                "url": "https://www.geonames.org/2687204"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "16.63333",
+                    "56.751"
                 ]
             }
         },
@@ -21,13 +22,14 @@
             "properties": {
                 "source_label": "Gothland",
                 "start_position": 24,
-                "end_position": 32
+                "end_position": 32,
+                "url": "https://www.geonames.org/2711511"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "18.55",
+                    "57.5"
                 ]
             }
         }

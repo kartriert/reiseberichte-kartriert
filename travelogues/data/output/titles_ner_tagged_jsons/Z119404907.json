@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "West-Indien",
                 "start_position": 17,
-                "end_position": 28
+                "end_position": 28,
+                "url": "https://www.geonames.org/3571219"
             },
             "geometry": {
                 "type": "Point",

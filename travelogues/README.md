@@ -5,8 +5,16 @@
 
 ## Scripts and modules
 
+### Correction of OCR output
 
-### Post-correction of (GEO)JSON files
+@Lisa Braune.
+
+### Named Entity Recognition in text files
+
+
+
+
+### Post-correction of (Geo)JSON files
 
 In order to get the best results, we decided it would be beneficial to manually correct the JSON files
 that contain the NER results for the travelogues. To do this in a relatively fast manner, we
@@ -26,7 +34,7 @@ Please find the detailed workflow in the following [chapter](#manual-post-correc
 We used this [format](https://en.wikipedia.org/wiki/GeoJSON) for the GeoJSONs.
 A finished example file can be found [here](./data/output/text_ner/with_url/finished/Z114800707.json).
 
-## Manual Post-Correction for (GEO)JSON files
+## Manual Post-Correction for (Geo)JSON files
 
 ### Step 1
 

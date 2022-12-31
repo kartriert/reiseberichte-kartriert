@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Surinam",
                 "start_position": 36,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/3382998"
             },
             "geometry": {
                 "type": "Point",

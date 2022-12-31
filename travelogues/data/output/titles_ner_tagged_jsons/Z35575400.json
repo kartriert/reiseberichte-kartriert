@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Boudeuse",
                 "start_position": 46,
-                "end_position": 54
+                "end_position": 54,
+                "url": "https://www.geonames.org/241413"
             },
             "geometry": {
                 "type": "Point",

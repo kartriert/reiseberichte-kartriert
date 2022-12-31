@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 31,
-                "end_position": 42
+                "end_position": 42,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 51,
-                "end_position": 58
+                "end_position": 58,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",

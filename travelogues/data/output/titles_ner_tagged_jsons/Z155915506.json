@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 33,
-                "end_position": 43
+                "end_position": 43,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Niederlande",
                 "start_position": 49,
-                "end_position": 60
+                "end_position": 60,
+                "url": "https://www.geonames.org/2750405"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Holland",
                 "start_position": 62,
-                "end_position": 69
+                "end_position": 69,
+                "url": "https://www.geonames.org/2750405"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 71,
-                "end_position": 82
+                "end_position": 82,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 87,
-                "end_position": 94
+                "end_position": 94,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",

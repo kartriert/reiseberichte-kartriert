@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Antigua",
                 "start_position": 29,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/3599699"
             },
             "geometry": {
                 "type": "Point",

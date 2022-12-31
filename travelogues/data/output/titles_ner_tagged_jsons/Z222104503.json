@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "London",
                 "start_position": 46,
-                "end_position": 52
+                "end_position": 52,
+                "url": "https://www.geonames.org/2643743"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 54,
-                "end_position": 59
+                "end_position": 59,
+                "url": "https://www.geonames.org/2988507"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Lyon",
                 "start_position": 64,
-                "end_position": 68
+                "end_position": 68,
+                "url": "https://www.geonames.org/2996944"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 189,
-                "end_position": 200
+                "end_position": 200,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Schweden",
                 "start_position": 202,
-                "end_position": 210
+                "end_position": 210,
+                "url": "https://www.geonames.org/2661886"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Norwegen",
                 "start_position": 212,
-                "end_position": 220
+                "end_position": 220,
+                "url": "https://www.geonames.org/3144096"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +102,8 @@
             "properties": {
                 "source_label": "England",
                 "start_position": 222,
-                "end_position": 229
+                "end_position": 229,
+                "url": "https://www.geonames.org/11919979"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +118,8 @@
             "properties": {
                 "source_label": "Schottland",
                 "start_position": 235,
-                "end_position": 245
+                "end_position": 245,
+                "url": "https://www.geonames.org/2638360"
             },
             "geometry": {
                 "type": "Point",

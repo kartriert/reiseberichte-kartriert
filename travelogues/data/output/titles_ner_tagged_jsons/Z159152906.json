@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Berlin",
                 "start_position": 32,
-                "end_position": 38
+                "end_position": 38,
+                "url": "https://www.geonames.org/2950159"
             },
             "geometry": {
                 "type": "Point",

@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "S\u00fcdsee",
                 "start_position": 21,
-                "end_position": 27
+                "end_position": 27,
+                "url": "https://www.geonames.org/12110946"
             },
             "geometry": {
                 "type": "Point",

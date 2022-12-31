@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 93,
-                "end_position": 100
+                "end_position": 100,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "B\u00f6hmen",
                 "start_position": 102,
-                "end_position": 108
+                "end_position": 108,
+                "url": "https://www.geonames.org/3078198"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 113,
-                "end_position": 123
+                "end_position": 123,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": ":",
                 "start_position": 123,
-                "end_position": 124
+                "end_position": 124,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",

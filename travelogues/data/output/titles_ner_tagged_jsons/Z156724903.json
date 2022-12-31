@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Stockholm",
                 "start_position": 89,
-                "end_position": 98
+                "end_position": 98,
+                "url": "https://www.geonames.org/2673730"
             },
             "geometry": {
                 "type": "Point",

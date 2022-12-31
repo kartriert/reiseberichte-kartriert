@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Frankreich",
                 "start_position": 91,
-                "end_position": 101
+                "end_position": 101,
+                "url": "https://www.geonames.org/3017382"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 145,
-                "end_position": 150
+                "end_position": 150,
+                "url": "https://www.geonames.org/2988507"
             },
             "geometry": {
                 "type": "Point",

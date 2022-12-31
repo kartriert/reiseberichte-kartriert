@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 99,
-                "end_position": 104
+                "end_position": 104,
+                "url": "https://www.geonames.org/2988507"
             },
             "geometry": {
                 "type": "Point",

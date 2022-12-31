@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Sibirien",
                 "start_position": 81,
-                "end_position": 89
+                "end_position": 89,
+                "url": "https://www.geonames.org/2016590"
             },
             "geometry": {
                 "type": "Point",

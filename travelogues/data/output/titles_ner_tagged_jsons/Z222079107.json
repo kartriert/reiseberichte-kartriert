@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Schweden",
                 "start_position": 27,
-                "end_position": 35
+                "end_position": 35,
+                "url": "https://www.geonames.org/2661886"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Lapplandes",
                 "start_position": 47,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "West-Nordland",
                 "start_position": 94,
-                "end_position": 107
+                "end_position": 107,
+                "url": "https://www.geonames.org/5039374"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Lappmark",
                 "start_position": 117,
-                "end_position": 125
+                "end_position": 125,
+                "url": "https://www.geonames.org/2724955"
             },
             "geometry": {
                 "type": "Point",

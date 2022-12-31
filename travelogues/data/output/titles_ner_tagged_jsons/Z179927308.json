@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 10,
-                "end_position": 14
+                "end_position": 14,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Paris",
                 "start_position": 20,
-                "end_position": 25
+                "end_position": 25,
+                "url": "https://www.geonames.org/2988507"
             },
             "geometry": {
                 "type": "Point",

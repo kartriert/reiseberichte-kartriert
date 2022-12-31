@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Villa Franca",
                 "start_position": 24,
-                "end_position": 36
+                "end_position": 36,
+                "url": "https://www.geonames.org/9072762"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Chur-Brandenburg",
                 "start_position": 41,
-                "end_position": 57
+                "end_position": 57,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Teutschland",
                 "start_position": 64,
-                "end_position": 75
+                "end_position": 75,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Holland",
                 "start_position": 77,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/2750405"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Braband",
                 "start_position": 89,
-                "end_position": 96
+                "end_position": 96,
+                "url": "https://www.geonames.org/9415653"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "England",
                 "start_position": 98,
-                "end_position": 105
+                "end_position": 105,
+                "url": "https://www.geonames.org/11919979"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +102,8 @@
             "properties": {
                 "source_label": "Franckreich",
                 "start_position": 107,
-                "end_position": 118
+                "end_position": 118,
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +118,8 @@
             "properties": {
                 "source_label": ";",
                 "start_position": 118,
-                "end_position": 119
+                "end_position": 119,
+                "url": "https://www.geonames.org/5485606"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +134,8 @@
             "properties": {
                 "source_label": "Turin",
                 "start_position": 136,
-                "end_position": 141
+                "end_position": 141,
+                "url": "https://www.geonames.org/3165524"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +150,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 149,
-                "end_position": 156
+                "end_position": 156,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +166,8 @@
             "properties": {
                 "source_label": "Rom",
                 "start_position": 158,
-                "end_position": 161
+                "end_position": 161,
+                "url": "https://www.geonames.org/3169070"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +182,8 @@
             "properties": {
                 "source_label": "Neapolis",
                 "start_position": 163,
-                "end_position": 171
+                "end_position": 171,
+                "url": "https://www.geonames.org/3172394"
             },
             "geometry": {
                 "type": "Point",

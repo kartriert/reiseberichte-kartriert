@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 69,
-                "end_position": 73
+                "end_position": 73,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "Neapel",
                 "start_position": 79,
-                "end_position": 85
+                "end_position": 85,
+                "url": "https://www.geonames.org/3172394"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Wien",
                 "start_position": 125,
-                "end_position": 129
+                "end_position": 129,
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Venedig",
                 "start_position": 135,
-                "end_position": 142
+                "end_position": 142,
+                "url": "https://www.geonames.org/3164603"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Florenz",
                 "start_position": 147,
-                "end_position": 154
+                "end_position": 154,
+                "url": "https://www.geonames.org/3176959"
             },
             "geometry": {
                 "type": "Point",

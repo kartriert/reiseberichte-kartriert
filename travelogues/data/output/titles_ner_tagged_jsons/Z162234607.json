@@ -6,7 +6,8 @@
             "properties": {
                 "source_label": "Deutschland",
                 "start_position": 44,
-                "end_position": 55
+                "end_position": 55,
+                "url": "https://www.geonames.org/2921044"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "source_label": "B\u00f6hmen",
                 "start_position": 57,
-                "end_position": 63
+                "end_position": 63,
+                "url": "https://www.geonames.org/3078198"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "source_label": "Ungarn",
                 "start_position": 65,
-                "end_position": 71
+                "end_position": 71,
+                "url": "https://www.geonames.org/719819"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "source_label": "Schweiz",
                 "start_position": 77,
-                "end_position": 84
+                "end_position": 84,
+                "url": "https://www.geonames.org/2658434"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +70,8 @@
             "properties": {
                 "source_label": "Italien",
                 "start_position": 86,
-                "end_position": 93
+                "end_position": 93,
+                "url": "https://www.geonames.org/3175395"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +86,8 @@
             "properties": {
                 "source_label": "Lothringen",
                 "start_position": 98,
-                "end_position": 108
+                "end_position": 108,
+                "url": "https://www.geonames.org/2997551"
             },
             "geometry": {
                 "type": "Point",

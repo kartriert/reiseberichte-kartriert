@@ -6,13 +6,14 @@
             "properties": {
                 "source_label": "Prag",
                 "start_position": 26,
-                "end_position": 30
+                "end_position": 30,
+                "url": "https://www.geonames.org/3067696"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "14.42076",
+                    "50.08804"
                 ]
             }
         }
