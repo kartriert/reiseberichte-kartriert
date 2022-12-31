@@ -4803,13 +4803,13 @@
                 "sentence_idx": 1729,
                 "start_position": 109,
                 "end_position": 116,
-                "url": "https://www.geonames.org/5199648"
+                "url": "https://www.geonames.org/2873891"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-76.39496",
-                    "40.16343"
+                    "8.46694",
+                    "49.4891"
                 ]
             }
         },
@@ -4850,7 +4850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "elbbr cke",
+                "source_label": "elbbrücke",
                 "sentence_idx": 1747,
                 "start_position": 81,
                 "end_position": 91,
@@ -4867,7 +4867,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "schlo gasse",
+                "source_label": "schloßgasse",
                 "sentence_idx": 1751,
                 "start_position": 9,
                 "end_position": 21,
@@ -4956,13 +4956,13 @@
                 "sentence_idx": 1828,
                 "start_position": 117,
                 "end_position": 118,
-                "url": "https://www.geonames.org/5485606"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-103.72567",
-                    "35.17116"
+                    null,
+                    null
                 ]
             }
         },
@@ -4990,13 +4990,13 @@
                 "sentence_idx": 1830,
                 "start_position": 10,
                 "end_position": 15,
-                "url": "https://www.geonames.org/11497732"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.34319",
-                    "39.07233"
+                    null,
+                    null
                 ]
             }
         },
@@ -5007,13 +5007,13 @@
                 "sentence_idx": 1872,
                 "start_position": 46,
                 "end_position": 54,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/744906"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "29.08268",
+                    "40.97882"
                 ]
             }
         },
@@ -5024,13 +5024,13 @@
                 "sentence_idx": 1881,
                 "start_position": 4,
                 "end_position": 14,
-                "url": "https://www.geonames.org/2930240"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "13.60464",
-                    "53.12505"
+                    null,
+                    null
                 ]
             }
         },
@@ -5041,13 +5041,13 @@
                 "sentence_idx": 1905,
                 "start_position": 145,
                 "end_position": 153,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/744906"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "29.08268",
+                    "40.97882"
                 ]
             }
         },
@@ -5075,13 +5075,13 @@
                 "sentence_idx": 1925,
                 "start_position": 58,
                 "end_position": 66,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/744906"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "29.08268",
+                    "40.97882"
                 ]
             }
         },
@@ -5092,13 +5092,13 @@
                 "sentence_idx": 1925,
                 "start_position": 191,
                 "end_position": 199,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/744906"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "29.08268",
+                    "40.97882"
                 ]
             }
         },
@@ -5177,13 +5177,13 @@
                 "sentence_idx": 2011,
                 "start_position": 46,
                 "end_position": 52,
-                "url": "https://www.geonames.org/825834"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "20.86212",
-                    "54.37542"
+                    null,
+                    null
                 ]
             }
         },
@@ -5211,13 +5211,13 @@
                 "sentence_idx": 2019,
                 "start_position": 30,
                 "end_position": 36,
-                "url": "https://www.geonames.org/825834"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "20.86212",
-                    "54.37542"
+                    null,
+                    null
                 ]
             }
         },
@@ -5228,13 +5228,13 @@
                 "sentence_idx": 2019,
                 "start_position": 112,
                 "end_position": 117,
-                "url": "https://www.geonames.org/6628077"
+                "url": "https://www.geonames.org/2761369"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-56.4",
-                    "-83.983"
+                    "16.37208",
+                    "48.20849"
                 ]
             }
         },
@@ -5258,17 +5258,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "ru land",
+                "source_label": "rußland",
                 "sentence_idx": 2027,
                 "start_position": 55,
                 "end_position": 63,
-                "url": "https://www.geonames.org/2950159"
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "13.41053",
-                    "52.52437"
+                    "100",
+                    "60"
                 ]
             }
         },
@@ -5347,13 +5347,13 @@
                 "sentence_idx": 2085,
                 "start_position": 17,
                 "end_position": 24,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -5398,13 +5398,13 @@
                 "sentence_idx": 2088,
                 "start_position": 105,
                 "end_position": 106,
-                "url": "https://www.geonames.org/5485606"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-103.72567",
-                    "35.17116"
+                    null,
+                    null
                 ]
             }
         },
@@ -5432,13 +5432,13 @@
                 "sentence_idx": 2127,
                 "start_position": 148,
                 "end_position": 154,
-                "url": "https://www.geonames.org/1269843"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "78.45636",
-                    "17.38405"
+                    null,
+                    null
                 ]
             }
         },
@@ -5598,17 +5598,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "ru land",
+                "source_label": "rußland",
                 "sentence_idx": 2212,
                 "start_position": 20,
                 "end_position": 28,
-                "url": "https://www.geonames.org/2950159"
+                "url": "https://www.geonames.org/2017370"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "13.41053",
-                    "52.52437"
+                    "100",
+                    "60"
                 ]
             }
         },
@@ -5636,13 +5636,13 @@
                 "sentence_idx": 2229,
                 "start_position": 28,
                 "end_position": 34,
-                "url": "https://www.geonames.org/825834"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "20.86212",
-                    "54.37542"
+                    null,
+                    null
                 ]
             }
         },
@@ -5653,13 +5653,13 @@
                 "sentence_idx": 2231,
                 "start_position": 17,
                 "end_position": 23,
-                "url": "https://www.geonames.org/825834"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "20.86212",
-                    "54.37542"
+                    null,
+                    null
                 ]
             }
         },
@@ -5687,13 +5687,13 @@
                 "sentence_idx": 2233,
                 "start_position": 34,
                 "end_position": 35,
-                "url": "https://www.geonames.org/5485606"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-103.72567",
-                    "35.17116"
+                    null,
+                    null
                 ]
             }
         },
@@ -5857,13 +5857,13 @@
                 "sentence_idx": 2331,
                 "start_position": 45,
                 "end_position": 46,
-                "url": "https://www.geonames.org/5485606"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-103.72567",
-                    "35.17116"
+                    null,
+                    null
                 ]
             }
         },
@@ -5925,13 +5925,13 @@
                 "sentence_idx": 2352,
                 "start_position": 107,
                 "end_position": 118,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2898171"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "12.93904",
+                    "51.27782"
                 ]
             }
         },
@@ -5976,13 +5976,13 @@
                 "sentence_idx": 2356,
                 "start_position": 16,
                 "end_position": 23,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2853707"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.87565",
+                    "51.0073"
                 ]
             }
         },
@@ -6010,13 +6010,13 @@
                 "sentence_idx": 2377,
                 "start_position": 135,
                 "end_position": 142,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -6061,13 +6061,13 @@
                 "sentence_idx": 2394,
                 "start_position": 288,
                 "end_position": 295,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2853707"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.87565",
+                    "51.0073"
                 ]
             }
         },
@@ -6095,13 +6095,13 @@
                 "sentence_idx": 2398,
                 "start_position": 80,
                 "end_position": 89,
-                "url": "https://www.geonames.org/2824801"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "11.74598",
-                    "49.50126"
+                    null,
+                    null
                 ]
             }
         },
@@ -6193,17 +6193,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "preu en",
+                "source_label": "preußen",
                 "sentence_idx": 2420,
                 "start_position": 321,
                 "end_position": 329,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/3082436"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "18",
+                    "53.5"
                 ]
             }
         },
@@ -6435,20 +6435,20 @@
                 "sentence_idx": 2517,
                 "start_position": 121,
                 "end_position": 128,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2853707"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.87565",
+                    "51.0073"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "k nigstein",
+                "source_label": "königstein",
                 "sentence_idx": 2517,
                 "start_position": 130,
                 "end_position": 141,
@@ -6588,13 +6588,13 @@
                 "sentence_idx": 2576,
                 "start_position": 32,
                 "end_position": 38,
-                "url": "https://www.geonames.org/2288869"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.56938",
-                    "5.08226"
+                    null,
+                    null
                 ]
             }
         },
@@ -6860,13 +6860,13 @@
                 "sentence_idx": 2637,
                 "start_position": 45,
                 "end_position": 55,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6324592"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "11.50332",
+                    "48.15822"
                 ]
             }
         },
@@ -6877,13 +6877,13 @@
                 "sentence_idx": 2637,
                 "start_position": 57,
                 "end_position": 66,
-                "url": "https://www.geonames.org/2953501"
+                "url": "https://www.geonames.org/6324592"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "8.69141",
-                    "50.62885"
+                    "11.50332",
+                    "48.15822"
                 ]
             }
         },
@@ -6894,13 +6894,13 @@
                 "sentence_idx": 2637,
                 "start_position": 68,
                 "end_position": 79,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6324592"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "11.50332",
+                    "48.15822"
                 ]
             }
         },
@@ -6911,13 +6911,13 @@
                 "sentence_idx": 2637,
                 "start_position": 81,
                 "end_position": 90,
-                "url": "https://www.geonames.org/6929922"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "7.62836",
-                    "47.49131"
+                    null,
+                    null
                 ]
             }
         },
@@ -6941,17 +6941,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "rstenried",
+                "source_label": "fürstenried",
                 "sentence_idx": 2637,
                 "start_position": 124,
                 "end_position": 133,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2923602"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "11.48118",
+                    "48.088"
                 ]
             }
         },
@@ -6979,13 +6979,13 @@
                 "sentence_idx": 2637,
                 "start_position": 148,
                 "end_position": 152,
-                "url": "https://www.geonames.org/2661557"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "9.16635",
-                    "47.57879"
+                    null,
+                    null
                 ]
             }
         },
@@ -7047,13 +7047,13 @@
                 "sentence_idx": 2637,
                 "start_position": 182,
                 "end_position": 186,
-                "url": "https://www.geonames.org/345082"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "39.07482",
-                    "13.33968"
+                    null,
+                    null
                 ]
             }
         },
@@ -7064,13 +7064,13 @@
                 "sentence_idx": 2637,
                 "start_position": 188,
                 "end_position": 190,
-                "url": "https://www.geonames.org/6255151"
+                "url": "https://www.geonames.org/None"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "138.51562",
-                    "-18.31281"
+                    null,
+                    null
                 ]
             }
         },
@@ -7149,23 +7149,6 @@
                 "sentence_idx": 2639,
                 "start_position": 37,
                 "end_position": 46,
-                "url": "https://www.geonames.org/11281634"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "9.18002",
-                    "48.77987"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "w rtemberg",
-                "sentence_idx": 2641,
-                "start_position": 14,
-                "end_position": 25,
                 "url": "https://www.geonames.org/None"
             },
             "geometry": {
@@ -7173,6 +7156,23 @@
                 "coordinates": [
                     null,
                     null
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "würtemberg",
+                "sentence_idx": 2641,
+                "start_position": 14,
+                "end_position": 25,
+                "url": "https://www.geonames.org/2953481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9",
+                    "48.5"
                 ]
             }
         },
@@ -7183,13 +7183,13 @@
                 "sentence_idx": 2642,
                 "start_position": 0,
                 "end_position": 9,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2825297"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "9.17702",
+                    "48.78232"
                 ]
             }
         },
@@ -7268,13 +7268,13 @@
                 "sentence_idx": 2647,
                 "start_position": 290,
                 "end_position": 301,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2898171"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "12.93904",
+                    "51.27782"
                 ]
             }
         },
@@ -7302,13 +7302,13 @@
                 "sentence_idx": 2647,
                 "start_position": 336,
                 "end_position": 346,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2813417"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "13.85938",
+                    "50.93333"
                 ]
             }
         },
