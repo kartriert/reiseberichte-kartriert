@@ -1,7 +1,7 @@
 # Subproject "Travelogues"
 
 ## The workflow
-![](data/images/workflow.png)
+![](data/images/workflow-2.png)
 
 ## Scripts and modules
 
