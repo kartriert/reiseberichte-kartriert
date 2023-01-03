@@ -174,7 +174,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "d\u00e4nemark",
+                "source_label": "daenemark",
                 "sentence_idx": 28,
                 "start_position": 15,
                 "end_position": 25,
@@ -6022,7 +6022,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "d\u00e4nemark",
+                "source_label": "daenemark",
                 "sentence_idx": 1173,
                 "start_position": 183,
                 "end_position": 190,
@@ -6498,17 +6498,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "k hira",
+                "source_label": "kahira",
                 "sentence_idx": 1226,
                 "start_position": 120,
                 "end_position": 126,
-                "url": "https://www.geonames.org/5287953"
+                "url": "https://www.geonames.org/360630"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "31.24967",
+                    "30.06263"
                 ]
             }
         },
@@ -10646,17 +10646,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "k hira",
+                "source_label": "kahira",
                 "sentence_idx": 2756,
                 "start_position": 160,
                 "end_position": 167,
-                "url": "https://www.geonames.org/5287953"
+                "url": "https://www.geonames.org/360630"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "31.24967",
+                    "30.06263"
                 ]
             }
         },
@@ -19937,8 +19937,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -19988,8 +19988,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -20073,8 +20073,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21144,8 +21144,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21212,8 +21212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21263,8 +21263,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21365,8 +21365,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21382,8 +21382,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21501,8 +21501,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -21688,8 +21688,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -22011,8 +22011,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -22300,8 +22300,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -22572,8 +22572,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -22606,8 +22606,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -23116,8 +23116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -24289,8 +24289,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -24867,8 +24867,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -24884,8 +24884,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -25836,8 +25836,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -25997,17 +25997,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "mochha f",
+                "source_label": "mochha",
                 "sentence_idx": 6769,
                 "start_position": 249,
                 "end_position": 257,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/7086188"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26176,8 +26176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26193,8 +26193,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26227,8 +26227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26278,8 +26278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26312,8 +26312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26414,8 +26414,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26482,8 +26482,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26499,8 +26499,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26516,8 +26516,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26533,8 +26533,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26550,8 +26550,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26584,8 +26584,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26601,8 +26601,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26618,8 +26618,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26635,8 +26635,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26686,8 +26686,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26737,8 +26737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26754,8 +26754,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26788,8 +26788,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -26915,17 +26915,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "mochha sandten",
+                "source_label": "mochha",
                 "sentence_idx": 6977,
                 "start_position": 194,
                 "end_position": 208,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/7086188"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -33783,17 +33783,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "d nnemark",
+                "source_label": "daenemark",
                 "sentence_idx": 8493,
                 "start_position": 74,
                 "end_position": 84,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2623032"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "10",
+                    "56"
                 ]
             }
         },
@@ -34123,17 +34123,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "k hira",
+                "source_label": "kahira",
                 "sentence_idx": 8525,
                 "start_position": 37,
                 "end_position": 44,
-                "url": "https://www.geonames.org/5287953"
+                "url": "https://www.geonames.org/360630"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-110.61149",
-                    "33.36228"
+                    "31.24967",
+                    "30.06263"
                 ]
             }
         },
@@ -34531,17 +34531,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "d nnemark",
+                "source_label": "daenemark",
                 "sentence_idx": 8548,
                 "start_position": 62,
                 "end_position": 72,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2623032"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "10",
+                    "56"
                 ]
             }
         },
@@ -36087,8 +36087,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36240,8 +36240,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36410,8 +36410,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36427,8 +36427,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36461,8 +36461,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36478,8 +36478,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36792,17 +36792,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "d nnemark",
+                "source_label": "daenemark",
                 "sentence_idx": 9466,
                 "start_position": 302,
                 "end_position": 312,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2623032"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "10",
+                    "56"
                 ]
             }
         },
@@ -36954,8 +36954,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -36971,8 +36971,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -37430,8 +37430,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -37447,8 +37447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -37464,8 +37464,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
@@ -37515,8 +37515,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "73.36598",
+                    "33.71494"
                 ]
             }
         },
