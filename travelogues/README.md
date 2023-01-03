@@ -8,6 +8,7 @@
 ### Correction of OCR output
 
 Lisa: Writing the script
+
 [Link to the finished script](./src/correct_ocr.py)
 
 ### Named Entity Recognition in text files
