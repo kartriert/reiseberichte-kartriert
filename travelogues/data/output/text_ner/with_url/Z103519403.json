@@ -2146,8 +2146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "schleißheim
-                ",
+                "source_label": "schleißheim",
                 "sentence_idx": 670,
                 "start_position": 196,
                 "end_position": 208,
