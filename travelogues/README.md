@@ -1,22 +1,34 @@
 # Subproject "Travelogues"
 
 ## The workflow
+
+This image shows a short recap of how we, the Travelogues subproject team, proceeded to go from text files to corrected
+GeoJSON files for the map. Further description of working processes can be read in the sections below.
 ![](data/images/workflow-2.png)
 
 ## Scripts and modules
 
 ### Correction of OCR output
+@Wandvieh
 
 Lisa: Writing the script
 
 [Link to the finished script](./src/correct_ocr.py)
 
 ### Named Entity Recognition in text files
+@sarahondraszek
 
-
+The named entitiy recognition on all files was done using the [NER model](https://huggingface.co/dbmdz/flair-historic-ner-onb) 
+for historic German. For doing so, I coded the Jupyter Notebook [NER_pipeline](./src/NER_pipeline.ipynb), with which users 
+can utilise the model to predict named entities in both entire Travelogues' text files or titles. Since the model, implemented
+in flair, takes a lot of time to deliver results, we decided on processing only a small portion of files, hence the possibilty
+to set a number of files in the script. Additionally, I added the direct creation of GeoJSON files for the texts and titles
+to the pipeline. 
+A more detailed description and prerequisites of packages can be found directly in the script.
 
 
 ### Post-correction of (Geo)JSON files
+@sarahondraszek 
 
 In order to get the best results, we decided it would be beneficial to manually correct the JSON files
 that contain the NER results for the travelogues. To do this in a relatively fast manner, we
@@ -37,6 +49,7 @@ We used this [format](https://en.wikipedia.org/wiki/GeoJSON) for the GeoJSONs.
 A finished example file can be found [here](./data/output/text_ner/with_url/finished/Z114800707.json).
 
 ## Manual Post-Correction for (Geo)JSON files
+@eddasof
 
 ### Step 1
 
