@@ -1164,13 +1164,13 @@
                 "sentence_idx": 286,
                 "start_position": 35,
                 "end_position": 42,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -1245,34 +1245,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": ";",
-                "sentence_idx": 304,
-                "start_position": 189,
-                "end_position": 190,
-                "url": "https://www.geonames.org/5485606"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-103.72567",
-                    "35.17116"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "source_label": "england",
                 "sentence_idx": 307,
                 "start_position": 19,
                 "end_position": 26,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -1402,13 +1385,13 @@
                 "sentence_idx": 308,
                 "start_position": 85,
                 "end_position": 92,
-                "url": "https://www.geonames.org/4980927"
+                "url": "https://www.geonames.org/2635680"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-69.97588",
-                    "43.92758"
+                    "-3.46696",
+                    "50.68596"
                 ]
             }
         },
@@ -1453,13 +1436,13 @@
                 "sentence_idx": 308,
                 "start_position": 142,
                 "end_position": 149,
-                "url": "https://www.geonames.org/6640368"
+                "url": "https://www.geonames.org/2963597"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5",
-                    "53.66667"
+                    "-8",
+                    "53"
                 ]
             }
         },
@@ -1606,13 +1589,13 @@
                 "sentence_idx": 323,
                 "start_position": 235,
                 "end_position": 242,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -1687,34 +1670,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro",
+                "source_label": "großbritannien",
                 "sentence_idx": 352,
                 "start_position": 41,
                 "end_position": 44,
-                "url": "https://www.geonames.org/3530870"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-99.50578",
-                    "17.5506"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "bri tannien",
-                "sentence_idx": 352,
-                "start_position": 46,
-                "end_position": 58,
-                "url": "https://www.geonames.org/None"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -1759,13 +1725,13 @@
                 "sentence_idx": 371,
                 "start_position": 70,
                 "end_position": 77,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -1823,17 +1789,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "schottland",
+                "source_label": "neu-schottland",
                 "sentence_idx": 409,
                 "start_position": 13,
                 "end_position": 23,
-                "url": "https://www.geonames.org/2638360"
+                "url": "https://www.geonames.org/6091530"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4",
-                    "56"
+                    "-62.99865",
+                    "45.00015"
                 ]
             }
         },
@@ -1844,13 +1810,13 @@
                 "sentence_idx": 410,
                 "start_position": 71,
                 "end_position": 78,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -1861,13 +1827,13 @@
                 "sentence_idx": 433,
                 "start_position": 0,
                 "end_position": 8,
-                "url": "https://www.geonames.org/614540"
+                "url": "https://www.geonames.org/4197000"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.4999",
-                    "41.99998"
+                    "-83.50018",
+                    "32.75042"
                 ]
             }
         },
@@ -1878,13 +1844,13 @@
                 "sentence_idx": 437,
                 "start_position": 33,
                 "end_position": 40,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -1908,17 +1874,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "schottland",
+                "source_label": "neu-schottland",
                 "sentence_idx": 439,
                 "start_position": 32,
                 "end_position": 42,
-                "url": "https://www.geonames.org/2638360"
+                "url": "https://www.geonames.org/6091530"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4",
-                    "56"
+                    "-62.99865",
+                    "45.00015"
                 ]
             }
         },
@@ -1980,37 +1946,37 @@
                 "sentence_idx": 458,
                 "start_position": 26,
                 "end_position": 36,
-                "url": "https://www.geonames.org/3163791"
+                "url": "https://www.geonames.org/5915569"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.83333",
-                    "43.66667"
+                    "-60.80521",
+                    "46.0332"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "schottland",
+                "source_label": "neu-schottland",
                 "sentence_idx": 466,
                 "start_position": 115,
                 "end_position": 125,
-                "url": "https://www.geonames.org/2638360"
+                "url": "https://www.geonames.org/6091530"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4",
-                    "56"
+                    "-62.99865",
+                    "45.00015"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 469,
                 "start_position": 63,
                 "end_position": 70,
@@ -2031,13 +1997,13 @@
                 "sentence_idx": 469,
                 "start_position": 177,
                 "end_position": 184,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -2061,7 +2027,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 472,
                 "start_position": 101,
                 "end_position": 108,
@@ -2078,7 +2044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 477,
                 "start_position": 397,
                 "end_position": 404,
@@ -2112,7 +2078,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 481,
                 "start_position": 197,
                 "end_position": 204,
@@ -2129,7 +2095,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 483,
                 "start_position": 232,
                 "end_position": 239,
@@ -2146,7 +2112,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 485,
                 "start_position": 19,
                 "end_position": 26,
@@ -2163,7 +2129,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 493,
                 "start_position": 80,
                 "end_position": 87,
@@ -2180,7 +2146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 495,
                 "start_position": 17,
                 "end_position": 24,
@@ -2197,7 +2163,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 499,
                 "start_position": 53,
                 "end_position": 60,
@@ -2214,7 +2180,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 504,
                 "start_position": 19,
                 "end_position": 26,
@@ -2235,20 +2201,20 @@
                 "sentence_idx": 504,
                 "start_position": 75,
                 "end_position": 87,
-                "url": "https://www.geonames.org/5224151"
+                "url": "https://www.geonames.org/5224323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.41283",
-                    "41.82399"
+                    "-71.49978",
+                    "41.75038"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 506,
                 "start_position": 49,
                 "end_position": 56,
@@ -2265,41 +2231,24 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "rhode",
+                "source_label": "rhode island",
                 "sentence_idx": 506,
                 "start_position": 147,
                 "end_position": 152,
-                "url": "https://www.geonames.org/5224151"
+                "url": "https://www.geonames.org/5224323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.41283",
-                    "41.82399"
+                    "-71.49978",
+                    "41.75038"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "zsland",
-                "sentence_idx": 506,
-                "start_position": 153,
-                "end_position": 159,
-                "url": "https://www.geonames.org/None"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    null,
-                    null
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 506,
                 "start_position": 214,
                 "end_position": 221,
@@ -2316,7 +2265,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 506,
                 "start_position": 337,
                 "end_position": 344,
@@ -2350,51 +2299,34 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "rhode",
+                "source_label": "rhode island",
                 "sentence_idx": 507,
                 "start_position": 50,
                 "end_position": 55,
-                "url": "https://www.geonames.org/5224151"
+                "url": "https://www.geonames.org/5224323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.41283",
-                    "41.82399"
+                    "-71.49978",
+                    "41.75038"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "island",
-                "sentence_idx": 507,
-                "start_position": 56,
-                "end_position": 62,
-                "url": "https://www.geonames.org/2629691"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-18",
-                    "65"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "hampshire",
+                "source_label": "neu-hampshire",
                 "sentence_idx": 507,
                 "start_position": 71,
                 "end_position": 80,
-                "url": "https://www.geonames.org/5089178"
+                "url": "https://www.geonames.org/5090174"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.45479",
-                    "42.99564"
+                    "-71.4998",
+                    "43.66702"
                 ]
             }
         },
@@ -2418,58 +2350,41 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "hampshire",
+                "source_label": "neu-hampshire",
                 "sentence_idx": 508,
                 "start_position": 141,
                 "end_position": 150,
-                "url": "https://www.geonames.org/5089178"
+                "url": "https://www.geonames.org/5090174"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71.45479",
-                    "42.99564"
+                    "-71.4998",
+                    "43.66702"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro",
+                "source_label": "großbritannien",
                 "sentence_idx": 508,
                 "start_position": 156,
                 "end_position": 159,
-                "url": "https://www.geonames.org/3530870"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-99.50578",
-                    "17.5506"
+                    "-2",
+                    "54"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "britan nien",
-                "sentence_idx": 508,
-                "start_position": 161,
-                "end_position": 175,
-                "url": "https://www.geonames.org/None"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    null,
-                    null
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 510,
                 "start_position": 87,
                 "end_position": 94,
@@ -2486,7 +2401,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 510,
                 "start_position": 238,
                 "end_position": 245,
@@ -2507,13 +2422,13 @@
                 "sentence_idx": 511,
                 "start_position": 61,
                 "end_position": 69,
-                "url": "https://www.geonames.org/8152526"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "153.11791",
-                    "-30.2985"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -2524,20 +2439,20 @@
                 "sentence_idx": 513,
                 "start_position": 248,
                 "end_position": 256,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 513,
                 "start_position": 266,
                 "end_position": 273,
@@ -2554,7 +2469,7 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 515,
                 "start_position": 31,
                 "end_position": 38,
@@ -2592,13 +2507,13 @@
                 "sentence_idx": 556,
                 "start_position": 33,
                 "end_position": 41,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2643,13 +2558,13 @@
                 "sentence_idx": 560,
                 "start_position": 323,
                 "end_position": 330,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -2660,13 +2575,13 @@
                 "sentence_idx": 563,
                 "start_position": 55,
                 "end_position": 63,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2690,24 +2605,24 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "pork",
+                "source_label": "neu-york",
                 "sentence_idx": 566,
                 "start_position": 44,
                 "end_position": 48,
-                "url": "https://www.geonames.org/3163671"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-13.5",
-                    "53.33333"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "england",
+                "source_label": "neu-england",
                 "sentence_idx": 582,
                 "start_position": 67,
                 "end_position": 74,
@@ -2728,13 +2643,13 @@
                 "sentence_idx": 583,
                 "start_position": 21,
                 "end_position": 29,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2809,17 +2724,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "york",
+                "source_label": "neu-york",
                 "sentence_idx": 604,
                 "start_position": 167,
                 "end_position": 171,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2830,13 +2745,13 @@
                 "sentence_idx": 604,
                 "start_position": 368,
                 "end_position": 376,
-                "url": "https://www.geonames.org/5128581"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-74.00597",
-                    "40.71427"
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2847,30 +2762,30 @@
                 "sentence_idx": 604,
                 "start_position": 381,
                 "end_position": 393,
-                "url": "https://www.geonames.org/2615190"
+                "url": "https://www.geonames.org/6254927"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-77.7",
+                    "40.8"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "pork",
+                "source_label": "neu-york",
                 "sentence_idx": 608,
                 "start_position": 166,
                 "end_position": 170,
-                "url": "https://www.geonames.org/3163671"
+                "url": "https://www.geonames.org/5128638"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-75.4999",
+                    "43.00035"
                 ]
             }
         },
@@ -2881,13 +2796,13 @@
                 "sentence_idx": 608,
                 "start_position": 175,
                 "end_position": 187,
-                "url": "https://www.geonames.org/2615190"
+                "url": "https://www.geonames.org/6254927"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-77.7",
+                    "40.8"
                 ]
             }
         },
@@ -2920,59 +2835,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-76.74997",
+                    "39.00039"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro",
+                "source_label": "großbritannien",
                 "sentence_idx": 615,
                 "start_position": 19,
                 "end_position": 22,
-                "url": "https://www.geonames.org/3530870"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "vir",
+                "source_label": "virginia",
                 "sentence_idx": 615,
                 "start_position": 40,
                 "end_position": 43,
-                "url": "https://www.geonames.org/2967972"
+                "url": "https://www.geonames.org/6254928"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "ginien",
-                "sentence_idx": 615,
-                "start_position": 47,
-                "end_position": 53,
-                "url": "https://www.geonames.org/None"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    null,
-                    null
+                    "-77.44675",
+                    "37.54812"
                 ]
             }
         },
