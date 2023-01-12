@@ -27,3 +27,7 @@ Tatiana: Z69804407
 - **River names**: Geonames can only use one coordinate for a river. However, for some rivers there are geoname entities where the other metadata seems to be correct (e. g. [Donau](https://www.geonames.org/791630/danube-river.html)).
 - Some locations have been recognized that are **typical historical house names** in Germany (e. g. Zeughaus). Since it wasn't possible without context to know, in what city the mentioned Zeughaus would be located, they will not factor into the clustering. But from context, it should be possible to map these NEs to a city.
 - If there is more then one search result, how does Geonames pick one? E. g. "Hohenheim" was placed in Namibia, because the first search entry is in Namibia. Since the text mostly spoke about southern/eastern Germany, I used the german Hohenheim instead. Sometimes, alternative spelling seems to be taken into account, sometimes not?
+
+## Sarah: File Z114800707
+
+- Constantionpel not recognised as Konstantinopel/Istanbul.
