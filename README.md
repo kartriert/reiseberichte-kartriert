@@ -20,6 +20,6 @@ Moreover, we also built a corpus of Jules Vernes travelogues ... blahblahblahbla
 ### Subprojects and their workflows
 
 #### [Travelogues](travelogues/README.md)
-#### [Jules Vernes](Clusteranalyse/README.md)
+#### [Clusteranalyse](Clusteranalyse/README.md)
 #### [Map](Leaflet-Test/README.md)
 #### Website Development (tba)
