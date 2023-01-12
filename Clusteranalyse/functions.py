@@ -324,8 +324,6 @@ def save_geojson (dict, cluster, name):
         # Feature erstellen
         features = []
         for punkt in cluster[i][0]:
-            print (punkt)
-            print (punkt[0])
             my_point = Point((punkt[0]-180, punkt[1]-180))
             features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
         feature_collection = FeatureCollection(features)
@@ -338,8 +336,6 @@ def save_geojson (dict, cluster, name):
             # Feature erstellen
             features = []
             for punkt in cluster[i][j][0]:
-                print (punkt)
-                print (punkt[0])
                 my_point = Point((punkt[0]-180, punkt[1]-180))
                 features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
             # Abspeichern
@@ -352,8 +348,6 @@ def save_geojson (dict, cluster, name):
                 # Features erstellen
                 features = []
                 for punkt in cluster[i][j][l][0]:
-                    print (punkt)
-                    print (punkt[0])
                     my_point = Point((punkt[0]-180, punkt[1]-180))
                     features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
                 feature_collection = FeatureCollection(features)
