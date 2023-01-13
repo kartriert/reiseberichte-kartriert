@@ -5,8 +5,6 @@
 
 Jan-Philipp: Z103519506
 
-Sarah: Z114800707 (until further notice, it has 38.000 lines...)
-
 Solange: Z114799006
 
 Svenja: Z114801803
@@ -30,7 +28,7 @@ Tatiana: Z69804407
 
 ## Sarah: File Z114800707
 
-- Constantionpel not recognised as Konstantinopel/Istanbul.
+- Constantinopel not recognised as Konstantinopel/Istanbul.
 - Words irregularly misspelled (moch a, mochh , or the like when "mochha" is meant).
 - Singular feature flowing over multiple entries, e.g. two entries "beitel" and "fakih" although "beitelfakih" is meant.
 - URLs only partially added to the correctly recognised locations (due to API hourly limit?).
