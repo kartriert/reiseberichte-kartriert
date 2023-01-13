@@ -12419,13 +12419,13 @@
                 "sentence_idx": 2050,
                 "start_position": 834,
                 "end_position": 841,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -12436,13 +12436,13 @@
                 "sentence_idx": 2053,
                 "start_position": 306,
                 "end_position": 313,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -12460,23 +12460,6 @@
                 "coordinates": [
                     "9.14062",
                     "48.69096"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "colonien",
-                "sentence_idx": 2056,
-                "start_position": 69,
-                "end_position": 77,
-                "url": "https://www.geonames.org/9404328"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "10.42894",
-                    "63.44171"
                 ]
             }
         },
@@ -12589,13 +12572,13 @@
                 "sentence_idx": 2058,
                 "start_position": 44,
                 "end_position": 51,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -12606,13 +12589,13 @@
                 "sentence_idx": 2059,
                 "start_position": 39,
                 "end_position": 46,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -12623,47 +12606,30 @@
                 "sentence_idx": 2061,
                 "start_position": 75,
                 "end_position": 82,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "s",
-                "sentence_idx": 2062,
-                "start_position": 167,
-                "end_position": 168,
-                "url": "https://www.geonames.org/3579925"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-61.75226",
-                    "12.05288"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "d carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2062,
                 "start_position": 170,
                 "end_position": 181,
-                "url": "https://www.geonames.org/4569067"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-81.71955",
-                    "33.56042"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -12721,34 +12687,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "dunmore",
-                "sentence_idx": 2094,
-                "start_position": 126,
-                "end_position": 133,
-                "url": "https://www.geonames.org/6232568"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "174.9502",
-                    "-37.64821"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "source_label": "nord carolina",
                 "sentence_idx": 2115,
                 "start_position": 0,
                 "end_position": 13,
-                "url": "https://www.geonames.org/4487042"
+                "url": "https://www.geonames.org/4482348"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-78.63861",
-                    "35.7721"
+                    "-80.00032",
+                    "35.50069"
                 ]
             }
         },
@@ -12759,13 +12708,13 @@
                 "sentence_idx": 2116,
                 "start_position": 51,
                 "end_position": 58,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -12776,13 +12725,13 @@
                 "sentence_idx": 2116,
                 "start_position": 142,
                 "end_position": 150,
-                "url": "https://www.geonames.org/614540"
+                "url": "https://www.geonames.org/4197000"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.4999",
-                    "41.99998"
+                    "-83.50018",
+                    "32.75042"
                 ]
             }
         },
@@ -12793,13 +12742,13 @@
                 "sentence_idx": 2121,
                 "start_position": 98,
                 "end_position": 106,
-                "url": "https://www.geonames.org/8152526"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "153.11791",
-                    "-30.2985"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -12844,13 +12793,13 @@
                 "sentence_idx": 2129,
                 "start_position": 0,
                 "end_position": 7,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -12878,13 +12827,13 @@
                 "sentence_idx": 2131,
                 "start_position": 48,
                 "end_position": 57,
-                "url": "https://www.geonames.org/6087430"
+                "url": "https://www.geonames.org/4184845"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.99878",
-                    "46.5001"
+                    "-81.49149",
+                    "31.14995"
                 ]
             }
         },
@@ -12895,13 +12844,13 @@
                 "sentence_idx": 2132,
                 "start_position": 197,
                 "end_position": 207,
-                "url": "https://www.geonames.org/4145381"
+                "url": "https://www.geonames.org/4231352"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-75.54659",
-                    "39.74595"
+                    "-80.99706",
+                    "31.98188"
                 ]
             }
         },
@@ -12912,30 +12861,30 @@
                 "sentence_idx": 2132,
                 "start_position": 209,
                 "end_position": 219,
-                "url": "https://www.geonames.org/4145381"
+                "url": "https://www.geonames.org/4231352"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-75.54659",
-                    "39.74595"
+                    "-80.99706",
+                    "31.98188"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2132,
                 "start_position": 305,
                 "end_position": 313,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -12959,17 +12908,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "nord carolina",
                 "sentence_idx": 2134,
                 "start_position": 95,
                 "end_position": 103,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4482348"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-80.00032",
+                    "35.50069"
                 ]
             }
         },
@@ -13010,34 +12959,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "s",
-                "sentence_idx": 2153,
-                "start_position": 17,
-                "end_position": 18,
-                "url": "https://www.geonames.org/3579925"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-61.75226",
-                    "12.05288"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "source_label": "d carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2153,
                 "start_position": 20,
                 "end_position": 30,
-                "url": "https://www.geonames.org/4569067"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-81.71955",
-                    "33.56042"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -13048,30 +12980,30 @@
                 "sentence_idx": 2155,
                 "start_position": 259,
                 "end_position": 266,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2157,
                 "start_position": 116,
                 "end_position": 124,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -13146,17 +13078,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2178,
                 "start_position": 4,
                 "end_position": 12,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -13184,13 +13116,13 @@
                 "sentence_idx": 2179,
                 "start_position": 333,
                 "end_position": 340,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -13218,13 +13150,13 @@
                 "sentence_idx": 2181,
                 "start_position": 143,
                 "end_position": 148,
-                "url": "https://www.geonames.org/2170162"
+                "url": "https://www.geonames.org/2652204"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "145.23865",
-                    "-38.45231"
+                    "-1.29772",
+                    "50.76306"
                 ]
             }
         },
@@ -13252,13 +13184,13 @@
                 "sentence_idx": 2188,
                 "start_position": 3,
                 "end_position": 10,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -13269,30 +13201,30 @@
                 "sentence_idx": 2188,
                 "start_position": 239,
                 "end_position": 246,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-57.65625",
-                    "-14.60485"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2189,
                 "start_position": 63,
                 "end_position": 71,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -13303,13 +13235,13 @@
                 "sentence_idx": 2197,
                 "start_position": 59,
                 "end_position": 67,
-                "url": "https://www.geonames.org/8152526"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "153.11791",
-                    "-30.2985"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -13350,17 +13282,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2204,
                 "start_position": 18,
                 "end_position": 26,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
@@ -13371,13 +13303,13 @@
                 "sentence_idx": 2204,
                 "start_position": 31,
                 "end_position": 38,
-                "url": "https://www.geonames.org/12217087"
+                "url": "https://www.geonames.org/4155751"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-81",
-                    "26.5"
+                    "-82.5001",
+                    "28.75054"
                 ]
             }
         },
@@ -13388,13 +13320,13 @@
                 "sentence_idx": 2204,
                 "start_position": 43,
                 "end_position": 51,
-                "url": "https://www.geonames.org/614540"
+                "url": "https://www.geonames.org/4197000"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.4999",
-                    "41.99998"
+                    "-83.50018",
+                    "32.75042"
                 ]
             }
         },
@@ -13405,13 +13337,13 @@
                 "sentence_idx": 2206,
                 "start_position": 0,
                 "end_position": 8,
-                "url": "https://www.geonames.org/614540"
+                "url": "https://www.geonames.org/4197000"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.4999",
-                    "41.99998"
+                    "-83.50018",
+                    "32.75042"
                 ]
             }
         },
