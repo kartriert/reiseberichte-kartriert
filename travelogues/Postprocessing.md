@@ -17,6 +17,7 @@ Tatiana: Z69804407
 - There are many locations mentioned that are differently named in their original language. Example: "Jihlava" in the Czech Republic is called "Iglau" in the text (the German version of the name). Change the name in the GeoJSON file to the original name or leave it be?
 - The GeoJSONS won't show umlaute/mutated vowels (ä, ö, ü) and ß. This leads to some location names not being recognized. Example: GeoJSON shows "pre burg" instead of "preßburg". Another Example: GeoJSON shows "olm" instead of "olmütz", which resulted in pointing to the wrong location. Is this a conversion error? If yes, could this have been prevented?
 - In case of rivers, GeoJSONS will point to where the river enters another body of water (e.g. sea, ocean). Will this alter the location of our cluster points too much?
+- Sometimes only Coordinates or only the URL is missing (due to hourly API limit?)
 
 ## Edda: File Z103519403
 
