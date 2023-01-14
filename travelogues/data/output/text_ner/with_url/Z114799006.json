@@ -13350,17 +13350,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "lond",
+                "source_label": "london",
                 "sentence_idx": 2207,
                 "start_position": 86,
                 "end_position": 90,
-                "url": "https://www.geonames.org/1345791"
+                "url": "https://www.geonames.org/2643743"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "64.53104",
-                    "28.7504"
+                    "-0.12574",
+                    "51.50853"
                 ]
             }
         },
@@ -13371,30 +13371,30 @@
                 "sentence_idx": 2216,
                 "start_position": 0,
                 "end_position": 8,
-                "url": "https://www.geonames.org/12105074"
+                "url": "https://www.geonames.org/4221552"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6",
-                    "9.15"
+                    "-81.09983",
+                    "32.08354"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "carolina",
+                "source_label": "sued carolina",
                 "sentence_idx": 2227,
                 "start_position": 90,
                 "end_position": 98,
-                "url": "https://www.geonames.org/4563243"
+                "url": "https://www.geonames.org/4597040"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-65.95739",
-                    "18.38078"
+                    "-81.00009",
+                    "34.00043"
                 ]
             }
         },
