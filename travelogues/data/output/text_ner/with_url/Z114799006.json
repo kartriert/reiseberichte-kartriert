@@ -518,13 +518,13 @@
                 "sentence_idx": 92,
                 "start_position": 120,
                 "end_position": 131,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -548,17 +548,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "oluebek",
+                "source_label": "quebek",
                 "sentence_idx": 93,
                 "start_position": 18,
                 "end_position": 25,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6115047"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-71.99907",
+                    "52.00017"
                 ]
             }
         },
@@ -654,13 +654,13 @@
                 "sentence_idx": 110,
                 "start_position": 200,
                 "end_position": 211,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -688,30 +688,30 @@
                 "sentence_idx": 126,
                 "start_position": 124,
                 "end_position": 131,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "hudfons bay",
+                "source_label": "hudsons bay",
                 "sentence_idx": 126,
                 "start_position": 137,
                 "end_position": 148,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -722,13 +722,13 @@
                 "sentence_idx": 126,
                 "start_position": 206,
                 "end_position": 213,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -739,13 +739,13 @@
                 "sentence_idx": 127,
                 "start_position": 121,
                 "end_position": 128,
-                "url": "https://www.geonames.org/11919979"
+                "url": "https://www.geonames.org/6269131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-71",
-                    "44"
+                    "-0.70312",
+                    "52.16045"
                 ]
             }
         },
@@ -756,13 +756,13 @@
                 "sentence_idx": 129,
                 "start_position": 123,
                 "end_position": 134,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -786,17 +786,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "ouebeck",
+                "source_label": "quebeck",
                 "sentence_idx": 134,
                 "start_position": 53,
                 "end_position": 60,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6115047"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-71.99907",
+                    "52.00017"
                 ]
             }
         },
@@ -820,17 +820,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "hudfonsbay",
+                "source_label": "hudsons bay",
                 "sentence_idx": 148,
                 "start_position": 112,
                 "end_position": 122,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -841,13 +841,13 @@
                 "sentence_idx": 154,
                 "start_position": 311,
                 "end_position": 322,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -858,30 +858,30 @@
                 "sentence_idx": 171,
                 "start_position": 55,
                 "end_position": 66,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "hudsons",
+                "source_label": "hudsons bay",
                 "sentence_idx": 188,
                 "start_position": 68,
                 "end_position": 75,
-                "url": "https://www.geonames.org/6640370"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-70",
-                    "62"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -892,47 +892,47 @@
                 "sentence_idx": 190,
                 "start_position": 39,
                 "end_position": 50,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gr nland",
+                "source_label": "groenland",
                 "sentence_idx": 190,
                 "start_position": 91,
                 "end_position": 100,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/3425505"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-40",
+                    "72"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "hudsonsbay",
+                "source_label": "hudsons bay",
                 "sentence_idx": 225,
                 "start_position": 80,
                 "end_position": 90,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -943,13 +943,13 @@
                 "sentence_idx": 236,
                 "start_position": 87,
                 "end_position": 96,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6269134"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "76.97021",
+                    "22.20775"
                 ]
             }
         },
@@ -1011,13 +1011,13 @@
                 "sentence_idx": 261,
                 "start_position": 55,
                 "end_position": 66,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -1079,30 +1079,30 @@
                 "sentence_idx": 277,
                 "start_position": 69,
                 "end_position": 80,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 284,
                 "start_position": 156,
                 "end_position": 171,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -1181,7 +1181,7 @@
                 "sentence_idx": 294,
                 "start_position": 134,
                 "end_position": 152,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
@@ -1215,13 +1215,13 @@
                 "sentence_idx": 296,
                 "start_position": 0,
                 "end_position": 12,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1232,13 +1232,13 @@
                 "sentence_idx": 304,
                 "start_position": 177,
                 "end_position": 189,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1283,13 +1283,13 @@
                 "sentence_idx": 307,
                 "start_position": 43,
                 "end_position": 55,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1317,30 +1317,30 @@
                 "sentence_idx": 308,
                 "start_position": 50,
                 "end_position": 54,
-                "url": "https://www.geonames.org/2255404"
+                "url": "https://www.geonames.org/3333182"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "14.83333",
-                    "-3.53333"
+                    "-1.96667",
+                    "50.73333"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "weimout",
+                "source_label": "weymouth",
                 "sentence_idx": 308,
                 "start_position": 56,
                 "end_position": 63,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2634202"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2.45991",
+                    "50.61448"
                 ]
             }
         },
@@ -1453,13 +1453,13 @@
                 "sentence_idx": 308,
                 "start_position": 155,
                 "end_position": 167,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1521,13 +1521,13 @@
                 "sentence_idx": 309,
                 "start_position": 51,
                 "end_position": 63,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1572,13 +1572,13 @@
                 "sentence_idx": 309,
                 "start_position": 476,
                 "end_position": 488,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -1623,13 +1623,13 @@
                 "sentence_idx": 346,
                 "start_position": 627,
                 "end_position": 639,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -2010,17 +2010,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 471,
                 "start_position": 151,
                 "end_position": 166,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2061,17 +2061,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 477,
                 "start_position": 587,
                 "end_position": 602,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2282,17 +2282,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 507,
                 "start_position": 16,
                 "end_position": 31,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2486,17 +2486,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 522,
                 "start_position": 97,
                 "end_position": 112,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2588,17 +2588,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 563,
                 "start_position": 68,
                 "end_position": 83,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2656,17 +2656,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 593,
                 "start_position": 19,
                 "end_position": 34,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2707,17 +2707,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 595,
                 "start_position": 359,
                 "end_position": 374,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -2996,17 +2996,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 629,
                 "start_position": 37,
                 "end_position": 52,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3081,17 +3081,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 635,
                 "start_position": 143,
                 "end_position": 158,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3217,17 +3217,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 666,
                 "start_position": 324,
                 "end_position": 339,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3336,17 +3336,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 688,
                 "start_position": 68,
                 "end_position": 83,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3438,17 +3438,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 706,
                 "start_position": 136,
                 "end_position": 151,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3507,17 +3507,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 707,
                 "start_position": 51,
                 "end_position": 66,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3643,17 +3643,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 739,
                 "start_position": 198,
                 "end_position": 213,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3711,17 +3711,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 743,
                 "start_position": 115,
                 "end_position": 130,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -3915,17 +3915,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 807,
                 "start_position": 19,
                 "end_position": 34,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -4174,13 +4174,13 @@
                 "sentence_idx": 884,
                 "start_position": 144,
                 "end_position": 156,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -4225,13 +4225,13 @@
                 "sentence_idx": 926,
                 "start_position": 416,
                 "end_position": 427,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -4310,13 +4310,13 @@
                 "sentence_idx": 931,
                 "start_position": 87,
                 "end_position": 99,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -4748,17 +4748,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 994,
                 "start_position": 71,
                 "end_position": 86,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -5007,13 +5007,13 @@
                 "sentence_idx": 1013,
                 "start_position": 128,
                 "end_position": 140,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -5802,17 +5802,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1333,
                 "start_position": 227,
                 "end_position": 242,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -5887,34 +5887,34 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1338,
                 "start_position": 222,
                 "end_position": 237,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1341,
                 "start_position": 38,
                 "end_position": 53,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -6295,17 +6295,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1375,
                 "start_position": 254,
                 "end_position": 269,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -6346,17 +6346,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1377,
                 "start_position": 139,
                 "end_position": 154,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -6584,17 +6584,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 1397,
                 "start_position": 40,
                 "end_position": 56,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -6809,13 +6809,13 @@
                 "sentence_idx": 1434,
                 "start_position": 69,
                 "end_position": 81,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7336,13 +7336,13 @@
                 "sentence_idx": 1511,
                 "start_position": 0,
                 "end_position": 12,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7438,13 +7438,13 @@
                 "sentence_idx": 1529,
                 "start_position": 166,
                 "end_position": 178,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7693,13 +7693,13 @@
                 "sentence_idx": 1563,
                 "start_position": 0,
                 "end_position": 12,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7710,13 +7710,13 @@
                 "sentence_idx": 1564,
                 "start_position": 10,
                 "end_position": 22,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7744,13 +7744,13 @@
                 "sentence_idx": 1572,
                 "start_position": 52,
                 "end_position": 64,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7778,13 +7778,13 @@
                 "sentence_idx": 1576,
                 "start_position": 22,
                 "end_position": 34,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7914,13 +7914,13 @@
                 "sentence_idx": 1589,
                 "start_position": 60,
                 "end_position": 72,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -7931,13 +7931,13 @@
                 "sentence_idx": 1591,
                 "start_position": 57,
                 "end_position": 68,
-                "url": "https://www.geonames.org/5978182"
+                "url": "https://www.geonames.org/5978180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-96.29169",
-                    "50.60361"
+                    "-79.86215",
+                    "45.6234"
                 ]
             }
         },
@@ -8471,17 +8471,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britanniens",
+                "source_label": "grossbritanniens",
                 "sentence_idx": 1654,
                 "start_position": 121,
                 "end_position": 137,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -9750,13 +9750,13 @@
                 "sentence_idx": 1756,
                 "start_position": 200,
                 "end_position": 212,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/6354959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-56",
+                    "52"
                 ]
             }
         },
@@ -14030,17 +14030,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britannien",
+                "source_label": "grossbritannien",
                 "sentence_idx": 2249,
                 "start_position": 365,
                 "end_position": 380,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         },
@@ -14659,17 +14659,17 @@
         {
             "type": "Feature",
             "properties": {
-                "source_label": "gro britanniens",
+                "source_label": "grossbritanniens",
                 "sentence_idx": 2538,
                 "start_position": 0,
                 "end_position": 16,
-                "url": "https://www.geonames.org/None"
+                "url": "https://www.geonames.org/2648147"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    "-2",
+                    "54"
                 ]
             }
         }
