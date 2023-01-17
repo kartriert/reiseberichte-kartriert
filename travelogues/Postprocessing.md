@@ -35,13 +35,14 @@ Tatiana: Z69804407
 Since this text is about the colonization of the east coast of North America, the file contained an enormous number of ambiguous locations, such as "Ludwigsburg", "Brunswick", "New Castle", etc. This is why the manual post-correction of the file was done with the original source document at hand. Ambiguities were mostly eliminated by reading the source text and doing research on the area in question. The final document can be considered the most accurately corrected file and may therefore be useful for future research interests.
 
 Documentation of the manual post-correction:
+- All entries were kept in lowercase and no special characters were used in the final document
 - Locations divided in two entries (such as "rhode island" &rarr; "rhode" and "island") were put into one
 - Nonsense entries ("s", ";", "ahornbaum", "indigoblau", "berg mount", etc.) were deleted
 - Entities that referred to people ("dunmore" &rarr; gouverneur of Virginia ("Earl of Dunmore")) were deleted
 - Missing special characters made the identification of the correct location hard (e.g. "flu york" does not refer to "new york", but "fluß york", meaning the river York)
 - Some entries refer to regions whose borders are not the same today or do not exist anymore. In those cases, the coordinates of today's location were chosen (examples: "ost florida" &rarr; today's florida, "west florida" &rarr; today's louisiana)
-- Even though the coordinates of modern US were chosen for every occurence of "vereinigte Staaten von Amerika" (or similar entry), it should be kept in mind that the US only consisted of 13 colonies along the east coast at that time (source text published in 1783)
-- For every occurrence of "Amerika", North America was chosen. In instances where it was clear that only the United States (excluding Canada) were meant, the coordinates for the USA were chosen.
+- Even though the coordinates of modern US were chosen for every occurence of "vereinigte staaten von amerika" (or similar entry), it should be kept in mind that the US only consisted of 13 colonies along the east coast at that time (source text published in 1783)
+- For every occurrence of "amerika", North America was chosen. In instances where it was clear that only the United States (excluding Canada) were meant, the coordinates for the USA were chosen.
 - For every occurrence of "neu york", the source text was consulted to determine whether the state or the city (also occurring as "neu beligen") was meant
 - Names with "neu-" were not always recognized by the NER. This was accurately corrected for most entries by consulting the source document ("england" vs. "neu england", "schottland" vs. "neu schottland" (Nova Scotia), "frankreich" vs. "neu frankreich" (North America), "york" vs. "neu york", etc.)
 - Other ambiguities and educated guesses:
