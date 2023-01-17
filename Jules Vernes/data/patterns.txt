@@ -1,0 +1,89 @@
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Bombay",
+                "sentence_idx": 282,
+                "start_position": 14,
+                "end_position": 20,
+                "url": "https://www.geonames.org/1275339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "72.88261",
+                    "19.07283"
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Calcutta",
+                "sentence_idx": 283,
+                "start_position": 16,
+                "end_position": 24,
+                "url": "https://www.geonames.org/1275004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.36304",
+                    "22.56263"
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Dover",
+                "sentence_idx": 382,
+                "start_position": 33,
+                "end_position": 38,
+                "url": "https://www.geonames.org/4142290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.52437",
+                    "39.15817"
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Turin",
+                "sentence_idx": 707,
+                "start_position": 35,
+                "end_position": 40,
+                "url": "https://www.geonames.org/3165524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.68682",
+                    "45.07049"
+                ]
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "sentence_idx": 43,
+                "start_position": 40,
+                "end_position": 46,
+                "url": "https://www.geonames.org/2643743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.1065",
+                    "41.46678"
+                ]
+            }
+        },

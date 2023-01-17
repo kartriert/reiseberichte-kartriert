@@ -22,6 +22,33 @@ Tatiana: Z69804407
 - Some locations have been recognized that are **typical historical house names** in Germany (e. g. Zeughaus). Since it wasn't possible without context to know, in what city the mentioned Zeughaus would be located, they will not factor into the clustering. But from context, it should be possible to map these NEs to a city.
 - If there is more than one search result, how does Geonames pick one? E. g. "Hohenheim" was placed in Namibia, because the first search entry is in Namibia. Since the text mostly spoke about southern/eastern Germany, I used the german Hohenheim instead. Sometimes, alternative spelling seems to be taken into account, sometimes not?
 
+## Edda: Jules Verne
+
+```
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "London",
+                "sentence_idx": 43,
+                "start_position": 40,
+                "end_position": 46,
+                "url": "https://www.geonames.org/2643743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.1065",
+                    "41.46678"
+                ]
+            }
+        },
+````
+**Automatisch erkannte Geoname-ID passt oft nicht zu den automatisch erkannten Koordinaten >> vermutlich Problem im Skript. Manchmal auch nur geringfügige Abweichungen vom Geonames Datensatz, der hinter der ID liegt.**
+
+- öfter Verkehrsmittel als Geolocations erkannt
+- für Aurangabad **Wikidata-Datenobjekt** eingesetzt, weil Geonames darauf verwiesen hat
+
+
 ## Sarah: File Z114800707
 
 - Constantinopel not recognised as Konstantinopel/Istanbul.
