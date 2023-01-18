@@ -87,3 +87,39 @@
                 ]
             }
         },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Amerika",
+                "sentence_idx": 2931,
+                "start_position": 30,
+                "end_position": 37,
+                "url": "https://www.geonames.org/6255150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-98.5",
+                    "39.76"
+                ]
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "San Francisco",
+                "sentence_idx": 3069,
+                "start_position": 250,
+                "end_position": 263,
+                "url": "https://www.geonames.org/5391959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.029",
+                    "13.80657"
+                ]
+            }
+        },
