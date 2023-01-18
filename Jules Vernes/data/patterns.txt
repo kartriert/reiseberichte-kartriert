@@ -123,3 +123,20 @@
                 ]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "source_label": "Liverpool",
+                "sentence_idx": 4456,
+                "start_position": 48,
+                "end_position": 57,
+                "url": "https://www.geonames.org/2644210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.97794",
+                    "53.41058"
+                ]
+            }
+        },
