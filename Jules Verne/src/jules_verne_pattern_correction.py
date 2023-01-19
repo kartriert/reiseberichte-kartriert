@@ -1,17 +1,17 @@
 import json
 
-with open ("../data/jules_verne_80_days_de_archive.json", "r") as infile:
+with open ("Jules Verne/data/jules_verne_80_days_de_archive.json", "r") as infile:
     data = json.load(infile)
+    print("file loaded.")
 
 def set_url(json, url):
     json["properties"]["url"] = url
+    print("updated url.")
     return
 
 def set_coordinates(json, long, lat):
-    if long:
-        json["geometry"]["coordinates"] = [long,lat]
-    else:
-        json["geometry"]["coordinates"] = [None,None]
+    json["geometry"]["coordinates"] = [long,lat]
+    print("updated coordinates.")
     return
 
 for i in data["features"]:
@@ -53,11 +53,11 @@ for i in data["features"]:
 
     elif i["properties"]["source_label"] == "Doggs":
         set_url(i, "https://www.geonames.org/None")
-        set_coordinates(i)
+        set_coordinates(i, None, None)
 
     elif i["properties"]["source_label"] == "Fogg":
         set_url(i, "https://www.geonames.org/None")
-        set_coordinates(i)
+        set_coordinates(i, None, None)
 
-with open ("../data/jules_verne_80_days_de_archive.json", "w") as outfile:
+with open ("Jules Verne/data/jules_verne_80_days_de_archive.json", "w") as outfile:
     json.dump(data, outfile)
