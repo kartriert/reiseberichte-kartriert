@@ -41,13 +41,13 @@
                 "sentence_idx": 382,
                 "start_position": 33,
                 "end_position": 38,
-                "url": "https://www.geonames.org/4142290"
+                "url": "https://www.geonames.org/2651048"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-75.52437",
-                    "39.15817"
+                    "1.31257",
+                    "51.12598"
                 ]
             }
         },
@@ -82,8 +82,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-72.1065",
-                    "41.46678"
+                    "-0.12574",
+                    "51.50853"
                 ]
             }
         },
@@ -95,13 +95,13 @@
                 "sentence_idx": 2931,
                 "start_position": 30,
                 "end_position": 37,
-                "url": "https://www.geonames.org/6255150"
+                "url": "https://www.geonames.org/6255149"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-98.5",
-                    "39.76"
+                    "-100.54688",
+                    "46.07323"
                 ]
             }
         },
@@ -118,8 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-90.029",
-                    "13.80657"
+                    "-122.41942",
+                    "37.77493"
                 ]
             }
         },
