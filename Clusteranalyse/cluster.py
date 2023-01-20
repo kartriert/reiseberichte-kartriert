@@ -17,12 +17,12 @@ for n, d in data:
   # Cluster aus Daten bilden
   cluster, txt = fu.new_cluster(liste)
 
-  #Ausgabe als Textfile
+  # Ausgabe als Datei
   '''
   with open("reiseberichte-kartriert/Clusteranalyse/data/Text/" + n + "_cluster.txt", "w") as outfile:
     outfile.write(fu.strli(cluster))
   '''
-  fu.save_geojson(liste, cluster, n)
+  fu.save_geojson(liste, cluster, n, 'reiseberichte-kartriert/Clusteranalyse/data/')
 
   # Bestätigung der nächsten Datei
   input()

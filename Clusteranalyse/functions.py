@@ -26,6 +26,7 @@ def get_data( allgem_pfad ):
     
     return data
 
+
 def get_liste( geo ):
     """
         Daten aus geojson extrahieren und in Form bringen
@@ -66,6 +67,7 @@ def get_liste( geo ):
             fehler.add(feature["properties"]["source_label"])
 
     return fli, sli, h,  fehler
+
 
 
 '''
@@ -112,6 +114,7 @@ def dbscan(treffer, eps, minPts, dim):
 
   return cluster, data
 
+
 def expandCluster(pkt, nachbarn, cluster, eps, minPts, treffer, data, dim):
   """
     Hilfsfunktion für die DBScan-Funktion: Expandiert ein Cluster.
@@ -154,6 +157,7 @@ def expandCluster(pkt, nachbarn, cluster, eps, minPts, treffer, data, dim):
 
   return data
 
+
 def regionQuery(treffer, punkt, eps, dim):
   """
     Hilfsfunktion für die DBScan-Funktion: Sucht Nachbarn eines Punktes.
@@ -183,6 +187,7 @@ def regionQuery(treffer, punkt, eps, dim):
           nachbarn.append(i)
           
   return nachbarn
+
 
 
 '''
@@ -222,7 +227,8 @@ def cluster (dict, eps, minp, dim):
 
     return final
 
-def strli(li):
+
+def list_to_string(li):
     """
         Hilfsfunktion für die Wandling einer Liste in einen String.
         Input:
@@ -236,7 +242,7 @@ def strli(li):
     for e in li:
         # Falls der EIntrag eine Liste ist, mache einen rekursiven Aufruf
         if type(e) == list:
-            r += strli(e)
+            r += list_to_string(e)
         # Sonst: Hänge Inhalt an
         else:
             r += " " + str(e) + ", "
@@ -260,7 +266,7 @@ def new_cluster(li):
     text += "******************************************\n"
     # Cluster bilden
     c = cluster(li, 20, 3, 3)
-    text += strli(c) 
+    text += list_to_string(c) 
     text += "\n"
     text += "******************************************\n"
     l1 = 0
@@ -271,7 +277,7 @@ def new_cluster(li):
         l2 = 0
         xl = len(c[i])
         x = cluster(c[i], 15, 3, 3)
-        text += strli(x) 
+        text += list_to_string(x) 
         text += "\n"
         text += "Länge vor der Clusterbildung: " + str(xl)
         text += "\n"
@@ -282,7 +288,7 @@ def new_cluster(li):
             l3 = 0
             yl = len(x[j])
             y = cluster(x[j], 10, 3, 3)
-            text += strli(y)
+            text += list_to_string(y)
             text += "\n"
             text += "Länge vor der Clusterbildung: " + str(yl)
             text += "\n"
@@ -307,11 +313,23 @@ def new_cluster(li):
     return re, text
 
 
+
 '''
   # Speicherung
 '''
 
-def save_geojson (dict, cluster, name):
+def save_fc(filename, features):
+    """
+        Hilfsfunktion zur Speicherung  von Feature-Collections in geojsons.
+        Input:
+            filename:    String, Pfad und Name der resultierenden Datei
+            features:    FeatureCollection, Inhalte der Datei
+    """
+    with open(filename + '.geojson', 'w') as f:
+            dump(features, f)
+
+
+def save_geojson (dict, cluster, name, pfad):
     """
         Funktion für die Clusterspeicherung.
         Input:
@@ -328,8 +346,7 @@ def save_geojson (dict, cluster, name):
             features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
         feature_collection = FeatureCollection(features)
         # Abspeichern
-        with open('reiseberichte-kartriert/Clusteranalyse/data/' + name + '/' + name + '_bookpgcl' + str(i) + '.geojson', 'w') as f:
-            dump(feature_collection, f)
+        save_fc(pfad + name + '/' + name + '_cl' + str(i), feature_collection)
         
         #Untercluster betrachten
         for j in range(1, len(cluster[i])):
@@ -338,10 +355,9 @@ def save_geojson (dict, cluster, name):
             for punkt in cluster[i][j][0]:
                 my_point = Point((punkt[0]-180, punkt[1]-180))
                 features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
-            # Abspeichern
             feature_collection = FeatureCollection(features)
-            with open('reiseberichte-kartriert/Clusteranalyse/data/' + name + '/' + name + '_bookpgcl' + str(i)+ '_' + str(j) + '.geojson', 'w') as f:
-                dump(feature_collection, f)
+            # Abspeichern
+            save_fc(pfad + name + '/' + name + '_cl' + str(i)+ '_' + str(j), feature_collection)
             
             # tiefstes Untercluster betrachten
             for l in range(1, len(cluster[i][j])):
@@ -352,8 +368,7 @@ def save_geojson (dict, cluster, name):
                     features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
                 feature_collection = FeatureCollection(features)
                 # Abspeichern
-                with open('reiseberichte-kartriert/Clusteranalyse/data/' + name + '/' + name + '_bookpgcl' + str(i)+ '_' + str(j) + '_' + str(l) + '.geojson', 'w') as f:
-                    dump(feature_collection, f)
+                save_fc(pfad + name + '/' + name + '_cl' + str(i)+ '_' + str(j) + '_' + str(l), feature_collection)
                 
 
 
