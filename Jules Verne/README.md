@@ -14,7 +14,7 @@ Download link for the text version used here: https://archive.org/stream/JulesVe
 ## Applied Workflow:
 
 + [src/ner_jules_verne.py](src/ner_jules_verne.py) applied to [data/jules_verne_80_days_de_archive.txt](data/jules_verne_80_days_de_archive.txt)
-+ [src/ner_jules_verne.py](src/ner_jules_verne.py) function ```dummy_save_to_outfile```creates [data/jules_verne_80_days_de_archive_ner_results.txt](data/jules_verne_80_days_de_archive_ner_results.txt) as a rough insight into the NER result per sentence
++ [src/ner_jules_verne.py](src/ner_jules_verne.py) function ```dummy_save_to_outfile``` creates [data/jules_verne_80_days_de_archive_ner_results.txt](data/jules_verne_80_days_de_archive_ner_results.txt) as a rough insight into the NER result per sentence
 + [src/ner_jules_verne.py](src/ner_jules_verne.py) creates [data/jules_verne_80_days_de_archive.json](data/jules_verne_80_days_de_archive.json)
 + JSON file contains recognizes locations in the following structure:
 
