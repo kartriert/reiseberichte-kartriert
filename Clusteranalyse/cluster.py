@@ -22,7 +22,8 @@ for n, d in data:
   with open("reiseberichte-kartriert/Clusteranalyse/data/Text/" + n + "_cluster.txt", "w") as outfile:
     outfile.write(fu.strli(cluster))
   '''
-  fu.save_geojson(liste, cluster, n, 'reiseberichte-kartriert/Clusteranalyse/data/')
+  print("Datei wird gespeichert")
+  fu.save_geojson(liste, cluster, n, 'kartriert.github.io/data/cluster/')
 
   # Bestätigung der nächsten Datei
   input()
