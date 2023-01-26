@@ -337,6 +337,7 @@ def save_geojson (dict, cluster, name, pfad):
             cluster:    int, Clusterliste
             name:       String, Dateiname
     """
+    zifname = 0
     # Alle Cluster durchgehen
     for i in range(0, len(cluster)):
         # Feature erstellen
@@ -346,7 +347,7 @@ def save_geojson (dict, cluster, name, pfad):
             features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
         feature_collection = FeatureCollection(features)
         # Abspeichern
-        save_fc(pfad + name + '/' + name + '_cl' + str(i), feature_collection)
+        #save_fc(pfad + name + '/' + name + '_cl' + str(i), feature_collection)
         
         #Untercluster betrachten
         for j in range(1, len(cluster[i])):
@@ -357,8 +358,12 @@ def save_geojson (dict, cluster, name, pfad):
                 features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
             feature_collection = FeatureCollection(features)
             # Abspeichern
-            save_fc(pfad + name + '/' + name + '_cl' + str(i)+ '_' + str(j), feature_collection)
-            
+            zifname += 1
+            if (zifname == 1):
+                fc0 = feature_collection
+            else:
+                save_fc(pfad + name + '_cl' + str(zifname), feature_collection)
+            '''
             # tiefstes Untercluster betrachten
             for l in range(1, len(cluster[i][j])):
                 # Features erstellen
@@ -369,7 +374,9 @@ def save_geojson (dict, cluster, name, pfad):
                 feature_collection = FeatureCollection(features)
                 # Abspeichern
                 save_fc(pfad + name + '/' + name + '_cl' + str(i)+ '_' + str(j) + '_' + str(l), feature_collection)
-                
+            '''
+    fc0[0]["properties"]["cluster_total"] = zifname
+    save_fc(pfad + name + '_cl' + str(1), fc0)
 
 
 
