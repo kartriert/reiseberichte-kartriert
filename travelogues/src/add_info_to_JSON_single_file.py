@@ -5,7 +5,7 @@ import os
 import geocoder
 
 # Enter the filename if you want to process only a single file.
-file = '../data/output/text_ner/Z103519403.json'
+file = '../might_need_later/data/Z103519403.json'
 with open (file, 'r') as f:
     json_file = json.load(f)
     for feature in json_file["features"]:
