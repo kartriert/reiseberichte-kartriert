@@ -1,7 +1,11 @@
 import json
+import geocoder
 import math
 import glob
+import nltk
+nltk.download('punkt')
 from geojson import Feature, Point, FeatureCollection, dump
+
 
 '''
   # Datenmanagement
@@ -27,6 +31,40 @@ def get_data( allgem_pfad ):
     return data
 
 
+def get_sentences( name ):
+    """
+        Text in Sätze einteilen und abspeichern
+        Input: 
+            name:   Name für Dateipfad
+        Output:
+            list,   Sätze
+    """
+    # Variablen initialisieren
+    pfad = "reiseberichte-kartriert/travelogues/data/18th_century_first_quarter_corr/" + name + ".txt"
+
+    file: str = open(pfad, 'r').read()
+    sents = nltk.sent_tokenize(file, language='german')
+    
+    return sents
+    
+    
+def get_label(url):
+    """
+        Daten aus URL extrahieren
+        Input: 
+            url:    geonames URL zu Ort
+        Output:
+            String, Ortsname
+    """
+    # Bearbeite URL
+    g_id = url.split("/")
+    # Extrahiere Daten
+    g = geocoder.geonames(g_id[-1], method='details', key='kartriert')
+    
+    return g.address
+    
+
+
 def get_liste( geo ):
     """
         Daten aus geojson extrahieren und in Form bringen
@@ -37,7 +75,7 @@ def get_liste( geo ):
                         [float(Coord1), float(Coord2), int(Sentence_idx), String(Source_label)]
             list,   mit Listenelementen der Form:
                         [int(Sentence_idx)]
-            int,    Höchstwert von Sentence_idx
+            int,    genutzter Höchstwert von Sentence_idx
             set,    Source_label aller Fehlerhaften Einträge
     """
     # Variablen initialisieren
@@ -56,7 +94,7 @@ def get_liste( geo ):
             coor[1] = float(coor[1]) + 180
             coor.append(int(feature["properties"]["sentence_idx"]))
             sli.append([int(feature["properties"]["sentence_idx"])])
-            coor.append(feature["properties"]["source_label"])
+            coor.append(get_label(feature["properties"]["url"]))
             # h setzen
             if (feature["properties"]["sentence_idx"] > h):
                 h = feature["properties"]["sentence_idx"]
@@ -228,89 +266,24 @@ def cluster (dict, eps, minp, dim):
     return final
 
 
-def list_to_string(li):
-    """
-        Hilfsfunktion für die Wandling einer Liste in einen String.
-        Input:
-            li: list, Liste zur Umwandlung
-        Output:
-            String, Aus Listeninhalt erstellter String
-    """
-    # Beginn der Liste
-    r = "[ "
-    # Durchgehen der Liste
-    for e in li:
-        # Falls der EIntrag eine Liste ist, mache einen rekursiven Aufruf
-        if type(e) == list:
-            r += list_to_string(e)
-        # Sonst: Hänge Inhalt an
-        else:
-            r += " " + str(e) + ", "
-
-    return r + "] "
-
-
 def new_cluster(li):
     """
         Funktion zur Erstellung der Cluster
         Input:
-            li: list, Liste zur Clustererstellung
+            li: list, Ortsliste zur Clustererstellung
         Output:
             list,   Liste mit Clustern
-            String, Aus Clustern erstellter String für eine .txt Datei
     """
     # Variablen initialisieren
     re = []
-    text = ""
-    # 12; 6; 0.5
-    text += "******************************************\n"
+
     # Cluster bilden
     c = cluster(li, 20, 3, 3)
-    text += list_to_string(c) 
-    text += "\n"
-    text += "******************************************\n"
-    l1 = 0
     # Zweite Ebene Cluster erstellen
     for i in range(0, len(c)):
-        re.append([c[i]])
-        text += "<=============================================\n"
-        l2 = 0
-        xl = len(c[i])
-        x = cluster(c[i], 15, 3, 3)
-        text += list_to_string(x) 
-        text += "\n"
-        text += "Länge vor der Clusterbildung: " + str(xl)
-        text += "\n"
-        # Dritte Ebene Cluster erstellen
-        for j in range(0, len(x)):
-            re[i].append([x[j]])
-            text += "<-------------------------------------------------\n"
-            l3 = 0
-            yl = len(x[j])
-            y = cluster(x[j], 10, 3, 3)
-            text += list_to_string(y)
-            text += "\n"
-            text += "Länge vor der Clusterbildung: " + str(yl)
-            text += "\n"
-            ## Nur zum zählen der Listeninhalte
-            for l in range (0, len(y)):
-                re[i][j+1].append([y[l]])
-                l3 += len(y[l])
-            l2 += len(y)
-            text += "Länge nach der Clusterbildung: " + str(l3)
-            text += "\n"
-            text += "------------------------------------------------->\n"
-        l1 += l2
-        text += "Länge nach der Clusterbildung: " + str(l2)
-        text += "\n"
-        text += "=============================================>\n"
+        re.extend(cluster(c[i], 15, 3, 3))
 
-    text += "###########################################\n"
-    text += str(l1)
-    text += "\n"
-    text += "###########################################\n"
-
-    return re, text
+    return re
 
 
 
@@ -329,11 +302,10 @@ def save_fc(filename, features):
             dump(features, f)
 
 
-def save_geojson (dict, cluster, name, pfad):
+def save_geojson (cluster, name, pfad, sentences):
     """
         Funktion für die Clusterspeicherung.
         Input:
-            dict:       list, mehrdimensionale Liste der Treffer
             cluster:    int, Clusterliste
             name:       String, Dateiname
     """
@@ -342,39 +314,21 @@ def save_geojson (dict, cluster, name, pfad):
     for i in range(0, len(cluster)):
         # Feature erstellen
         features = []
-        for punkt in cluster[i][0]:
+        for punkt in cluster[i]:
             my_point = Point((punkt[0]-180, punkt[1]-180))
-            features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
-        feature_collection = FeatureCollection(features)
-        # Abspeichern
-        #save_fc(pfad + name + '/' + name + '_cl' + str(i), feature_collection)
-        
-        #Untercluster betrachten
-        for j in range(1, len(cluster[i])):
-            # Feature erstellen
-            features = []
-            for punkt in cluster[i][j][0]:
-                my_point = Point((punkt[0]-180, punkt[1]-180))
-                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
-            feature_collection = FeatureCollection(features)
-            # Abspeichern
-            zifname += 1
-            if (zifname == 1):
-                fc0 = feature_collection
+            if (sentences != []):
+                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2], "sentence": sentences[punkt[2]]}))
             else:
-                save_fc(pfad + name + '_cl' + str(zifname), feature_collection)
-            '''
-            # tiefstes Untercluster betrachten
-            for l in range(1, len(cluster[i][j])):
-                # Features erstellen
-                features = []
-                for punkt in cluster[i][j][l][0]:
-                    my_point = Point((punkt[0]-180, punkt[1]-180))
-                    features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
-                feature_collection = FeatureCollection(features)
-                # Abspeichern
-                save_fc(pfad + name + '/' + name + '_cl' + str(i)+ '_' + str(j) + '_' + str(l), feature_collection)
-            '''
+                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
+        feature_collection = FeatureCollection(features)
+
+        # Abspeichern
+        zifname += 1
+        if (zifname == 1):
+            fc0 = feature_collection
+        else:
+            save_fc(pfad + name + '_cl' + str(zifname), feature_collection)
+    # Erster Eintrag im ersten Cluster erhält Gesamtanzahl der Cluster dieses Textes
     fc0[0]["properties"]["cluster_total"] = zifname
     save_fc(pfad + name + '_cl' + str(1), fc0)
 

@@ -9,22 +9,26 @@ data = fu.get_data(pfad)
 
 # Dateien durchgehen
 for n, d in data:
+  # Terminalkonversation
   print("Neue Datei wird bearbeitet...")
   print (n)
+  print("Bitte bestätigen sie die Verarbeitung der Datei (enter).")
+  input()
+
+  # weitere Daten extrahieren
+  sentences = []
+  #sentences = fu.get_sentences( n )
+
   # Daten in Form bringen
   liste, satzliste, h, fehler = fu.get_liste(d)
+  print("Ortsliste wurde erstellt und wird nun geclustert...")
 
   # Cluster aus Daten bilden
-  cluster, txt = fu.new_cluster(liste)
+  cluster = fu.new_cluster(liste)
+  print("Clustering ist abgeschlossen, die Cluster werden nun gespeichert...")
 
   # Ausgabe als Datei
-  '''
-  with open("reiseberichte-kartriert/Clusteranalyse/data/Text/" + n + "_cluster.txt", "w") as outfile:
-    outfile.write(fu.strli(cluster))
-  '''
-  print("Datei wird gespeichert")
-  fu.save_geojson(liste, cluster, n, 'kartriert.github.io/data/cluster/')
+  fu.save_geojson(cluster, n, 'kartriert.github.io/data/cluster/', sentences)
 
-  # Bestätigung der nächsten Datei
-  input()
+  print("Datei wurde gespeichert. ")
 
