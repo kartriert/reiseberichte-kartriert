@@ -48,29 +48,35 @@ def get_sentences( name ):
     return sents
     
     
-def get_label(url):
+def get_label( url, gnl ):
     """
         Daten aus URL extrahieren
         Input: 
             url:    geonames URL zu Ort
+            gnl:    bereits angelegte geonames Liste
         Output:
             String, Ortsname
+            dict,   aktualisierte Liste
     """
     # Bearbeite URL
     g_id = url.split("/")
-    # Extrahiere Daten
-    g = geocoder.geonames(g_id[-1], method='details', key='kartriert')
     
-    return g.address
+    # Extrahiere gegebenenfalls Daten
+    if not g_id[-1] in gnl:
+        gnl[g_id[-1]] = geocoder.geonames(g_id[-1], method='details', key='kartriert').address
+
+    return gnl[g_id[-1]], gnl
     
 
 
-def get_liste( geo ):
+def get_liste( geo, gnl ):
     """
         Daten aus geojson extrahieren und in Form bringen
         Input: 
             geo:    Inhalt einer geojson-Datei
+            gnl:    bereits angelegte geonames Liste
         Output:
+            dict,   aktualisierte Liste
             list,   mit Listenelementen der Form:
                         [float(Coord1), float(Coord2), int(Sentence_idx), String(Source_label)]
             list,   mit Listenelementen der Form:
@@ -94,7 +100,10 @@ def get_liste( geo ):
             coor[1] = float(coor[1]) + 180
             coor.append(int(feature["properties"]["sentence_idx"]))
             sli.append([int(feature["properties"]["sentence_idx"])])
-            coor.append(get_label(feature["properties"]["url"]))
+            coor.append(feature["properties"]["source_label"])
+            l, gnl = get_label(feature["properties"]["url"], gnl)
+            coor.append(l)
+            coor.append(feature["properties"]["url"])
             # h setzen
             if (feature["properties"]["sentence_idx"] > h):
                 h = feature["properties"]["sentence_idx"]
@@ -104,7 +113,7 @@ def get_liste( geo ):
             # Fehlerhafte Einträge speichern
             fehler.add(feature["properties"]["source_label"])
 
-    return fli, sli, h,  fehler
+    return gnl, fli, sli, h,  fehler
 
 
 
@@ -302,14 +311,17 @@ def save_fc(filename, features):
             dump(features, f)
 
 
-def save_geojson (cluster, name, pfad, sentences):
+def save_geojson (cluster, name, pfad, sentences = []):
     """
         Funktion für die Clusterspeicherung.
         Input:
             cluster:    int, Clusterliste
             name:       String, Dateiname
+            pfad:       String, Pfad zum Ordner, in den die Clustergespeichert werden
+            sentences:  list, Sätze mit den Sentence IDs
     """
     zifname = 0
+
     # Alle Cluster durchgehen
     for i in range(0, len(cluster)):
         # Feature erstellen
@@ -317,9 +329,9 @@ def save_geojson (cluster, name, pfad, sentences):
         for punkt in cluster[i]:
             my_point = Point((punkt[0]-180, punkt[1]-180))
             if (sentences != []):
-                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2], "sentence": sentences[punkt[2]]}))
+                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "geonames_label": punkt[4], "url": punkt[5], "sentence_idx": punkt[2], "sentence": sentences[punkt[2]]}))
             else:
-                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "sentence_idx": punkt[2]}))
+                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "geonames_label": punkt[4], "url": punkt[5], "sentence_idx": punkt[2]}))
         feature_collection = FeatureCollection(features)
 
         # Abspeichern
@@ -333,27 +345,29 @@ def save_geojson (cluster, name, pfad, sentences):
     save_fc(pfad + name + '_cl' + str(1), fc0)
 
 
-
-
-def mittelwert (liste):
+def write_dict(data, pfad):
     """
-        Hilfsfunktion für die Mittelwertberechnung.
+        Funktion zum Abspeichern eines Lexikon (dictionary)
         Input:
-        liste:    list, zweidimensionale Liste der Treffer
-        Output:
-        int, int,   Latidute und Longitude
+            data:   dict, Lexikon der Verbindungen zwischen geonamesURL (nur Ziffernteil) und dortigem Namen
+            pfad:   String, an dem das dictionary abgespeichert wird
     """
-    # Variablen initialisieren
-    x = 0
-    y = 0
-    
-    # Summen erstellen
-    for e in liste:
-        x += e[0]
-        y += e[1]
+    with open(pfad, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
-    # Summen durch Gesamtanzahl teilen
-    x = x / len(liste)
-    y = y / len(liste)
 
-    return x, y
+def extract_labels(pfad):
+    """
+        Funktion zum lesen eines Lexikon (dictionary)
+        Input:
+            pfad:   String, an dem das dictionary abgespeichert wird
+        Output:
+            dict,   Lexikon der Verbindungen zwischen geonamesURL (nur Ziffernteil) und dortigem Namen
+    """
+    try:
+        with open(pfad, 'r', encoding='utf-8') as f:
+            geoname_dict = json.load( open( pfad ) )
+    except FileNotFoundError:
+        geoname_dict = {}
+    return geoname_dict
+

@@ -3,9 +3,9 @@
 ## Introduction
 
 Goal of the clustering is the tightening and structuring of the data of each book. To reach this goal a DBSCAN-algorithm was used with the three values of latidute, longitude and sentence_idx. The formula for the distance is as followed:
-
+~~~
 math.sqrt(abs(treffer[i][0]-treffer[punkt][0])**2 + abs(treffer[i][1]-treffer[punkt][1])**2 + abs((treffer[i][2]-treffer[punkt][2])/1.1)**2)
-
+~~~
 The data will be clustered two times in the way, that each of the resulting clusters of the first overall clustering will be clustered again. 
 
 ## Data Output
@@ -23,18 +23,18 @@ There are  main parts:
 
 ### Data Extraction
 
-For the data extraction the finished and corrected travelogues .geojson-files are used (found here: reiseberichte-kartriert/travelogues/data/output/text_ner/with_url/finished/*) <get_data()>. There is also an option to get the full sentences to save them in the resulting geojson <get_sentences>, but this feature is not working properly right now (there are places not matching the resulting sentence). It is disabled for this reason.
+First, the data for the dictionary giving the geonames will be extracted <extract_labels()>. In this file is a lokal Copy for the used geonames, so they do not need to be asked for more than once. It will be saved in the data file. For the further data extraction the finished and corrected travelogues and jules verne .geojson-files are used (found here: reiseberichte-kartriert/travelogues/data/output/text_ner/with_url/finished/* and reiseberichte-kartriert/Clusteranalyse/data/geoname_dict.json) <get_data()>. There is also an option to get the full sentences to save them in the resulting geojson <get_sentences()>, but this feature is not working properly right now (there are places not matching the resulting sentence and it is only for the Travelogues data, since there is a file for Jules Verne, that is not in use, too). It is disabled for this reason.
 
 Once the data is extracted it will be put in the form needed: A Python-List <get_list()>. Every geojson-entry ends in an entry of the list, resulting in the following form (for a geojson with n entries):
 ~~~
 [
-    [coord0_0, coord1_0, sentenceIDX_0, place_0],
-    [coord0_1, coord1_1, sentenceIDX_1, place_1],
+    [coord0_0, coord1_0, sentenceIDX_0, place_0, geoname_0],
+    [coord0_1, coord1_1, sentenceIDX_1, place_1, geoname_1],
     ...
-    [coord0_n, coord1_n, sentenceIDX_n, place_n]
+    [coord0_n, coord1_n, sentenceIDX_n, place_n, geoname_n]
 ]
 ~~~
-Both coordinates are doubles and the sentenceIDX is an integer, both found in the given geojson, while place is a string extracted from geonames with the help of the given url <get_label()>. Also, it is not only the list retrieved, but further information, too. That is to say, that theese are not used right now, but are possible nice for future development. There are this three values on top of the earlier mentioned list:
+Both coordinates are doubles and the sentenceIDX is an integer, both found in the given geojson, while place is a string extracted from geonames with the help of the given url <get_label()> (the data from the extract_labels-file is used to spare time and prevent the program from spamming geonames). Also, it is not only the list retrieved, but further information, too. That is to say, that theese are not used right now, but are possible nice for future development. There are this three values on top of the earlier mentioned list:
 - sentence index list (sli): List of all indices of the sentences mentioned in the given geojson in the same order than the other list
 - highest sentence index found (h): Not just last, but compared each time a new entry is put to the list
 - problems with the geojson (fehler): List of all source_labels, that could not be put to the list (e.g: they had the wrong format)
@@ -48,19 +48,15 @@ The next step is the clustering <new_cluster()>. The clusters are ordered from l
 
 ### Saving
 
-Last part is the saving of the resulting data. For every entry in every cluster for every file there is a depending geojson file output in the form shown in Data Output. Used is the geojson library to create Feature Collections and save them as .geojsons to the data of kartriert.github.io directly.
+Last part is the saving of the resulting data. For every entry in every cluster for every file there is a depending geojson file output in the form shown in Data Output. Used is the geojson library to create Feature Collections and save them as .geojsons to the data of kartriert.github.io directly. The data is saved on the backend of the Website directly: kartriert.github.io/data/cluster/ and kartriert.github.io/data/cluster_verne/.
 
 ## Bugs, Issues and Features on the run
 
 ### Bugs
 
-- Output includes original placename and geoname place
+- Sentence not correct
 
 ### Futere Goals
-
-#### Near Future Improvements
-- !Pass URL to geojson
-- Sentence not correct
 
 #### Next Steps
 - Finetuning of the distance math
