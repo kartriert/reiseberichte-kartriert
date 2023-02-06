@@ -40,7 +40,10 @@ def get_sentences( name ):
             list,   Sätze
     """
     # Variablen initialisieren
-    pfad = "reiseberichte-kartriert/travelogues/data/18th_century_first_quarter_corr/" + name + ".txt"
+    if (name == "jules_verne_80_days_de_archive"):
+        pfad = "reiseberichte-kartriert/Jules Verne/data/jules_verne_80_days_de_archive.txt"
+    else:
+        pfad = "reiseberichte-kartriert/travelogues/data/18th_century_first_quarter_corr/" + name + ".txt"
 
     file: str = open(pfad, 'r').read()
     sents = nltk.sent_tokenize(file, language='german')
