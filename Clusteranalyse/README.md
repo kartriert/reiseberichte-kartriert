@@ -28,10 +28,10 @@ First, the data for the dictionary giving the geonames will be extracted <extrac
 Once the data is extracted it will be put in the form needed: A Python-List <get_list()>. Every geojson-entry ends in an entry of the list, resulting in the following form (for a geojson with n entries):
 ~~~
 [
-    [coord0_0, coord1_0, sentenceIDX_0, place_0, geoname_0],
-    [coord0_1, coord1_1, sentenceIDX_1, place_1, geoname_1],
+    [coord0_0, coord1_0, sentenceIDX_0, place_0, geoname_0, url_0],
+    [coord0_1, coord1_1, sentenceIDX_1, place_1, geoname_1, url_1],
     ...
-    [coord0_n, coord1_n, sentenceIDX_n, place_n, geoname_n]
+    [coord0_n, coord1_n, sentenceIDX_n, place_n, geoname_n, url_n]
 ]
 ~~~
 Both coordinates are doubles and the sentenceIDX is an integer, both found in the given geojson, while place is a string extracted from geonames with the help of the given url <get_label()> (the data from the extract_labels-file is used to spare time and prevent the program from spamming geonames). Also, it is not only the list retrieved, but further information, too. That is to say, that theese are not used right now, but are possible nice for future development. There are this three values on top of the earlier mentioned list:
