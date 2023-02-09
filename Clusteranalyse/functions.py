@@ -330,11 +330,13 @@ def save_geojson (cluster, name, pfad, sentences = []):
         # Feature erstellen
         features = []
         for punkt in cluster[i]:
-            my_point = Point((punkt[0]-180, punkt[1]-180))
+            punkt[0] = punkt[0]-180
+            punkt[1] = punkt[1]-180
+            my_point = Point((punkt[0], punkt[1]))
             if (sentences != []):
-                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "geonames_label": punkt[4], "url": punkt[5], "sentence_idx": punkt[2], "sentence": sentences[punkt[2]]}))
+                features.append(Feature(geometry=my_point, properties={"source_label": str(punkt[3]), "geonames_label": str(punkt[4]), "url": str(punkt[5]), "sentence_idx": str(punkt[2]), "sentence": str(sentences[punkt[2]])}))
             else:
-                features.append(Feature(geometry=my_point, properties={"source_label": punkt[3], "geonames_label": punkt[4], "url": punkt[5], "sentence_idx": punkt[2]}))
+                features.append(Feature(geometry=my_point, properties={"source_label": str(punkt[3]), "geonames_label": str(punkt[4]), "url": str(punkt[5]), "sentence_idx": str(punkt[2])}))
         feature_collection = FeatureCollection(features)
 
         # Abspeichern
@@ -344,7 +346,7 @@ def save_geojson (cluster, name, pfad, sentences = []):
         else:
             save_fc(pfad + name + '_cl' + str(zifname), feature_collection)
     # Erster Eintrag im ersten Cluster erhält Gesamtanzahl der Cluster dieses Textes
-    fc0[0]["properties"]["cluster_total"] = zifname
+    fc0[0]["properties"]["cluster_total"] = str(zifname)
     save_fc(pfad + name + '_cl' + str(1), fc0)
 
 
