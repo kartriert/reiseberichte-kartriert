@@ -311,7 +311,7 @@ def save_fc(filename, features):
             features:    FeatureCollection, Inhalte der Datei
     """
     with open(filename + '.geojson', 'w') as f:
-            dump(features, f)
+            dump(features, f, indent=4)
 
 
 def save_geojson (cluster, name, pfad, sentences = []):
